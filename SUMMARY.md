@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DIVOC Home](README.md)
+* [DIVOC](README.md)
 * [Understand DIVOC](understand-divoc.md)
 * [Tech Docs](tech-docs.md)
 * [FAQ](faq.md)
