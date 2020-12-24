@@ -14,15 +14,15 @@ Any country can freely use DIVOC, manage the platform within their control, and 
 
 ## **Can countries host it themselves? Who can help?**
 
-Yes, countries can host it themselves and keep all control to themselves including data. Countries may engage any consulting and system integrator organization to help install, configure, run, monitor, and manage.
+**Yes**, countries can host it themselves and keep all control to themselves including data. Countries may engage any consulting and system integrator organization to help install, configure, run, monitor, and manage.
 
 ## **Given new medicines will be approved, how does DIVOC allow the flexibility to on-board newly approved vaccinations?**
 
-Yes, DIVOC provides an approved medicine registry which allows authorities to add/remove approved vaccination medicines along with their frequencies.
+**Yes**, DIVOC provides an approved medicine registry which allows authorities to add/remove approved vaccination medicines along with their frequencies.
 
 ## **I want to use DIVOC to manage multiple vaccination programs across various parts of the country. Is that possible?**
 
-Yes, DIVOC is designed to manage multiple vaccination programs concurrently. For each program, both facilities and medicines can be managed within DIVOC.
+**Yes**, DIVOC is designed to manage multiple vaccination programs concurrently. For each program, both facilities and medicines can be managed within DIVOC.
 
 ## **Does DIVOC allow only Govt facilities or does it in any way mandate use of private facilities?**
 
@@ -30,19 +30,19 @@ DIVOC software platform is built to provide flexibility to the adopter through t
 
 ## **Does DIVOC allow the adopter to control the rollout of vaccination in particular geographies?**
 
-Yes, adopters can "activate" only those facilities in particular geographic areas if they wish to roll out region by region. Activation and deactivation can be done as an ongoing basis allowing on-boarding and off-boarding of facilities and operators.
+**Yes**, adopters can "activate" only those facilities in particular geographic areas if they wish to roll out region by region. Activation and deactivation can be done as an ongoing basis allowing on-boarding and off-boarding of facilities and operators.
 
 ## **Does the DIVOC system allow viewing the supply of medicines against vaccination done so far at various levels from facility all the way to the country?**
 
-Yes, DIVOC facility registry can capture supply count of medicine per facility and can track vaccinations against it. Analytics module of DIVOC provides analytics related to this at various aggregation levels such as facility, district, state, and country. While DIVOC does not handle the actual supply and inventory management, it can easily be integrated to such systems to keep supply count up to date.
+**Yes**, DIVOC facility registry can capture supply count of medicine per facility and can track vaccinations against it. Analytics module of DIVOC provides analytics related to this at various aggregation levels such as facility, district, state, and country. While DIVOC does not handle the actual supply and inventory management, it can easily be integrated to such systems to keep supply count up to date.
 
 ## **Does DIVOC allow the adopter to control the rollout rate based on medicine supply?**
 
-Yes, adopters can specify "per facility, per day" rate within the registry to ensure throttled roll out based on medicine supply. At any time, adopters can change the control parameters to increase/decrease rate of rollout in various geographies.
+**Yes**, adopters can specify "per facility, per day" rate within the registry to ensure throttled roll out based on medicine supply. At any time, adopters can change the control parameters to increase/decrease rate of rollout in various geographies.
 
 ## **I have 1000's of facilities. Can I manage facility parameters based at region level instead of one by one?**
 
-Yes, DIVOC allows facility and operator control parameters to be updated in bulk for a whole region such as district or state making management easier.
+**Yes**, DIVOC allows facility and operator control parameters to be updated in bulk for a whole region such as district or state making management easier.
 
 ## **What happens to people who have no mobile or ID of any sort?**
 
