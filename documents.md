@@ -16,8 +16,6 @@ Coming soon …
 
 Currently DIVOC is in Beta mode. DIVOC team is constantly updating software documentation and will be made available through this page.
 
-
-
 [Report issues and suggest features here](https://github.com/bharat-dpi/DIVOC/issues)
 
 [Ask questions and discuss here](https://github.com/bharat-dpi/DIVOC/discussions)

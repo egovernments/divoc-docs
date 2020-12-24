@@ -20,9 +20,7 @@ description: 'Presentations, Videos, and Articles'
 
        Coming soon …
 
-## Relevant External Links <a id="relevant-external-links"></a>
-
-### Videos <a id="videos"></a>
+## Press releases <a id="relevant-external-links"></a>
 
 {% embed url="https://www.youtube.com/watch?v=vJRgkhsVvmA" %}
 
