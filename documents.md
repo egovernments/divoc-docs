@@ -2,7 +2,7 @@
 description: Relevant Software and Developer Documentation
 ---
 
-# Documents
+# Tech Docs
 
 Currently DIVOC is in Beta mode. DIVOC team is constantly updating software documentation and will be made available through this page.
 
