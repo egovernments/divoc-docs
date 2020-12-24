@@ -1,8 +1,8 @@
 # Table of contents
 
 * [DIVOC Home](README.md)
-* [Understand DIVOC](untitled.md)
-* [Tech Docs](documents.md)
+* [Understand DIVOC](understand-divoc.md)
+* [Tech Docs](tech-docs.md)
 * [FAQ](faq.md)
-* [About DIVOC Project](about-divoc.md)
+* [About DIVOC Project](about-project-team.md)
 
