@@ -2,7 +2,7 @@
 description: 'Presentations, Videos, and Articles'
 ---
 
-# Understanding DIVOC
+# Understand DIVOC
 
 ## DIVOC Presentations <a id="divoc-presentations"></a>
 
