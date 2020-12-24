@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Understanding DIVOC](untitled.md)
+* [Documents](documents.md)
+* [FAQ](faq.md)
+* [About DIVOC](about-divoc.md)
 
