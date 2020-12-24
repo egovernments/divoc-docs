@@ -6,7 +6,7 @@ description: 'Presentations, Videos, and Articles'
 
 ## DIVOC Presentations <a id="divoc-presentations"></a>
 
-{% file src=".gitbook/assets/divoc-summary-deck-1.0.pdf" caption="1. Introduction to DIVOC" %}
+{% file src=".gitbook/assets/divoc-summary-deck-1.0.pdf" caption="1. DIVOC Summary" %}
 
                  2. Vaccination certificates - coming soon
 

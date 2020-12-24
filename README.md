@@ -4,6 +4,8 @@ description: DIVOC - Digital Infrastructure for Vaccination and Open Certificati
 
 # DIVOC
 
+## Introduction
+
 DIVOC is an open source digital platform for large scale vaccination rollouts. Investing in a scalable testing/vaccination digital health infrastructure is critical for countries to be self-reliant to conduct population scale COVID-19 vaccination and to be resilient to absorb future shocks similar to COVID. Population scale vaccination drives require the 3 following key capabilities to be built by countries:
 
 1. Vaccine approval, procurement, supply chain logistics
