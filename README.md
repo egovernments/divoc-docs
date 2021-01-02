@@ -1,5 +1,5 @@
 ---
-description: DIVOC - Digital Infrastructure for Vaccination and Open Certification. asfasdf
+description: DIVOC - Digital Infrastructure for Vaccination and Open Certification.
 ---
 
 # DIVOC
