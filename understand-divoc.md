@@ -33,3 +33,15 @@ description: 'Presentations, Videos, and Articles'
 3. [Aadhaar model can help in vaccinating population quickly](https://government.economictimes.indiatimes.com/news/digital-india/aadhaar-model-can-help-in-vaccinating-population-quickly-infosys-chairman-nandan-nilekani/77757327)
 4. [Certificate of COVID Vaccination: Can We Do Better than the Yellow Card?](https://www.cgdev.org/blog/certificate-covid-vaccination-can-we-do-better-yellow-card)
 
+## DIVOC Adoption Playbook <a id="divoc-presentations"></a>
+
+Country Adoption Playbook
+
+{% file src=".gitbook/assets/country-adoption-playbook \(2\).pdf" %}
+
+Country Presentation
+
+{% file src=".gitbook/assets/divoc-country-presentation.pdf" %}
+
+##  <a id="divoc-videos"></a>
+
