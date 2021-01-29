@@ -8,7 +8,7 @@ description: 'Presentations, Videos, and Articles'
 
 {% file src=".gitbook/assets/divoc-summary-deck-1.0.pdf" caption="1. DIVOC Summary" %}
 
-                 2. Vaccination certificates - coming soon
+{% file src=".gitbook/assets/C-19-digital-credentialing-public.pdf" caption="2. Vaccintion Credentialling" %}
 
 ## DIVOC Videos <a id="divoc-videos"></a>
 
