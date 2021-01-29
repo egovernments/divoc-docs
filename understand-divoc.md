@@ -8,23 +8,25 @@ description: 'Presentations, Videos, and Articles'
 
 {% file src=".gitbook/assets/divoc-summary-deck-1.0.pdf" caption="1. DIVOC Summary" %}
 
-{% file src=".gitbook/assets/C-19-digital-credentialing-public.pdf" caption="2. Vaccintion Credentialling" %}
+{% file src=".gitbook/assets/c-19-digital-credentialing-public.pdf" caption="2. Vaccintion Credentialling" %}
 
 ## DIVOC Videos <a id="divoc-videos"></a>
 
-{% embed url="https://www.youtube.com/watch?v=vl\_EP9fpzh0&feature=youtu.be" %}
+{% embed url="https://www.youtube.com/watch?v=vl\_EP9fpzh0&feature=youtu.be" caption="" %}
 
-2. Vaccination certificates using W3C verifiable credentials - coming soon
+1. Vaccination certificates using W3C verifiable credentials - coming soon
 
 ### Demo Videos <a id="demo-videos"></a>
 
-       Coming soon …
+```text
+   Coming soon …
+```
 
 ## Press releases <a id="relevant-external-links"></a>
 
-{% embed url="https://www.youtube.com/watch?v=vJRgkhsVvmA" %}
+{% embed url="https://www.youtube.com/watch?v=vJRgkhsVvmA" caption="" %}
 
-{% embed url="https://www.youtube.com/watch?v=J86YuKJyaEU" %}
+{% embed url="https://www.youtube.com/watch?v=J86YuKJyaEU" caption="" %}
 
 ### Articles <a id="articles"></a>
 
@@ -42,6 +44,4 @@ Country Adoption Playbook
 Country Presentation
 
 {% file src=".gitbook/assets/divoc-country-presentation.pdf" %}
-
-##  <a id="divoc-videos"></a>
 
