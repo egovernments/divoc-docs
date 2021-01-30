@@ -60,7 +60,7 @@ Currently DIVOC is designed to work only where some authenticable ID \(such as m
 
 If the vaccine recipient has provided her/his mobile/email, then a link to download the certificate is sent to them. If not, the facility can download, print and give it. At any point in time, users can also go to public portal and retrieve the certificate by giving their mobile/email. In the case of India, an authentication system like Aadhaar can also be used to allow recipients to access their certificates in a secure way. With user consent, these can also be integrated with other applications such as India's Digilocker, CommonPass, TravelPass, and other digital health wallets.
 
-## **Unlike India, we don't have Digilocker and Aadhaar. Does DIVOC comes with a built-in certificate repository?**
+## **Unlike India, we don't have Digilocker and Aadhaar. Does DIVOC come with a built-in certificate repository?**
 
 **Yes**, a certificate repository is integrated within the DIVOC system. Certificates are natively digital, machine readable, digitally signed, verifiable, and also printable with a QR code making it easy for people to keep it electronically or physically. Any digitally authenticable ID such as mobile, email, etc can be used to allow users securely access their certificate from the repository. 
 
