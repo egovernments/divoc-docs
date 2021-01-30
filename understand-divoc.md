@@ -14,8 +14,6 @@ description: 'Presentations, Videos, and Articles'
 
 {% embed url="https://www.youtube.com/watch?v=vl\_EP9fpzh0&feature=youtu.be" caption="" %}
 
-1. Vaccination certificates using W3C verifiable credentials - coming soon
-
 ### Demo Videos <a id="demo-videos"></a>
 
 ```text
