@@ -24,7 +24,7 @@ Any country can freely use DIVOC, manage the platform within their control, and 
 
 **Yes**, DIVOC is designed to manage multiple vaccination programs concurrently. For each program, both facilities and medicines can be managed within DIVOC.
 
-## **Does DIVOC allow only Government facilities or does it in any way mandate use of private facilities?**
+## **Does DIVOC allow only Government facilities or does it also allow use of private facilities?**
 
 DIVOC software platform is built to provide flexibility to the adopter through the facility registry. Facility registry functionality built into DIVOC allows adopters to choose either only Government facilities, or only private facilities, or a combination of both. It depends completely on how the adopter wants to roll out the vaccination program.
 
@@ -34,7 +34,7 @@ DIVOC software platform is built to provide flexibility to the adopter through t
 
 ## **Does the DIVOC system allow managing vaccine supply and usage?**
 
-**No**, DIVOC is not meant to be used for vaccine supply and logistics.
+**No**, DIVOC is not meant to be used for vaccine supply and logistics. But, DIVOC can seamlessly be integrated with existing systems through its APIs.
 
 ## **Does DIVOC allow the adopter to control the rollout rate based on medicine supply?**
 
@@ -50,7 +50,7 @@ Currently DIVOC is designed to work only where some authenticable ID \(such as m
 
 ## **How does facilities get paid? Does DIVOC take care of payments?**
 
-**No**, DIVOC does not deal with payments per se. It only leverages existing payment methods available in a country. 
+**No**, DIVOC does not deal with payments per se. It only leverages existing payment methods available in a country. DIVOC analytics module can produce necessary reports to generate facility performance metrics etc which can be used in making payment decisions.
 
 ## **Does the DIVOC system allow issuance of "digital vaccination certificates" to people?**
 
@@ -58,9 +58,9 @@ Currently DIVOC is designed to work only where some authenticable ID \(such as m
 
 ## **How do people get their "digital vaccination certificates"?**
 
-If the user has provided mobile/email, then a link to download the certificate is sent to them. If not, the facility can download, print and give it. At any point in time, users can also go to public portal and retrieve the certificate by giving their mobile/email or for those people who have not given mobile/email and used their Aadhaar instead, can either use Aadhaar OTP or go to a Aadhaar enabled touch point to retrieve the certificate. With user consent, it can also be pushed to Digilocker and other external applications such as CommonPass.
+If the vaccine recipient has provided her/his mobile/email, then a link to download the certificate is sent to them. If not, the facility can download, print and give it. At any point in time, users can also go to public portal and retrieve the certificate by giving their mobile/email. In the case of India, an authentication system like Aadhaar can also be used to allow recipients to access their certificates in a secure way. With user consent, these can also be integrated with other applications such as India's Digilocker, CommonPass, TravelPass, and other digital health wallets.
 
-## **Unlike India, we don't have Digilocker and Aadhaar. What can we do for issuance of "digital vaccination certificates" to people?**
+## **Unlike India, we don't have Digilocker and Aadhaar. Does DIVOC comes with a built-in certificate repository?**
 
-**Yes**, a certificate repository is integrated within the system. Certificates are natively digital, machine readable, digitally signed, verifiable, and also printable with a QR code making it easy for people to keep it electronically or physically.
+**Yes**, a certificate repository is integrated within the DIVOC system. Certificates are natively digital, machine readable, digitally signed, verifiable, and also printable with a QR code making it easy for people to keep it electronically or physically. Any digitally authenticable ID such as mobile, email, etc can be used to allow users securely access their certificate from the repository. 
 
