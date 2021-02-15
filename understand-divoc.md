@@ -6,9 +6,9 @@ description: 'Presentations, Videos, and Articles'
 
 ## DIVOC Presentations <a id="divoc-presentations"></a>
 
-{% file src=".gitbook/assets/divoc-summary-deck-1.0.pdf" caption="1. DIVOC Summary" %}
+{% file src=".gitbook/assets/divoc-overview.pdf" caption="DIVOC Overview" %}
 
-{% file src=".gitbook/assets/c-19-digital-credentialing-public.pdf" caption="2. Vaccintion Credentialling" %}
+{% file src=".gitbook/assets/c-19-digital-credentialing.pdf" caption="Digital Credentialing" %}
 
 ## DIVOC Videos <a id="divoc-videos"></a>
 
@@ -32,14 +32,13 @@ description: 'Presentations, Videos, and Articles'
 2. [Digital route to deliver Covid vaccine in India](https://economictimes.indiatimes.com/markets/expert-view/nandan-nilekani-on-digital-route-to-deliver-covid-vaccine-in-india/articleshow/79208481.cms?from=mdr)
 3. [Aadhaar model can help in vaccinating population quickly](https://government.economictimes.indiatimes.com/news/digital-india/aadhaar-model-can-help-in-vaccinating-population-quickly-infosys-chairman-nandan-nilekani/77757327)
 4. [Certificate of COVID Vaccination: Can We Do Better than the Yellow Card?](https://www.cgdev.org/blog/certificate-covid-vaccination-can-we-do-better-yellow-card)
+5. [A COVID Vaccine Certificate: Building on Lessons from Digital ID for the Digital Yellow Card](https://www.cgdev.org/publication/covid-vaccine-certificate-building-lessons-digital-id-digital-yellow-card)
 
 ## DIVOC Adoption Playbook <a id="divoc-presentations"></a>
 
 Country Adoption Playbook
 
-{% file src=".gitbook/assets/country-adoption-playbook \(2\).pdf" %}
+{% file src=".gitbook/assets/country-adoption-playbook \(3\).pdf" caption="Country Adoption Playbook " %}
 
-Country Presentation
 
-{% file src=".gitbook/assets/divoc-country-presentation.pdf" %}
 

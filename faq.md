@@ -18,7 +18,7 @@ Any country can freely use DIVOC, manage the platform within their control, and 
 
 ## **Given new medicines will be approved, how does DIVOC allow the flexibility to on-board newly approved vaccinations?**
 
-**Yes**, DIVOC provides an approved medicine registry which allows authorities to add/remove approved vaccination medicines along with their frequencies.
+DIVOC provides an approved medicine registry which allows authorities to add/remove approved vaccination medicines along with their frequencies.
 
 ## **I want to use DIVOC to manage multiple vaccination programs across various parts of the country. Is that possible?**
 
@@ -48,7 +48,7 @@ DIVOC software platform is built to provide flexibility to the adopter through t
 
 Currently DIVOC is designed to work only where some authenticable ID \(such as mobile or email or Aadhaar\) is available. But, since DIVOC is an open source software, adopters can extend it to also allow scenarios where only a physical ID is available or no ID is available.
 
-## **How does facilities get paid? Does DIVOC take care of payments?**
+## **How do facilities get paid? Does DIVOC take care of payments?**
 
 **No**, DIVOC does not deal with payments per se. It only leverages existing payment methods available in a country. DIVOC analytics module can produce necessary reports to generate facility performance metrics etc which can be used in making payment decisions.
 
