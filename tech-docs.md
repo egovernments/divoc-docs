@@ -54,11 +54,13 @@ In this section, we'll walk you through how to run DIVOC project on a local mach
 In this section we will go through the steps involved in a typical flow. Starting from setting up facilities to generating a certificate after vaccination.
 
 * Set up Keycloack
+
   * Login to Keycloak console \(`localhost/auth/admin`\) as `admin` \(password : `admin`\)
   * Hover on `Master` on the left top corner and click on `Add realm`
   * Click on `Select File` button \(import option\)
   * Select `realm-export.json` in the keycloak directory. `path:DIVOC/keycloak`
   * Click on create.
+
 * Set up CLIENT\_SECRET for `admin-api`
   * Login to Keycloak console \(`localhost/auth/admin`\) as `admin` \(password : `admin`\)
   * Click on `Clients` in Configure section on the left pane and click on `admin-api`
@@ -107,12 +109,16 @@ In this section we will go through the steps involved in a typical flow. Startin
 
     * In segment section, Create a new segment with `default` key and a default distribution of 100%
 * Create `admin` and `controller` users in Keycloak
+
   * Login to Keycloak console \(`localhost/auth/admin`\) as `admin` \(password : `admin`\)
   * Click on `Users` in Manage section on the left pane and click on `Add User`
   * Give the username as 0000000000 and click on save
   * In the `Attributes` section, Add new key as `mobile_number` and value as 0000000000. Click on Add and save
   * Go to Groups section, select `system admin` in the available groups and click on Join.
   * Similarly create another user with `username` and `mobile_number` as 0000000001 and join `controller` group
+
+
+
   * System Admin Activities
     * Login to portal as `system admin` \[Mobile Number : 0000000000, OTP : 1234\]
     * Upload Facilities.csv
@@ -126,12 +132,14 @@ In this section we will go through the steps involved in a typical flow. Startin
       * Click on Vaccine Program tab. Fill in all the fields on the form, mark status as Active and click on save
       * You should see the new vaccine program on the right pane in the list of registered vaccine programs
     * Pre-Enroll Recipients
+
       * Click on Pre-Enrollment tab and click on `Downloaf Template .csv`
       * Click on `Upload CSV` and upload a CSV file containing all the fields given in the template
       * You should see the number of recipients successfully enrolled and errors if there are any.
   * Controller Activities
     * Login to portal as `controller` `[Mobile Number : 0000000001, OTP : 1234]`
     * Activate Facilities for Vaccination program
+
       * In the Facility Activation tab, select vaccination program added in the previous step, select type of facility as Govt and status as active.
       * You should be able to see at least one facility in the search results.
       * Click on the checkbox for the relevant facility \(make note of facility code\) and click on `MAKE ACTIVE`
@@ -148,6 +156,7 @@ In this section we will go through the steps involved in a typical flow. Startin
       * Click on Add and click Back
       * Click on `Make Active` button to activate vaccinator
     * Bulk Certification
+
       * Certificates can also be issued in bulk by facility admin by uploading a CSV file
       * Go to Upload Vaccination details tab and click on the download CSV template button
       * Now upload a CSV file, containing all the fields in the template
@@ -158,6 +167,7 @@ In this section we will go through the steps involved in a typical flow. Startin
       * Click on enroll recipient, fill all the details and proceed
       * Click on Recipient Queue, to proceed for certification
     * Certifying pre-enrolled recipients
+
       * Recipients pre-enrolled by Facility Admin can be certified by Facility staff
       * Go to App home and click on `Verify Recipient` to proceed for vaccination
   * Recipient Activities
@@ -167,6 +177,7 @@ In this section we will go through the steps involved in a typical flow. Startin
       * `Verify` certificates by scanning a QR code
       * `Report` any side effects/symptoms after vaccination
     * For above operations, you would need the recipient mobile number \(given during pre-enrollment/vaccination\). Use OTP : 1234 for all logins.
+
 * Deployment Note
   * Change Admin password of Keycloak console
     * Go to Admin console, Click on Admin menu in the top right corner and Select Manage account
