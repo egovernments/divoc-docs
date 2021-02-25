@@ -14,12 +14,6 @@ description: 'Presentations, Videos, and Articles'
 
 {% embed url="https://www.youtube.com/watch?v=vl\_EP9fpzh0&feature=youtu.be" caption="" %}
 
-### Demo Videos <a id="demo-videos"></a>
-
-```text
-   Coming soon …
-```
-
 ## Press releases <a id="relevant-external-links"></a>
 
 {% embed url="https://www.youtube.com/watch?v=vJRgkhsVvmA" caption="" %}
