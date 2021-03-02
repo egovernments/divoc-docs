@@ -32,7 +32,7 @@ description: 'Presentations, Videos, and Articles'
 
 Country Adoption Playbook
 
-{% file src=".gitbook/assets/country-adoption-playbook \(3\).pdf" caption="Country Adoption Playbook " %}
+{% file src=".gitbook/assets/country-adoption-playbook\_v2.0.pdf" caption="Country Adoption Playbook" %}
 
 
 
