@@ -6,7 +6,7 @@ description: 'Presentations, Videos, and Articles'
 
 ## DIVOC Presentations <a id="divoc-presentations"></a>
 
-{% file src=".gitbook/assets/divoc-deck-2.0.pdf" caption="DIVOC Overview" %}
+{% file src=".gitbook/assets/divoc-overview \(1\).pdf" %}
 
 {% file src=".gitbook/assets/c-19-digital-credentialing.pdf" caption="Digital Credentialing" %}
 
