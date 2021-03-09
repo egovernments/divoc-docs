@@ -196,7 +196,7 @@ In this section we will go through the steps involved in a typical flow. Startin
 
 {% file src=".gitbook/assets/implementation-guide\_divoc.pdf" caption="Version 1.0" %}
 
-Currently DIVOC is in Beta mode. DIVOC team is constantly updating software documentation and will be made available through this page.
+
 
 [Report issues and suggest features here](https://github.com/egovernments/DIVOC/issues)
 
