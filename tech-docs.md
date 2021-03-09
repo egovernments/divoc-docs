@@ -194,7 +194,7 @@ In this section we will go through the steps involved in a typical flow. Startin
 
 ### Implementation Guide <a id="demo-videos"></a>
 
-Coming soon …
+{% file src=".gitbook/assets/implementation-guide\_divoc.pdf" caption="Version 1.0" %}
 
 Currently DIVOC is in Beta mode. DIVOC team is constantly updating software documentation and will be made available through this page.
 
