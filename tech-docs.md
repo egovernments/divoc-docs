@@ -189,7 +189,7 @@ In this section we will go through the steps involved in a typical flow. Startin
 
 {% file src=".gitbook/assets/end-user-guide\_divoc.pdf" caption="Version 1.0" %}
 
-{% file src=".gitbook/assets/end-user-guide-divoc\_2.0.pdf" caption="Version 2.0" %}
+{% file src=".gitbook/assets/end-user-guide\_divoc \(1\).pdf" %}
 
 ### Implementation Guide <a id="demo-videos"></a>
 
