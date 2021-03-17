@@ -19,6 +19,8 @@
   * [11. Record Vaccination](demo-videos/11.-record-vaccination.md)
   * [12. 	Download Certificate from Public Portal](demo-videos/12.-download-certificate-from-public-portal.md)
   * [13. Certificate Verification](demo-videos/13.-certificate-verification.md)
+  * [14. Online Registration & Appointment](demo-videos/14.-online-registration-and-appointment.md)
+  * [15. Capture Side Effect Feedback](demo-videos/15.-capture-side-effect-feedback.md)
 
 ## Tech Community <a id="community"></a>
 
