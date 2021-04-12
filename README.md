@@ -1,5 +1,5 @@
 ---
-description: DIVOC - Digital Infrastructure for Vaccination Open Credentialing.
+description: DIVOC - Digital Infrastructure for Vaccination Open Credentialing
 ---
 
 # DIVOC
