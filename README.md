@@ -10,6 +10,8 @@ description: DIVOC - Digital Infrastructure for Vaccination Open Credentialing.
 
 DIVOC is built on top of the generalized electronic registry and credentialing framework of [OpenSABER](https://opensaber.io/) project under [Sunbird Registry and Credentialing](https://github.com/Sunbird-RC).
 
+DIVOC is part of [India's Co-WIN platform](https://www.cowin.gov.in/) \(used for COVID vaccination\) and has been already used at scale within India. DIVOC instance in India has already issued [more than 100 million digitally verifiable credentials](https://stats.cowin.gov.in/) and continues to issue few million credentials every day as India's vaccination drive scales up.
+
 ## Introduction
 
 DIVOC is an open source digital platform for large scale vaccination rollouts and management of digitally verifiable credentials associated with such programs. Investing in a scalable testing/vaccination digital health infrastructure is critical for countries to be self-reliant to conduct population scale COVID-19 vaccination and to be resilient to absorb future shocks similar to COVID. Population scale vaccination drives require the 3 following key capabilities to be built by countries:
