@@ -7,7 +7,7 @@ description: Relevant Software and Developer Documentation
 ## Developer Docs
 
 1. [Admin API \(swagger\)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/admin-portal.yaml)
-2. [Vaccination API \(swagger\)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/vaccination-api.yaml)
+2. Vaccination API \(swagger\)
 3. [Verification API \(swagger\)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/divoc-verification.yaml)
 4. [Registration API \(swagger\)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/registration-api.yaml)
 
