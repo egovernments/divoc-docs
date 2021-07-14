@@ -1,12 +1,12 @@
 ---
-description: DIVOC - Digital Infrastructure for Vaccination Open Credentialing
+description: DIVOC - Digital Infrastructure for Verifiable Open Credentialing
 ---
 
 # DIVOC
 
 ## Brief
 
-**Open source digital platform for large scale digital vaccination credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond. 
+**Open source digital platform for large scale digital verifiable credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond. 
 
 **DIVOC is purely an open source software \(not a hosted platform/service\)** built with strong technology design, privacy, and security principles. It is built as generalized, configurable, and extensible software so that adopters can use it for themselves, on their preferred cloud, configure/extend the way they want, and rapidly roll out vaccination using a digital backbone.
 
@@ -16,9 +16,9 @@ DIVOC is part of [India's Co-WIN platform](https://www.cowin.gov.in/) \(used for
 
 ## Introduction
 
-DIVOC is an open source digital platform for large scale vaccination rollouts and management of digitally verifiable credentials associated with such programs. Investing in a scalable testing/vaccination digital health infrastructure is critical for countries to be self-reliant to conduct population scale COVID-19 vaccination and to be resilient to absorb future shocks similar to COVID. 
+DIVOC is an open source digital platform for large scale management and rollout of digitally verifiable credentials associated with various programs. Investing in a scalable testing/vaccination digital health infrastructure is critical for countries to be self-reliant to conduct population scale COVID-19 vaccination and to be resilient to absorb future shocks similar to COVID. 
 
-Population scale vaccination drives require the 3 following key capabilities to be built by countries:
+For example, Population scale vaccination drives require the 3 following key capabilities to be built by countries:
 
 1. Vaccine approval, procurement, supply chain logistics
 2. Capacity building, vaccinator training, certification, field support
