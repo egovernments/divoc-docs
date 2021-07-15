@@ -1,14 +1,14 @@
 ---
-description: DIVOC - Digital Infrastructure for Verifiable Open Credentialing
+description: DIVOC - Digital Infrastructure for Vaccination Open Credentialing
 ---
 
 # DIVOC
 
 ## Brief
 
-**Open source digital platform for large scale digital verifiable credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond. 
+**Open-source digital platform for large-scale digital vaccination credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond. 
 
-**DIVOC is purely an open source software \(not a hosted platform/service\)** built with strong technology design, privacy, and security principles. It is built as generalized, configurable, and extensible software so that adopters can use it for themselves, on their preferred cloud, configure/extend the way they want, and rapidly roll out vaccination using a digital backbone.
+**DIVOC is purely an open source software \(not a hosted platform/service\)** built with strong technical design, privacy, and security principles. It is built as generalized, configurable, and extensible software so that adopters can use it for themselves, on their preferred cloud, configure/extend the way they want, and rapidly roll out vaccination using a digital backbone.
 
 DIVOC is built on top of the generalized electronic registry and credentialing framework of [OpenSABER](https://opensaber.io/) project under [Sunbird Registry and Credentialing](https://github.com/Sunbird-RC).
 
@@ -32,7 +32,7 @@ It is expected that COVID-19 vaccination will happen in 3 phases - vaccine short
 
 ## Goals <a id="goals"></a>
 
-1. Ability to vaccinate and certify citizens at speed and scale starting from a prioritized personnel \(frontline workers\) to the whole country in a controlled manner.
+1. Ability to vaccinate and certify citizens at speed and scale starting from prioritized personnel \(frontline workers\) to the whole country in a controlled manner.
 2. Ability to manage the entire vaccination and certification process in a dynamic manner using near real time data.
 3. Ability to control and manage the approved vaccine, facilities, daily rates, and vaccinators in a systematic manner across various geographies as per the availability of vaccines and other country priorities.
 4. Issue a portable digitally verifiable certificate as per international standard to people in both digital and physical form so that they can get back to work.
@@ -40,7 +40,7 @@ It is expected that COVID-19 vaccination will happen in 3 phases - vaccine short
 
 ## Highlights <a id="highlights"></a>
 
-1. The DIVOC software is designed to cater to the diversity of use cases in terms of choice of facility \(Government to private facilities\) at various geographies within the country, choice of payment \(Govt is paying, employers and other funds paying, and individuals paying\), choice of IDs \(digital IDs, mobile numbers, no IDs\), etc.
+1. The DIVOC software is designed to cater to the diversity of use cases in terms of choice of the facility \(Government to private facilities\) at various geographies within the country, choice of payment \(Govt is paying, employers and other funds paying, and individuals paying\), choice of IDs \(digital IDs, mobile numbers, no IDs\), etc.
 2. DIVOC is designed to plug and play with various valid ID and payment systems and be flexible to configure the flows.
 3. DIVOC provides individuals with a portable and verifiable digital certificate \(verifiable credential based on W3C open specification and can easily be aligned to IHR standards\) that they can use online and offline.
 4. DIVOC is designed to plug and play with various certificate distribution schemes \(printed with QR code, digital using smartphones, sms/email attachments, digital lockers, blockchain based apps, etc\).
