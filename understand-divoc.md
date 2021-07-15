@@ -6,7 +6,7 @@ description: 'Presentations, Videos, and Articles'
 
 ## DIVOC Presentations <a id="divoc-presentations"></a>
 
-{% file src=".gitbook/assets/divoc-overview \(1\).pdf" %}
+{% file src=".gitbook/assets/divoc-overview-v4.pdf" caption="DIVOC Overview" %}
 
 {% file src=".gitbook/assets/c-19-digital-credentialing.pdf" caption="Digital Credentialing" %}
 
@@ -32,7 +32,9 @@ description: 'Presentations, Videos, and Articles'
 
 Country Adoption Playbook
 
-{% file src=".gitbook/assets/country-adoption-playbook \(4\).pdf" %}
+{% file src=".gitbook/assets/13072021\_country-adoption-playbook.pdf" caption="Country Adoption Playbook" %}
+
+
 
 
 
