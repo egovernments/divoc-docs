@@ -183,6 +183,34 @@ In this section we will go through the steps involved in a typical flow. Startin
     * Go to Admin console, Click on Admin menu in the top right corner and Select Manage account
     * Change password in the password section in the right
 
+## Demo Site Credentials
+
+### Orchestration Module: 
+
+#### Link: [https://demo-divoc.egov.org.in/portal](https://demo-divoc.egov.org.in/portal) 
+
+System Admin Username : 2111111111 
+
+Controller Username : 1111111170 
+
+OTP: 1234
+
+### Facility app \(PWA\)
+
+Link : [https://demo-divoc.egov.org.in/facility\_app/](https://demo-divoc.egov.org.in/facility_app/) 
+
+Username : You can create using Orchestration Module
+
+OTP: 1234
+
+### Citizen Portal
+
+Link : [https://demo-divoc.egov.org.in/citizen](https://demo-divoc.egov.org.in/citizen) 
+
+Username : You can create in Orchestration Module
+
+OTP: 1234
+
 ## Software Docs
 
 ### End User Guide <a id="demo-videos"></a>
