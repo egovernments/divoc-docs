@@ -209,7 +209,7 @@ Link : [https://demo-divoc.egov.org.in/citizen](https://demo-divoc.egov.org.in/c
 
 Username : You can create in Orchestration Module
 
-OTP: 1234
+OTP: 123456
 
 ## Software Docs
 
