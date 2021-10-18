@@ -4,6 +4,7 @@
 * [Understand DIVOC](understand-divoc.md)
 * [Tech Docs](tech-docs.md)
 * [FAQ](faq.md)
+* [Events](events.md)
 * [About DIVOC Project](about-project-team.md)
 * [Demo Videos](demo-videos/README.md)
   * [1. Create Facility Registry](demo-videos/1.-create-facility-registry.md)
@@ -22,9 +23,8 @@
   * [14. Online Registration & Appointment](demo-videos/14.-online-registration-and-appointment.md)
   * [15. Capture Side Effect Feedback](demo-videos/15.-capture-side-effect-feedback.md)
 
-## Tech Community <a id="community"></a>
+## Tech Community <a href="community" id="community"></a>
 
 * [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
-

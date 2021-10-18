@@ -6,7 +6,7 @@ description: Frequently Asked Questions (FAQs)
 
 ## **Who is building DIVOC software and how is it licensed?**
 
-All software components within DIVOC are built as open source, funded using philanthropic capital, made available free of charge to anyone around the world. It is built using other open source components/libraries. This project is maintained by [eGov Foundation](https://egov.org.in/), India.
+All software components within DIVOC are built as open source, funded using philanthropic capital, made available free of charge to anyone around the world. It is built using other open source components/libraries. This project is maintained by [eGov Foundation](https://egov.org.in), India.
 
 ## **How can countries benefit from this?**
 
@@ -46,7 +46,7 @@ DIVOC software platform is built to provide flexibility to the adopter through t
 
 ## **What happens to people who have no mobile or ID of any sort?**
 
-Currently DIVOC is designed to work only where some authenticable ID \(such as mobile or email or Aadhaar\) is available. But, since DIVOC is an open source software, adopters can extend it to also allow scenarios where only a physical ID is available or no ID is available.
+Currently DIVOC is designed to work only where some authenticable ID (such as mobile or email or Aadhaar) is available. But, since DIVOC is an open source software, adopters can extend it to also allow scenarios where only a physical ID is available or no ID is available.
 
 ## **How do facilities get paid? Does DIVOC take care of payments?**
 
@@ -63,4 +63,3 @@ If the vaccine recipient has provided her/his mobile/email, then a link to downl
 ## **Unlike India, we don't have Digilocker and Aadhaar. Does DIVOC come with a built-in certificate repository?**
 
 **Yes**, a certificate repository is integrated within the DIVOC system. Certificates are natively digital, machine readable, digitally signed, verifiable, and also printable with a QR code making it easy for people to keep it electronically or physically. Any digitally authenticable ID such as mobile, email, etc can be used to allow users securely access their certificate from the repository. 
-
