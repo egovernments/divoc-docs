@@ -8,7 +8,8 @@ description: Relevant Software and Developer Documentation
 
 1. [Admin API (swagger)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/admin-portal.yaml)
 2. [Vaccination API (swagger)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../india/interfaces/vaccination-api.yaml)
-3. [Registration API (swagger)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/registration-api.yaml)
+3. [Certificate Access API (swagger)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../main/interfaces/certificate-api.yaml)
+4. [Registration API (swagger)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/registration-api.yaml)
 
 ### Getting Started
 
@@ -40,11 +41,11 @@ In this section, we'll walk you through how to run DIVOC project on a local mach
 
     Below are routes to access local apps. Remaining routes can be found in `nginx/nginx.conf`
 
-    | Address                | Application  |
-    | ---------------------- | ------------ |
-    | localhost              | public app   |
-    | localhost/portal       | portal app   |
-    | localhost/facility_app | facility app |
+    | Address                 | Application  |
+    | ----------------------- | ------------ |
+    | localhost               | public app   |
+    | localhost/portal        | portal app   |
+    | localhost/facility\_app | facility app |
 
 **DIVOC Walkthrough**
 
@@ -59,7 +60,7 @@ In this section we will go through the steps involved in a typical flow. Startin
     * Click on create.
 
 
-* Set up CLIENT_SECRET for `admin-api`
+* Set up CLIENT\_SECRET for `admin-api`
   * Login to Keycloak console (`localhost/auth/admin`) as `admin` (password : `admin`)
   * Click on `Clients` in Configure section on the left pane and click on `admin-api`
   * Go to Credentials tab, click on `Regenerate Secret` and copy the new secret
@@ -150,7 +151,7 @@ In this section we will go through the steps involved in a typical flow. Startin
     * Facility Admin Activities
       * Get admin mobile number for the facility code (noted in the previous step), from the `facilities.csv` uploaded.
       * Login to Facility Admin portal (`localhost/portal/facility_admin`) using the mobile number and OTP: 1234
-      * Add facility_staff user
+      * Add facility\_staff user
         * Click on Role Setup tab and click on add role icon
         * Create a role with type `facility staff` and mobile number `1111111111`. Set status as enabled and set rate of 50 for the vaccination program
       * Add Vaccinators
@@ -193,19 +194,19 @@ In this section we will go through the steps involved in a typical flow. Startin
 
 ## Demo Site Credentials
 
-### Orchestration Module: 
+### Orchestration Module:&#x20;
 
-#### Link: [https://demo-divoc.egov.org.in/portal](https://demo-divoc.egov.org.in/portal) 
+#### Link: [https://demo-divoc.egov.org.in/portal](https://demo-divoc.egov.org.in/portal)&#x20;
 
-System Admin Username : 2111111111 
+System Admin Username : 2111111111&#x20;
 
-Controller Username : 1111111170 
+Controller Username : 1111111170&#x20;
 
 OTP: 1234
 
 ### Facility app (PWA)
 
-Link : [https://demo-divoc.egov.org.in/facility_app/](https://demo-divoc.egov.org.in/facility_app/) 
+Link : [https://demo-divoc.egov.org.in/facility\_app/](https://demo-divoc.egov.org.in/facility\_app/)&#x20;
 
 Username : You can create using Orchestration Module
 
@@ -213,7 +214,7 @@ OTP: 1234
 
 ### Citizen Portal
 
-Link : [https://demo-divoc.egov.org.in/citizen](https://demo-divoc.egov.org.in/citizen) 
+Link : [https://demo-divoc.egov.org.in/citizen](https://demo-divoc.egov.org.in/citizen)&#x20;
 
 Username : You can create in Orchestration Module
 
