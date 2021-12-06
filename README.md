@@ -6,9 +6,9 @@ description: DIVOC - Digital Infrastructure for Vaccination Open Credentialing
 
 ## Brief
 
-**Open-source digital platform for large-scale digital vaccination credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond. 
+**Open-source digital platform for large-scale digital vaccination credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond.&#x20;
 
-**DIVOC is purely an open source software (not a hosted platform/service) **built with strong technical design, privacy, and security principles. It is built as generalized, configurable, and extensible software so that adopters can use it for themselves, on their preferred cloud, configure/extend the way they want, and rapidly roll out vaccination using a digital backbone.
+**DIVOC is purely an open source software (not a hosted platform/service)** built with strong technical design, privacy, and security principles. It is built as generalized, configurable, and extensible software so that adopters can use it for themselves, on their preferred cloud, configure/extend the way they want, and rapidly roll out vaccination using a digital backbone.
 
 DIVOC is built on top of the generalized electronic registry and credentialing framework available under [Sunbird Registry and Credentialing](https://github.com/Sunbird-RC).
 
@@ -16,7 +16,7 @@ Largest known implementation of DIVOC is in India within the [Co-WIN](https://ww
 
 ## Introduction
 
-DIVOC is an open source digital platform for large scale management and rollout of digitally verifiable credentials associated with various programs. Investing in a scalable testing/vaccination digital health infrastructure is critical for countries to be self-reliant to conduct population scale COVID-19 vaccination and to be resilient to absorb future shocks similar to COVID. 
+DIVOC is an open source digital platform for large scale management and rollout of digitally verifiable credentials associated with various programs. Investing in a scalable testing/vaccination digital health infrastructure is critical for countries to be self-reliant to conduct population scale COVID-19 vaccination and to be resilient to absorb future shocks similar to COVID.&#x20;
 
 For example, Population scale vaccination drives require the 3 following key capabilities to be built by countries:
 
@@ -30,7 +30,7 @@ Systems like [DHIS2](https://www.dhis2.org) or [eVIN](https://www.in.undp.org/co
 
 It is expected that COVID-19 vaccination will happen in 3 phases - vaccine shortage phase, vaccine adequate phase, and eventually vaccine abundant phase. It is essential that countries are able to use a common digital platform to orchestrate vaccination and certification across these 3 phases. To enable their citizens to get back to work safely, countries are expected to implement vaccination certificates that can be verified and used by their citizens in both physical and digital form to access jobs, travel, and other opportunities.
 
-## Goals <a href="goals" id="goals"></a>
+## Goals <a href="#goals" id="goals"></a>
 
 1. Ability to vaccinate and certify citizens at speed and scale starting from prioritized personnel (frontline workers) to the whole country in a controlled manner.
 2. Ability to manage the entire vaccination and certification process in a dynamic manner using near real time data.
@@ -38,7 +38,7 @@ It is expected that COVID-19 vaccination will happen in 3 phases - vaccine short
 4. Issue a portable digitally verifiable certificate as per international standard to people in both digital and physical form so that they can get back to work.
 5. Ability to integrate and leverage with other systems such as vaccine supply, hospital management, ID systems, payment systems, etc.
 
-## Highlights <a href="highlights" id="highlights"></a>
+## Highlights <a href="#highlights" id="highlights"></a>
 
 1. The DIVOC software is designed to cater to the diversity of use cases in terms of choice of the facility (Government to private facilities) at various geographies within the country, choice of payment (Govt is paying, employers and other funds paying, and individuals paying), choice of IDs (digital IDs, mobile numbers, no IDs), etc.
 2. DIVOC is designed to plug and play with various valid ID and payment systems and be flexible to configure the flows.
