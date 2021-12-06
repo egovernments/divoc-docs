@@ -4,9 +4,9 @@ description: DIVOC - Digital Infrastructure for Vaccination Open Credentialing
 
 # DIVOC
 
-## Brief
+## What is DIVOC?
 
-**Open-source digital platform for large-scale digital vaccination credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond.&#x20;
+**Open-source digital platform for large-scale digital vaccination credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond.
 
 **DIVOC is purely an open source software (not a hosted platform/service)** built with strong technical design, privacy, and security principles. It is built as generalized, configurable, and extensible software so that adopters can use it for themselves, on their preferred cloud, configure/extend the way they want, and rapidly roll out vaccination using a digital backbone.
 
@@ -16,7 +16,7 @@ Largest known implementation of DIVOC is in India within the [Co-WIN](https://ww
 
 ## Introduction
 
-DIVOC is an open source digital platform for large scale management and rollout of digitally verifiable credentials associated with various programs. Investing in a scalable testing/vaccination digital health infrastructure is critical for countries to be self-reliant to conduct population scale COVID-19 vaccination and to be resilient to absorb future shocks similar to COVID.&#x20;
+DIVOC is an open source digital platform for large scale management and rollout of digitally verifiable credentials associated with various programs. Investing in a scalable testing/vaccination digital health infrastructure is critical for countries to be self-reliant to conduct population scale COVID-19 vaccination and to be resilient to absorb future shocks similar to COVID.
 
 For example, Population scale vaccination drives require the 3 following key capabilities to be built by countries:
 
@@ -26,7 +26,7 @@ For example, Population scale vaccination drives require the 3 following key cap
 
 Systems like [DHIS2](https://www.dhis2.org) or [eVIN](https://www.in.undp.org/content/india/en/home/projects/gavi1.html) or similar systems can handle the first item above. Open source learning management systems like [Sunbird](https://sunbird.org) or [Moodle](https://moodle.org) or other LMS combined with a physical-digital hybrid training program can address the second item. Currently there are no open source platforms the digital orchestration of rollout, certificate issuance, and post vaccination feedback.
 
-> #### **DIVOC software specifically addresses the 3rd item above allowing countries to digitally orchestrate rollout across the country using dynamic policies, issuance of digital vaccination certificates that are compliant to international standards, manage post vaccination feedback, and use real time analytics to manage this entire process. DIVOC contains 3 core modules - certificate management, feedback management, and vaccination rollout management - each of which can be used independently or together depending on the need.**
+> **DIVOC software specifically addresses the 3rd item above allowing countries to digitally orchestrate rollout across the country using dynamic policies, issuance of digital vaccination certificates that are compliant to international standards, manage post vaccination feedback, and use real time analytics to manage this entire process. DIVOC contains 3 core modules - certificate management, feedback management, and vaccination rollout management - each of which can be used independently or together depending on the need.**
 
 It is expected that COVID-19 vaccination will happen in 3 phases - vaccine shortage phase, vaccine adequate phase, and eventually vaccine abundant phase. It is essential that countries are able to use a common digital platform to orchestrate vaccination and certification across these 3 phases. To enable their citizens to get back to work safely, countries are expected to implement vaccination certificates that can be verified and used by their citizens in both physical and digital form to access jobs, travel, and other opportunities.
 
