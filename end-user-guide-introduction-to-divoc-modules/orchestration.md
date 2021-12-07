@@ -13,11 +13,11 @@ Using this module you can create and maintain program, facility, vaccine, and va
 
 ### Who would typically use this module?&#x20;
 
-DIVOC comes with three default roles:
+DIVOC comes with **three default roles**:
 
-1. System admin&#x20;
-2. Controller&#x20;
-3. Facility admin
+1. **System admin**&#x20;
+2. **Controller**&#x20;
+3. **Facility admin**
 
 ### Each has specific functions and logins assigned to them -&#x20;
 
@@ -61,7 +61,7 @@ price, duration dose (if there are multiple doses), and vaccine validity. Next, 
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.17.02 PM.png>)
 
-D. Recipient pre-enrollment
+**D. Recipient pre-enrollment**
 
 1\. Click on **Pre-Enrollment**. Create a list of the number of recipients successfully enrolled as per the given CSV template. You can add details such as phone number, identity, date of birth, gender, name, email, address, and dose number, among others. Once the list is ready, save it on your laptop/desktop. Click on **Select a Program.**
 
