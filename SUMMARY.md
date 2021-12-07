@@ -1,7 +1,8 @@
 # Table of contents
 
 * [DIVOC](README.md)
-* [Introduction to DIVOC Modules](introduction-to-divoc-modules.md)
+* [Architecture](architecture.md)
+* [End User Guide: Introduction to DIVOC Modules](end-user-guide-introduction-to-divoc-modules.md)
 * [Understand DIVOC](understand-divoc.md)
 * [Tech Docs](tech-docs.md)
 * [FAQ](faq.md)

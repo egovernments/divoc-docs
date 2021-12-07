@@ -5,7 +5,7 @@ description: >-
   and pick up components as per their needs.
 ---
 
-# Introduction to DIVOC Modules
+# End User Guide: Introduction to DIVOC Modules
 
 ## **How this demo works**
 
