@@ -2,7 +2,10 @@
 
 * [DIVOC](README.md)
 * [Architecture](architecture.md)
-* [End User Guide: Introduction to DIVOC Modules](end-user-guide-introduction-to-divoc-modules.md)
+* [End User Guide: Introduction to DIVOC Modules](end-user-guide-introduction-to-divoc-modules/README.md)
+  * [Orchestration](end-user-guide-introduction-to-divoc-modules/orchestration.md)
+  * [Page 2](end-user-guide-introduction-to-divoc-modules/page-2.md)
+  * [Page 3](end-user-guide-introduction-to-divoc-modules/page-3.md)
 * [Understand DIVOC](understand-divoc.md)
 * [Tech Docs](tech-docs.md)
 * [FAQ](faq.md)
