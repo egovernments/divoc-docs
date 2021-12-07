@@ -39,4 +39,4 @@ Being deployed across multiple countries, the platform has enabled the issuance 
 
 ****
 
-**All content on this page by**[ **eGov Foundation**](https://egov.org.in) **is licensed under a**[ **Creative Commons Attribution 4.0 International License**](http://creativecommons.org/licenses/by/4.0/)**.**
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
