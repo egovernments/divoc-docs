@@ -11,7 +11,7 @@ description: >-
 
 The tutorials will guide you on how to use DIVOC:
 
-* There are 5 sections and you can play around with each to understand how they work as per your specific needs.&#x20;
+* There are 6 sections and you can play around with each to understand how they work as per your specific needs.&#x20;
 
 **Or,**
 
@@ -28,17 +28,17 @@ module helps you establish multiple registries for the program, set up appointme
 
 Enables walk-in registrations, verification, queue management, and vaccination. The app lets you:
 
-* Enrol/register beneficiaries who walk into the facility for on-the-spot registration. The process to register is the same as shown for the [citizen portal](https://docs.google.com/document/d/16r8na0d6agxuLOqdy33BdWUF8JqsVuAh3n-2qsxzVR4/edit). Pre-enrolled recipients can also walk into a facility.
+* Enrol/register beneficiaries who walk into the facility for on-the-spot registration. The process to register is the same as shown for the [citizen portal](https://app.gitbook.com/o/-MEQmzNGXk5ajuZujG7E/s/BzDN8TNEi1Pzc9yUiD8a/c/tT5zxJuzMlLwHobVHJAV/end-user-guide-introduction-to-divoc-modules/citizen-portal). Pre-enrolled recipients can also walk into a facility.
 * Verification of beneficiaries via offline or online mode.
 * Recipient queue to view and manage the list of beneficiaries enrolled into the system.
 * Vaccination event recording and generation of an “immutable vaccination record.”
 
 #### 3. Certificate issuance & distribution&#x20;
 
-The certificate/credentialing module is an integral part of DIVOC and the issuance can be triggered whenever a vaccination event has been completed within the facility app or it can be integrated with the vaccination system of the country. What this module allows:
+The certificate/credentialing module is an integral part of DIVOC and the issuance can be triggered whenever a vaccination event has been completed within the [facility app](https://app.gitbook.com/o/-MEQmzNGXk5ajuZujG7E/s/BzDN8TNEi1Pzc9yUiD8a/c/tT5zxJuzMlLwHobVHJAV/end-user-guide-introduction-to-divoc-modules/facility-app) or it can be integrated with the vaccination system of the country. What this module allows:
 
 * Countries can use this module to issue digitally verifiable certificates to the entire population at speed and scale in a controlled manner post-vaccination.
-* The certificates can be distributed in both digital and physical forms. You can distribute certificates in print, pdf, and other formats via the [facility app](https://docs.google.com/document/u/0/d/17ZyLQiccCnuEFdWz-v9-FqFb2brPmJM6tv6Dv3ngQ8g/edit). It can also be downloaded by citizens using the [citizen portal](https://docs.google.com/document/u/0/d/16r8na0d6agxuLOqdy33BdWUF8JqsVuAh3n-2qsxzVR4/edit). If the country has an authorised third-party app, it can be integrated with DIVOC's credentialing module to fetch certificates from the certificate registry and view/download them.
+* The certificates can be distributed in both digital and physical forms. You can distribute certificates in print, pdf, and other formats via the facility app. It can also be downloaded by citizens using the citizen portal. If the country has an authorised third-party app, it can be integrated with DIVOC's credentialing module to fetch certificates from the certificate registry and view/download them.
 * Generates WHO-DDCC compliant digital vaccination certificates with a W3C JSON schema, for every resident after successful inoculation. To aid travel into other countries, the certificate module supports on-demand services for travellers to export their vaccination certificates to other formats (e.g. EU-DCC, SmartHealthCard), used in the destination countries.
 * The module supports additional services, including certificate verification, certificate update/correction, and certificate revocation.
 * The public key of the adopter country can be published using DIVOC’s verification page that can be embedded into the country's vaccination program-specific website/portal.
