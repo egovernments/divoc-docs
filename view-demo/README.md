@@ -2,11 +2,11 @@
 description: Introduction to DIVOC Modules
 ---
 
-# DIVOC Demo
+# View Demo
 
 Each module or component of DIVOC can be used independently or together and integrated with existing systems. This makes it easy for countries to choose, customise and pick up components as per their needs.
 
-### **How this demo works**
+## **How this demo works**
 
 The tutorials will guide you on how to use DIVOC:
 
@@ -16,14 +16,14 @@ The tutorials will guide you on how to use DIVOC:
 
 * You can go step-by-step as shown below: Orchestration - Facility app - Certificate issuance & distribution - Citizen portal - Feedback module - Analytics.
 
-### Getting Started
+## Getting Started
 
-#### [1. Orchestration: ](orchestration.md)
+### [1. Orchestration: ](orchestration.md)
 
 Before you start any public health program in your country, the orchestration\
 module helps you establish multiple registries for the program, set up appointment schedules, and add vaccinators.
 
-#### [2.  Facility app:](facility-app.md)&#x20;
+### [2.  Facility app:](facility-app.md)&#x20;
 
 Enables walk-in registrations, verification, queue management, and vaccination. The app lets you:
 
@@ -32,7 +32,7 @@ Enables walk-in registrations, verification, queue management, and vaccination. 
 * Recipient queue to view and manage the list of beneficiaries enrolled into the system.
 * Vaccination event recording and generation of an “immutable vaccination record.”
 
-#### 3. Certificate issuance & distribution&#x20;
+### 3. Certificate issuance & distribution&#x20;
 
 The certificate/credentialing module is an integral part of DIVOC and the issuance can be triggered whenever a vaccination event has been completed within the [**facility app**](facility-app.md) or it can be integrated with the vaccination system of the country. What this module allows:
 
@@ -42,15 +42,15 @@ The certificate/credentialing module is an integral part of DIVOC and the issuan
 * The module supports additional services, including certificate verification, certificate update/correction, and certificate revocation.
 * The public key of the adopter country can be published using DIVOC’s verification page that can be embedded into the country's vaccination program-specific website/portal.
 
-#### [4.  Citizen portal](citizen-portal.md)&#x20;
+### [4.  Citizen portal](citizen-portal.md)&#x20;
 
 DIVOC provides a public portal that can be used for citizen-specific activities such as self-registration and appointment booking for one or multiple programs. It can also be used to download and verify certificates.
 
-#### 5. Feedback&#x20;
+### [5. Feedback ](feedback.md)
 
 Enables digital administrative feedback and side-effect reporting by beneficiaries or their caretakers. The feedback module can be integrated with a country's analytics system or even with an AEFI (adverse event following immunisation) system for research and analysis of the reported side effects.
 
-#### 6. Analytics&#x20;
+### [6. Analytics ](analytics.md)
 
 The performance monitoring dashboard gives day-to-day details about an ongoing public health event such as vaccination.
 
