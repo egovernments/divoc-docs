@@ -42,3 +42,8 @@ Click on **Beneficiary Queue** to check how many patients are in queue for vacci
 
 On the completion of a vaccination event, the facility app generates a digital certificate in real-time. Countries that have their own vaccination systems can use the DIVOC certification module to issue certificates that will be auto-generated and stored in DIVOC’s certificate registry. If configured, the issued certificates will be seen under the “certificate Issued” section on the app. They can also be distributed to the visiting vaccinated beneficiaries post-printing by the facility staff.
 
+
+
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+
+__

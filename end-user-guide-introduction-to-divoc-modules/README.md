@@ -60,3 +60,9 @@ The performance monitoring dashboard gives day-to-day details about an ongoing p
 * _Each section presents a demonstration of various modules and features of DIVOC._&#x20;
 * _It is an illustration of a sample use case and not a part of any vaccination certification program._&#x20;
 * _The system resets itself periodically. If it is temporarily unavailable, please try again in a few minutes._
+
+__
+
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+
+__
