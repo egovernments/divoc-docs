@@ -1,20 +1,20 @@
 # Citizen Portal
 
-### **Who would typically use this?**
+## **Who would typically use this?**
 
 Citizens can use this portal before and after a vaccination event.
 
-### **What this module allows**
+## **What this module allows**
 
-1. Self-registration
-2. Appointment booking&#x20;
-3. Downloading a certificate&#x20;
-4. Verifying a certificate
-5. Side-effects reporting (Feedback module)
+* [Self-registration](citizen-portal.md#1.-for-self-registration-and-appointment)
+* [Appointment booking](citizen-portal.md#1.-for-self-registration-and-appointment)&#x20;
+* [Downloading a certificate](citizen-portal.md#2.-for-downloading-a-certificate)&#x20;
+* [Verifying a certificate](citizen-portal.md#3.-for-certificate-verification)
+* [Side-effects reporting (Feedback module)](feedback.md#citizen-portal-to-report-symptoms)
 
 ### **Steps to follow**
 
-#### **1. For self-registration and appointment -**
+### **1. For self-registration and appointment -**
 
 **Step 1: Log in to the portal**
 
@@ -44,7 +44,7 @@ Mention ID type, ID number, name, gender, residence details, contact information
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.29.20 PM.png>)
 
-#### **2. For Downloading a Certificate -**
+### **2. For Downloading a Certificate -**
 
 **Step 1: Log in**
 
@@ -68,7 +68,7 @@ Once the certificate is displayed, click on **Download / Print**.
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.40.11 PM.png>)
 
-#### **3. For Certificate Verification -**
+### **3. For Certificate Verification -**
 
 **Step 1:**
 

@@ -11,7 +11,7 @@ Using this module you can create and maintain program, facility, vaccine, and va
 | Certificate templates |   Max retail price   |      Total supply      |  <p>Rating and </p><p>feedback</p>  |   |
 |                       |  Vaccination method  |   Rating and feedback  |                                     |   |
 
-### Who would typically use this module?&#x20;
+## Who would typically use this module?&#x20;
 
 DIVOC comes with **three default roles**:
 
@@ -19,7 +19,7 @@ DIVOC comes with **three default roles**:
 * ****[**Controller**](orchestration.md#2.-controller) ****&#x20;
 * ****[**Facility admin**](orchestration.md#3.-facility-admin)****
 
-### Each has specific functions and logins assigned to them -&#x20;
+## Each has specific functions and logins assigned to them -&#x20;
 
 ### Steps to follow:
 
