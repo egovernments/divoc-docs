@@ -83,5 +83,3 @@ Click on **SCAN WITH QR** to verify the certificate.
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.49.10 PM.png>)
 
 _All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
-
-__

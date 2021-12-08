@@ -7,6 +7,7 @@
   * [Facility App](end-user-guide-introduction-to-divoc-modules/facility-app.md)
   * [Citizen Portal](end-user-guide-introduction-to-divoc-modules/citizen-portal.md)
   * [Feedback](end-user-guide-introduction-to-divoc-modules/feedback.md)
+  * [Analytics](end-user-guide-introduction-to-divoc-modules/analytics.md)
 * [Understand DIVOC](understand-divoc.md)
 * [Tech Docs](tech-docs.md)
 * [FAQ](faq.md)

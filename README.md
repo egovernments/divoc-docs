@@ -37,6 +37,6 @@ Being deployed across multiple countries, the platform has enabled the issuance 
 | DIVOC has enabled ICMR to issue digitally-signed <mark style="color:orange;">**Covid-19 test reports**</mark>. |                                                                                      Plans are underway for the issuance of digital Covid-19 certificates in both countries.                                                                                     |                        A full-DIVOC stack, Covid-Vax last-mile administration pilot is underway in <mark style="color:orange;">**Ethiopia**</mark>.                       |
 |                                                                                                                |                                                                                                                                                                                                                                                                  |                    Early discussions are underway with <mark style="color:orange;">**Ethiopia**</mark> for Covid-19 vaccination certificate roll-outs.                    |
 
-****
+__
 
 _All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

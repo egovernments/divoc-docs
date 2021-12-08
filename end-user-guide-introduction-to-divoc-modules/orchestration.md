@@ -15,9 +15,9 @@ Using this module you can create and maintain program, facility, vaccine, and va
 
 DIVOC comes with **three default roles**:
 
-1. **System admin**&#x20;
-2. **Controller**&#x20;
-3. **Facility admin**
+* ****[**System admin**](orchestration.md#1.-system-admin) ****&#x20;
+* ****[**Controller**](orchestration.md#2.-controller) ****&#x20;
+* ****[**Facility admin**](orchestration.md#3.-facility-admin)****
 
 ### Each has specific functions and logins assigned to them -&#x20;
 
@@ -156,5 +156,3 @@ Go to **Beneficiaries**. Select Program, Start Date, and End Date. Click on **SE
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 2.14.09 PM.png>)
 
 _All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
-
-__
