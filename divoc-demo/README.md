@@ -1,11 +1,10 @@
 ---
-description: >-
-  Each component of DIVOC can be used independently or together and integrated
-  with existing systems. This makes it easy for countries to choose, customise
-  and pick up components as per their needs.
+description: Introduction to DIVOC Modules
 ---
 
-# End User Guide: Introduction to DIVOC Modules
+# DIVOC Demo
+
+Each module or component of DIVOC can be used independently or together and integrated with existing systems. This makes it easy for countries to choose, customise and pick up components as per their needs.
 
 ### **How this demo works**
 
