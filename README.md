@@ -6,7 +6,7 @@ description: DIVOC - Digital Infrastructure for Vaccination Open Credentialing
 
 ## Brief
 
-**Open-source digital platform for large-scale digital vaccination credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing, and beyond.
+**Open-source digital platform for large-scale digital vaccination credentialing programs**. Built for India scale, used already for COVID vaccination in India, addresses other future vaccination scenarios, digital credentialing and beyond.
 
 **DIVOC is purely an open source software (not a hosted platform/service)** built with strong technical design, privacy, and security principles. It is built as generalised, configurable, and extensible software so that adopters can use it for themselves, on their preferred cloud, configure/extend the way they want, and rapidly roll out vaccination using a digital backbone.
 
