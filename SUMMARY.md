@@ -8,10 +8,10 @@
   * [Citizen Portal](view-demo/citizen-portal.md)
   * [Feedback](view-demo/feedback.md)
   * [Analytics](view-demo/analytics.md)
-* [Understand DIVOC](understand-divoc.md)
 * [Tech Docs](tech-docs.md)
 * [Events](events.md)
-* [About DIVOC Project](about-project-team.md)
+* [About DIVOC Project](about-project-team/README.md)
+  * [DIVOC in the Media](about-project-team/understand-divoc.md)
 
 ## Tech Community <a href="#community" id="community"></a>
 
