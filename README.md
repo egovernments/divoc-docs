@@ -21,7 +21,7 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev) website ****
 
 * The platform is modular. Countries can use the modules or components together or independently, according to their need, for end-to-end vaccination and certification.
 * Allows easy integration with existing systems.
-* Click on [**End User Guide**](view-demo/#how-this-demo-works) to play around with the modules.
+* <mark style="color:orange;">**DIVOC Demo**</mark>**:** Click [<mark style="color:orange;">**here**</mark>](view-demo/) to play around with the modules.
 
 ![](<.gitbook/assets/Screenshot 2021-12-06 at 4.27.10 PM.png>)
 
