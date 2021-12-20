@@ -28,7 +28,7 @@ Scan the QR code or enter the enrolment number. Press **Continue** to complete t
 
 The facility app supports the registration of walk-in patients who may or may not have booked an appointment before the visit.
 
-Click on **New Beneficiary**. Follow the same steps as outlined for users of the **** [**Citizen Portal**](feedback/citizen-portal.md#steps-to-follow) to add members.
+Click on **New Beneficiary**. Follow the same steps as outlined for users of the **** [**Citizen Portal**](citizen-portal.md#steps-to-follow) to add members.
 
 ### **3. Recipient waiting**
 
