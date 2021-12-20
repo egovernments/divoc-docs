@@ -18,3 +18,6 @@ You have likely seen a lot more QR codes over the last year due to the pandemic.
 * The information is secure and cannot be altered or tampered with, nor can it be scanned and accessed by everyone. This is because the original data/information in the QR code is digitally signed.
 * In the case of Covid-19 vaccination certificates, for example, data identifying the vaccination event and the beneficiary is encoded within a QR code and then digitally signed, making it tamper-proof. Only a verifying authority with a secure key can validate this information accurately by matching it with the signing key of the QR code.
 
+
+
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

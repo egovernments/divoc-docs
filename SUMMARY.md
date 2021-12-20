@@ -11,12 +11,12 @@
   * [Citizen Portal](view-demo/citizen-portal.md)
   * [Analytics](view-demo/analytics.md)
 * [Tech Docs](tech-docs.md)
-* [Events](events.md)
-* [About DIVOC Project](about-project-team/README.md)
-  * [DIVOC in the Media](about-project-team/understand-divoc.md)
+* [Events](events/README.md)
+  * [DIVOC in the Media](events/understand-divoc.md)
 
 ## Tech Community <a href="#community" id="community"></a>
 
+* [Useful links](community/about-project-team.md)
 * [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
