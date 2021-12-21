@@ -1,10 +1,10 @@
 # Useful links
 
-DIVOC is an open source project (MIT license), and it is maintained by [eGov Foundation](https://egov.org.in).
+DIVOC is an open source project (MIT license), and it is maintained by [**eGov Foundation**](https://egov.org.in).
 
-Documentation is available at [https://divoc.egov.org.in/](https://divoc.egov.org.in) and source code is available at [https://github.com/egovernments/DIVOC](https://github.com/egovernments/DIVOC).
+Documentation is available at [**https://divoc.egov.org.in/**](https://divoc.egov.org.in) and source code is available at [**https://github.com/egovernments/DIVOC**](https://github.com/egovernments/DIVOC).
 
-If you have questions, please visit our [Project Discussions Page.](https://github.com/egovernments/DIVOC/discussions)
+If you have questions, please visit our **** [**Project Discussions Page**](https://github.com/egovernments/DIVOC/discussions)**.**&#x20;
 
 
 

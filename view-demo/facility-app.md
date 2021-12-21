@@ -2,7 +2,7 @@
 
 ## Who would typically use this?
 
-It will be typically used by facility staff including vaccinators and registration desk users to carry out day-to-day tasks around a particular vaccination program. The app can be used both in offline and online mode. This is a multilingual application and the staff can choose the language according to their convenience.
+It will be typically used by facility staff, including vaccinators and registration desk users, to carry out day-to-day tasks around a particular vaccination program. The app can be used both in offline and online mode. This is a multilingual application and the staff can choose the language according to their convenience.
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 2.21.47 PM.png>)
 

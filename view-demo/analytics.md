@@ -6,7 +6,7 @@ description: Coming Soon...
 
 ## Who would typically use this?
 
-During any major health event, countries need powerful visual analytics to manage the rollout, distribution, certification, and other processes. DIVOC’s analytics dashboard empowers health departments of countries to harness its data and find insights that are required to manage future challenges.
+During any major health event, countries need powerful visual analytics to manage the rollout, distribution, certification, and other processes. DIVOC’s analytics dashboard empowers health departments of countries to harness their data and find insights that are required to manage future challenges.
 
 ## Real-time analytics oversee the entire process
 
