@@ -32,9 +32,9 @@ Enables walk-in registrations, verification, queue management, and vaccination. 
 * Recipient queue to view and manage the list of beneficiaries enrolled into the system.
 * Vaccination event recording and generation of an “immutable vaccination record.”
 
-### [3. Issue & Distribute Certificates](issue-and-verify-certificates/) &#x20;
+### [3. Issue & Verify Certificates](issue-and-verify-certificates/) &#x20;
 
-The certificate/credentialing module is an integral part of DIVOC. Countries can issue certificates after a vaccination event by using the [**facility app**](facility-app.md) or the module can be integrated with the vaccination system of the country.&#x20;
+The certificate/credentialing module is an integral part of DIVOC, which can be used to issue certificates after a vaccination event. The module can also be integrated with the vaccination system of the country.&#x20;
 
 ### [4.  Citizen portal](citizen-portal.md)&#x20;
 
