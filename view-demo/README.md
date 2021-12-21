@@ -14,14 +14,14 @@ The tutorials will guide you on how to use DIVOC:
 
 **Or,**
 
-* You can go step-by-step as shown below: Orchestration - Facility app - Certificate issuance & distribution - Citizen portal - Feedback module - Analytics.
+* You can go step-by-step as shown below: Orchestration - Facility app - Issue and Distribute Certificates - Citizen portal - Feedback module - Analytics.
 
 ## Getting Started
 
 ### [1. Orchestration: ](orchestration.md)
 
 Before you start any public health program in your country, the orchestration\
-module helps you establish multiple registries for the program, set up appointment schedules, and add vaccinators.
+module helps you establish multiple registries for the program, set up appointment schedules, and add vaccinators, among others.
 
 ### [2.  Facility app:](facility-app.md)&#x20;
 
@@ -34,7 +34,7 @@ Enables walk-in registrations, verification, queue management, and vaccination. 
 
 ### [3. Issue & Distribute Certificates](issue-and-distribute-certificates/) &#x20;
 
-The certificate/credentialing module is an integral part of DIVOC and the issuance can be triggered whenever a vaccination event has been completed within the [**facility app**](facility-app.md) or it can be integrated with the vaccination system of the country.&#x20;
+The certificate/credentialing module is an integral part of DIVOC. Countries can issue certificates after a vaccination event by using the [**facility app**](facility-app.md) or the module can be integrated with the vaccination system of the country.&#x20;
 
 ### [4.  Citizen portal](citizen-portal.md)&#x20;
 
@@ -42,7 +42,7 @@ DIVOC provides a public portal that can be used for citizen-specific activities 
 
 ### [5. Feedback ](feedback.md)
 
-Enables digital administrative feedback and side-effect reporting by beneficiaries or their caretakers. The feedback module can be integrated with a country's analytics system or even with an AEFI (adverse event following immunisation) system for research and analysis of the reported side effects.
+Enables digital administrative feedback and reporting of side-effects by beneficiaries or their caretakers. The feedback module can be integrated with a country's analytics system or even with an AEFI (adverse event following immunisation) system for research and analysis of the reported side-effects.
 
 ### [6. Analytics ](analytics.md)
 
