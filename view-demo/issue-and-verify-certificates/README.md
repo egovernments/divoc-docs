@@ -3,10 +3,10 @@
 ## What this module allows:
 
 * Countries can use this module to issue digitally verifiable certificates to the entire population at speed and scale in a controlled manner post-vaccination.
-* This module is responsible for issuing a QR code-based digital certificate for any registered health event. Click [**here**](verifiable-qr-code.md) to know more about the difference between a normal QR code and a verifiable QR code.
-* The certificates can be distributed in both digital and physical forms, which includes print, pdf, and other formats.&#x20;
-* Certificates can be verified using the [**citizen portal**](../citizen-portal.md).&#x20;
-* Certificates can also be downloaded by citizens via the [**citizen portal**](../citizen-portal.md).&#x20;
+* This module is responsible for issuing a QR code-based digital certificate for any registered health event. It can be adapted to other areas too where there is a requirement for secure and tamper-proof documents, such as educational certificates. Click [**here**](verifiable-qr-code.md) if you want to understand how a normal QR code that you may see on a food menu is different from a  verifiable QR code.
+* The certificates can be issued in both digital and physical forms, which includes print, pdf, and other formats.&#x20;
+* Certificates can be verified using the [**citizen portal**](../citizen-portal.md#3.-for-certificate-verification).&#x20;
+* Certificates can also be downloaded by citizens via the [**citizen portal**](../citizen-portal.md#2.-for-downloading-a-certificate).&#x20;
 * If the country has an authorised third-party app, it can be integrated with DIVOC's credentialing module to fetch certificates from the certificate registry and view/download them.
 
 ![Once the certificate is issued, multi-channel distribution and print schemes should work to ensure users and countries have a choice.](<../../.gitbook/assets/Screenshot 2021-12-20 at 3.14.45 PM.png>)
