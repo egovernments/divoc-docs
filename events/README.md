@@ -1,9 +1,9 @@
 # Events
 
-### Upcoming Event
+## Upcoming Event
 
-#### DIVOC Webinar&#x20;
+### DIVOC Webinar
 
-Join us for our first Webinar on **DIVOC Certificate Specifications.**  &#x20;
+Join us for our first Webinar on **DIVOC Certificate Specifications.**
 
 Announcement coming soon!
