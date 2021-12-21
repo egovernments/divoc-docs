@@ -20,8 +20,3 @@
 * [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
-
-***
-
-* [Import](import/README.md)
-  * [MPHpMaGP3CS0wJadlDS](import/mphpmagp3cs0wjadlds.md)
