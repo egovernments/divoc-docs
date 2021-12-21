@@ -18,7 +18,7 @@ Citizens can use this portal before and after a vaccination event.
 
 **Step 1: Log in to the portal**
 
-Use the following URL for the citizen portal: [**https://demo-divoc.egov.org.in/citizen**](https://demo-divoc.egov.org.in/citizen)**.** Log in using your own mobile number and OTP 123456. Click on Verify.
+Use the following URL for the citizen portal: [**https://demo-divoc.egov.org.in/citizen**](https://demo-divoc.egov.org.in/citizen)**.** Log in using your own mobile number and OTP 123456. Click on **Verify**.
 
 **Step 2: Add a member**
 
@@ -40,7 +40,7 @@ Enter the beneficiary’s year of birth and mention if the person has any commod
 
 **Step 5: Add details**
 
-Mention ID type, ID number, name, gender, residence details, contact information, and email ID among others. Once you have added all the details, click on **Continue**. You can book your appointment once you have registered.
+Mention ID type, ID number, name, gender, residence details, contact information, and email ID among others. Once you have added all the details, click on **Continue**. You can book your appointment once you have registered yourself.
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.29.20 PM.png>)
 

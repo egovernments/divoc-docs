@@ -45,6 +45,6 @@ After a vaccination event, the facility app generates a digital certificate in r
 * Countries that have their own vaccination systems can use the DIVOC certification module to issue certificates that will be auto-generated and stored in DIVOC’s certificate registry.&#x20;
 * If configured, the issued certificates will be seen under the “certificate issued” section on the app. They can also be distributed to vaccinated beneficiaries at a facility after they are printed by the facility staff.
 
-
+__
 
 _All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
