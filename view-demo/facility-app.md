@@ -10,7 +10,7 @@ It will be typically used by facility staff including vaccinators and registrati
 
 ### **1. Verify Beneficiary**
 
-This function can be utilised to verify a beneficiary against the photo/national ID proof submitted by the beneficiary at the time of registration. If a country has an online ID system (such as Aadhaar in the case of India), the module can be integrated with the national ID system and can perform an online verification.
+This function can be used to verify a beneficiary against the photo/national ID proof submitted by the beneficiary at the time of registration. If a country has an online ID system (such as Aadhaar in the case of India), the module can be integrated with the national ID system and can perform an online verification.
 
 **Step 1: Log in**&#x20;
 
@@ -40,7 +40,10 @@ Click on **Beneficiary Queue** to check how many patients are in queue for vacci
 
 ### **4. Issue/ Distribute Certificates**
 
-On the completion of a vaccination event, the facility app generates a digital certificate in real-time. Countries that have their own vaccination systems can use the DIVOC certification module to issue certificates that will be auto-generated and stored in DIVOC’s certificate registry. If configured, the issued certificates will be seen under the “certificate Issued” section on the app. They can also be distributed to the visiting vaccinated beneficiaries post-printing by the facility staff.
+After a vaccination event, the facility app generates a digital certificate in real-time.&#x20;
+
+* Countries that have their own vaccination systems can use the DIVOC certification module to issue certificates that will be auto-generated and stored in DIVOC’s certificate registry.&#x20;
+* If configured, the issued certificates will be seen under the “certificate issued” section on the app. They can also be distributed to vaccinated beneficiaries at a facility after they are printed by the facility staff.
 
 
 
