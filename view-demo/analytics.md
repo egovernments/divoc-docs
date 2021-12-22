@@ -20,4 +20,6 @@ During any major health event, countries need powerful visual analytics to manag
 
 ![](<../.gitbook/assets/Screenshot 2021-11-29 at 9.46.36 AM.png>)
 
+__
+
 _All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
