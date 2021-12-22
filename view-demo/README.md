@@ -4,13 +4,13 @@ description: Introduction to DIVOC Modules
 
 # View Demo
 
-Each module or component of DIVOC can be used independently or together and integrated with existing systems. This makes it easy for countries to choose, customise and pick up components as per their needs.
+Each module or component of DIVOC can be <mark style="color:orange;">**used independently or together**</mark> and integrated with existing systems. This makes it easy for countries to choose, customise and pick up components as per their needs.
 
 ## **How this demo works**
 
 The tutorials will guide you on how to use DIVOC:
 
-* There are 6 sections and you can play around with each to understand how they work as per your specific needs.&#x20;
+* There are <mark style="color:orange;">**6 sections**</mark> and you can play around with each to understand how they work as per your specific needs.&#x20;
 
 **Or,**
 
