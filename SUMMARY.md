@@ -10,7 +10,7 @@
   * [Citizen Portal](view-demo/citizen-portal.md)
   * [Feedback](view-demo/feedback.md)
   * [Analytics](view-demo/analytics.md)
-* [Tech Docs](tech-docs.md)
+* [Developer Documents](tech-docs.md)
 * [Events](events/README.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 
