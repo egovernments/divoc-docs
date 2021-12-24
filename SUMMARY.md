@@ -11,6 +11,9 @@
   * [Feedback](view-demo/feedback.md)
   * [Analytics](view-demo/analytics.md)
 * [Developer Documents](tech-docs.md)
+* [Implementer's Guide](implementers-guide/README.md)
+  * [Skills needed to set up DIVOC](implementers-guide/skills-needed-to-set-up-divoc.md)
+  * [Certification and Verification component](implementers-guide/certification-and-verification-component.md)
 * [Events](events/README.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 
