@@ -78,7 +78,7 @@ The DIVOC platform provides API services for generating digitally verifiable QR 
 
 
 
-* Refer /v3/certify service [**here**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/../..) for details.&#x20;
+* Refer to the /v3/certify service [**here**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/../..) for details.&#x20;
 * Click [**here**](https://docs.google.com/document/d/13EnZYs-CdKYh3GSjyAQJ7jecAdch3HBqAZ0VDokhKE8/edit#heading=h.qlnvn9e0z4em) if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
 
 ## Key Functionalities&#x20;
@@ -99,7 +99,7 @@ b. The detailed field validations are mentioned here: [**https://github.com/egov
 Click the following to see how you can make the changes:
 
 1. ****[**Create a certification generation request**](step-1-create-a-certification-generation-request.md)****
-2. ****[**Update the QR code content**](https://app.gitbook.com/o/-MEQmzNGXk5ajuZujG7E/s/BzDN8TNEi1Pzc9yUiD8a/c/56CweA5Z8lLjVBUE3Uqr/implementers-guide/certification-and-verification-component/updating-certificates/step-2-update-the-qr-code-content)****
+2. ****[**Update the QR code content**](step-2-update-the-qr-code-content.md)****
 3. **Update the certificate template**
 
 
