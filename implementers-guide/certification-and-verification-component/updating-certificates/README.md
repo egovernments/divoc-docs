@@ -23,7 +23,60 @@ The DIVOC platform provides API services for generating digitally verifiable QR 
 
 * You can refer to the API service call with sample data below:
 
-![](<../../../.gitbook/assets/Screenshot 2021-12-27 at 8.54.13 AM.png>)
+```
+[
+    {
+        "preEnrollmentCode": "62",
+        "recipient": {
+            "name": "Sam",
+            "uhid": "abc2232",
+            "dob": "1990-09-14",
+            "age": "31",
+            "gender": "Male",
+            "nationality": "India",
+            "identity": "did:in.gov.uidai.aadhaar:11112222334",
+            "contact": [
+                "tel:1111111313"
+            ],
+            "address": {
+                "addressLine1": "123, Koramangala",
+                "addressLine2": "",
+                "district": "Bengaluru South",
+                "state": "bihar",
+                "pincode": "560033"
+            }
+        },
+        "vaccination": {
+            "name": "covaxin",
+            "batch": "AB348FS",
+            "manufacturer": "Bharat Biotech",
+            "date": "2021-07-12T19:21:19.646Z",
+            "effectiveStart": "2021-07-12",
+            "effectiveUntil": "2021-08-12",
+            "dose": 2,
+            "totalDoses": 2
+        },
+        "vaccinator": {
+            "name": "Sooraj Singh"
+        },
+        "facility": {
+            "name": "ABCD Medical Center",
+            "address": {
+                "addressLine1": "123, Koramangala",
+                "addressLine2": "",
+                "district": "Bengaluru South",
+                "state": "Karnataka",
+                "pincode": "560033"
+            }
+        },
+        "programId": "6ce74c0f-b1b5-4b20-9fa2-084acbbd857a",
+        "meta": { //Meta section stored as an Object and it can contain information in    Key value pair
+        }
+    }
+]\
+```
+
+
 
 * Refer /v3/certify service [**here**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/../..) for details.&#x20;
 * Click [**here**](https://docs.google.com/document/d/13EnZYs-CdKYh3GSjyAQJ7jecAdch3HBqAZ0VDokhKE8/edit#heading=h.qlnvn9e0z4em) if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
