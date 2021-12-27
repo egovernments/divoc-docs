@@ -23,3 +23,6 @@ DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccinati
 4. How to update the verification section to verify certificates?
 5. How to integrate with the SMS/Email gateway to notify beneficiaries?
 
+
+
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
