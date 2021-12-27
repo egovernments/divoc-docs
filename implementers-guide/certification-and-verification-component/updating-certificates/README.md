@@ -13,8 +13,8 @@ This document will help an implementer make changes to the certificate (template
 The DIVOC platform provides API services for generating digitally verifiable QR code-based vaccination certificates. The API for certificate generation has 6 sections:
 
 1. **PreEnrollmentCode:** This section is linked to the “dose” in the vaccination section to uniquely identify the event. For example, beneficiary registration number (R101) and dose number (1) as (R101-1) will be used to identify the first dose event uniquely. Similarly, beneficiary registration number (R101) and dose number (2) as (R101-2) will be used to identify the second dose event uniquely.
-2. Recipient: It contains information about the beneficiary.
-3. Vaccination: It contains details about the vaccination event such as name, batch, and vaccination date.
+2. **Recipient:** It contains information about the beneficiary.
+3. **Vaccination:** It contains details about the vaccination event such as name, batch, and vaccination date.
 4. **Vaccinator:** It contains details about the vaccinator.
 5. **Facility:** It contains details about the facility where beneficiaries will get vaccinated.
 6. **Meta:** It contains additional information, which is not part of the QR code, such as the number of past doses taken.&#x20;
