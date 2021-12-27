@@ -17,6 +17,7 @@
     * [Updating Certificates](implementers-guide/certification-and-verification-component/updating-certificates/README.md)
       * [Step 1: Create a certification generation request](implementers-guide/certification-and-verification-component/updating-certificates/step-1-create-a-certification-generation-request.md)
       * [Step 2: Update the QR code content](implementers-guide/certification-and-verification-component/updating-certificates/step-2-update-the-qr-code-content.md)
+      * [Step 3: Update the certificate template](implementers-guide/certification-and-verification-component/updating-certificates/step-3-update-the-certificate-template.md)
 * [Events](events/README.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 

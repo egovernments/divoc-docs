@@ -11,7 +11,7 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
-&#x20;              1\. How to update certificates?&#x20;
+&#x20;              1\. [How to update certificates?](certification-and-verification-component/updating-certificates/)&#x20;
 
 &#x20;              2\. How to configure revocation services?&#x20;
 

@@ -100,7 +100,7 @@ Click the following to see how you can make the changes:
 
 1. ****[**Create a certification generation request**](step-1-create-a-certification-generation-request.md)****
 2. ****[**Update the QR code content**](step-2-update-the-qr-code-content.md)****
-3. **Update the certificate template**
+3. ****[**Update the certificate template**](step-3-update-the-certificate-template.md)****
 
 
 
