@@ -17,7 +17,7 @@ DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccinati
 
 ## What will the sections cover?
 
-1. How to update certificates?&#x20;
+1. [How to update certificates?](updating-certificates/)&#x20;
 2. How to configure revocation services?&#x20;
 3. How to configure the verification page?&#x20;
 4. How to update the verification section to verify certificates?
