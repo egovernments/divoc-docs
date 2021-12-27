@@ -99,7 +99,7 @@ b. The detailed field validations are mentioned here: [**https://github.com/egov
 Click the following to see how you can make the changes:
 
 1. ****[**Create a certification generation request**](step-1-create-a-certification-generation-request.md)****
-2. **Update the QR code content**
+2. ****[**Update the QR code content**](https://app.gitbook.com/o/-MEQmzNGXk5ajuZujG7E/s/BzDN8TNEi1Pzc9yUiD8a/c/56CweA5Z8lLjVBUE3Uqr/implementers-guide/certification-and-verification-component/updating-certificates/step-2-update-the-qr-code-content)****
 3. **Update the certificate template**
 
 

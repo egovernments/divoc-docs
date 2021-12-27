@@ -5,9 +5,9 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ## What will it cover?
 
-### A. [Skills needed to set up DIVOC](https://app.gitbook.com/o/-MEQmzNGXk5ajuZujG7E/s/BzDN8TNEi1Pzc9yUiD8a/c/Wjhf1y9t3vCAJ4sT4qm8/implementers-guide/skills-needed-to-set-up-divoc)
+### A. [Skills needed to set up DIVOC](skills-needed-to-set-up-divoc.md)
 
-### B. [Certificate and Verification component](https://app.gitbook.com/o/-MEQmzNGXk5ajuZujG7E/s/BzDN8TNEi1Pzc9yUiD8a/c/Wjhf1y9t3vCAJ4sT4qm8/implementers-guide/certification-and-verification-component):&#x20;
+### B. [Certificate and Verification component](certification-and-verification-component/)&#x20;
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
