@@ -13,7 +13,9 @@
 * [Developer Documents](tech-docs.md)
 * [Implementer's Guide](implementers-guide/README.md)
   * [Skills needed to set up DIVOC](implementers-guide/skills-needed-to-set-up-divoc.md)
-  * [Certification and Verification component](implementers-guide/certification-and-verification-component.md)
+  * [Certification and Verification component](implementers-guide/certification-and-verification-component/README.md)
+    * [Updating Certificates](implementers-guide/certification-and-verification-component/updating-certificates/README.md)
+      * [Step 1: Create a certification generation request](implementers-guide/certification-and-verification-component/updating-certificates/step-1-create-a-certification-generation-request.md)
 * [Events](events/README.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 
