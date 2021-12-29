@@ -8,7 +8,7 @@ a. Open the file [**main.js**](https://github.com/egovernments/DIVOC/blob/main/b
 
 b. Go to the function transformW3 and add the fields according to your requirement. This function will read the data received from the certificate generation API call and convert it into QR code Json format.
 
-```
+```json
 function transformW3(cert, certificateId) {
   const certificateType = R.pathOr('', ['meta', 'certificateType'], cert);
   const namespace = certificateType === CERTIFICATE_TYPE_V3 ? CERTIFICATE_NAMESPACE_V2 : CERTIFICATE_NAMESPACE;
