@@ -89,9 +89,36 @@ The DIVOC platform provides API services for generating digitally verifiable QR 
 
 a. Please refer to the existing service details in the ‘certification’ section (/v3/certify): [**https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../india/interfaces/vaccination-api.yaml**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../india/interfaces/vaccination-api.yaml)****
 
-b. The detailed field validations are mentioned here: [**https://github.com/egovernments/DIVOC/blob/4076e69cf152fd76dafa8a0565777895f55b1245/interfaces/vaccination-api.yaml**](https://github.com/egovernments/DIVOC/blob/4076e69cf152fd76dafa8a0565777895f55b1245/interfaces/vaccination-api.yaml) **(Line 148: /v3/certify)**
+b. The detailed field validations are mentioned here: [**https://github.com/egovernments/DIVOC/blob/4076e69cf152fd76dafa8a0565777895f55b1245/interfaces/vaccination-api.yaml**](https://github.com/egovernments/DIVOC/blob/4076e69cf152fd76dafa8a0565777895f55b1245/interfaces/vaccination-api.yaml) ****&#x20;
 
-![](<../../../.gitbook/assets/Screenshot 2021-12-27 at 9.01.00 AM.png>)
+```
+// /v3/certify:
+    post:
+      tags:
+        - certification
+      summary: Certify the one or more vaccination
+      description: >-
+        Certification happens asynchronously, this requires vaccinator
+        authorization and vaccinator should be trained for the vaccination that
+        is being certified. The payload for this API is compliant with DDCC core
+        data set prescribed by WHO
+      operationId: certifyV3
+      parameters:
+        - in: body
+          name: body
+          required: true
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/CertificationRequestV2' //Refer Line 722 in same file 
+      responses:
+        '200':
+          description: OK
+        '400':
+          description: Invalid input
+          schema:
+            $ref: '#/definitions/Error'
+```
 
 ## Making the changes
 
