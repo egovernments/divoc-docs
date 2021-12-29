@@ -12,7 +12,7 @@ a. Open this file: [**https://github.com/egovernments/DIVOC/blob/main/backend/va
 
 b. Add a parameter in the function “convertToCertifyUploadFields” called RecipientParentName.
 
-```
+```markup
 // func convertToCertifyUploadFields(data *Scanner) *db.CertifyUploadFields {
 	return &db.CertifyUploadFields{
 		PreEnrollmentCode:         data.Text("preEnrollmentCode"),
