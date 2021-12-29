@@ -17,7 +17,7 @@ b. Add a parameter in the function “convertToCertifyUploadFields” called Rec
 	return &db.CertifyUploadFields{
 		PreEnrollmentCode:         data.Text("preEnrollmentCode"),
 		RecipientName:             data.Text("recipientName"),
-_RecipientParentName:_        data.Text("recipientParentName"),
+**RecipientParentName:** RecipientParentName:        data.Text("recipientParentName"),
 		RecipientMobileNumber:  data.Text("recipientMobileNumber"),
 		RecipientDOB:              data.Text("recipientDOB"),
 		RecipientGender:           data.Text("recipientGender"),
