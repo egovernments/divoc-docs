@@ -4,9 +4,9 @@
 
 This document will help an implementer make changes to the certificate (template and QR code). This section will cover the steps to update a certificate by configuring:
 
-1. Certificate generation request&#x20;
-2. QR code section&#x20;
-3. Certificate template
+1. [Certificate generation request](step-1-create-a-certification-generation-request.md)&#x20;
+2. [QR code section](step-2-update-the-qr-code-content.md)&#x20;
+3. [Certificate template](step-3-update-the-certificate-template.md)
 
 ## API&#x20;
 
@@ -75,8 +75,6 @@ The DIVOC platform provides API services for generating digitally verifiable QR 
     }
 ]\
 ```
-
-
 
 * Refer to the /v3/certify service [**here**](https://raw.githubusercontent.com/egovernments/DIVOC/india/interfaces/vaccination-api.yaml) for details.&#x20;
 
