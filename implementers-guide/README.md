@@ -11,15 +11,11 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
-&#x20;              1\. [How to update certificates?](certification-and-verification-component/updating-certificates/)&#x20;
+* [How to update certificates?](certification-and-verification-component/updating-certificates/)&#x20;
+* How to update the verification section?
+* How to integrate with the SMS/Email gateway to notify beneficiaries?
+* How to configure revocation services?
 
-&#x20;              2\. How to configure revocation services?&#x20;
+&#x20;&#x20;
 
-&#x20;              3\. How to configure the verification page?&#x20;
-
-&#x20;              4\. How to update the verification section to verify certificates?&#x20;
-
-&#x20;              5\. How to integrate with the SMS/Email gateway to notify beneficiaries?
-
-
-
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
