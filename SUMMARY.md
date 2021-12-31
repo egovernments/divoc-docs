@@ -19,7 +19,7 @@
       * [Step 2: Update the QR code content](implementing-divoc/certification-and-verification-component/updating-certificates/step-2-update-the-qr-code-content.md)
       * [Step 3: Update the certificate template](implementing-divoc/certification-and-verification-component/updating-certificates/step-3-update-the-certificate-template.md)
     * [Setting up the verification portal for implementation](implementing-divoc/certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
-* [Events](events/README.md)
+* [DIVOC events](events/README.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 
 ## Tech Community <a href="#community" id="community"></a>
