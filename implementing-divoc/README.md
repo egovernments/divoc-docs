@@ -1,4 +1,4 @@
-# Implementer's Guide
+# Implementing DIVOC
 
 Setting up DIVOC in your country to orchestrate a new health program? The guide covers everything you need to know to implement DIVOC. The different sections are meant for people who are involved in planning and managing the various aspects of the implementation process, as well as those involved in the technical work. The documents cover the various steps and configurations required. \
 
@@ -12,7 +12,7 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
 * [How to update certificates?](certification-and-verification-component/updating-certificates/)&#x20;
-* How to update the verification section?
+* How to set up the verification portal for your implementation?
 * How to integrate with the SMS/Email gateway to notify beneficiaries?
 * How to configure revocation services?
 
