@@ -29,23 +29,23 @@ A system admin can be a user from the IT department of the country responsible f
 
 Use the following URL: [**https://demo-divoc.egov.org.in/portal**](https://demo-divoc.egov.org.in/portal). Log in using 2111111111 and OTP 1234
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.00.52 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.05.22 PM.png>)
 
 **A. Program setup**
 
 1\. Click on **Vaccine Programs**. Register a new vaccine/immunisation program by clicking on **REGISTER NEW VACCINE PROGRAM**.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.03.52 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.07.30 PM (1).png>)
 
 2\.  Add the program name, program description, program logo, start and end dates, and select vaccine. Click on **SAVE**. You will see a list of all vaccine programs currently active in your country.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.05.59 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.09.29 PM.png>)
 
 **B. Vaccine registration**
 
 1\. Click on **Vaccines**. **** You can register a new vaccine, as well as existing ones by clicking on **REGISTER NEW VACCINE.**
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.09.44 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.10.54 PM.png>)
 
 2\. Fill in details such as the name of the vaccine, manufacturer, administration type,\
 price, duration dose (if there are multiple doses), and vaccine validity. Next, click on\
@@ -59,7 +59,7 @@ price, duration dose (if there are multiple doses), and vaccine validity. Next, 
 
 2\. Click on **UPLOAD CSV** to upload this list.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.17.02 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.12.24 PM.png>)
 
 **D. Recipient pre-enrollment**
 
@@ -67,7 +67,7 @@ price, duration dose (if there are multiple doses), and vaccine validity. Next, 
 
 2\. Next, click on **UPLOAD CSV** to upload the list.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.21.00 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.13.56 PM.png>)
 
 **E. Set up vaccinators**
 
@@ -75,7 +75,7 @@ price, duration dose (if there are multiple doses), and vaccine validity. Next, 
 
 2\. Click on **UPLOAD CSV** to upload the list.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.24.26 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.15.10 PM.png>)
 
 ### 2. Controller&#x20;
 
@@ -83,41 +83,39 @@ The controller user role can be utilised by a program administrator who manages 
 
 Use the following URL: [**https://demo-divoc.egov.org.in/portal**](https://demo-divoc.egov.org.in/portal). Log in using 1111111170 and OTP 1234
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.45.43 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.17.29 PM.png>)
 
 **A. Facility activation/deactivation**&#x20;
 
 Go to **Facility Activation**. Select Program, Region, and Type of Facility. Select the facilities you want to activate from the list. Click on **Make Active**. To deactivate a facility, follow the same steps and select the facilities you want to deactivate. Click on **Make Inactive** to deactivate a facility.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.50.55 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.19.51 PM.png>)
 
 **B. Adjusting vaccination rate**
 
 Go to **Adjusting Rate**. Select Program Name, Region, Type of Facility. Select one or more facilities to set/modify daily vaccination rates. Click on **SET RATES**.
 
-
-
 **C. Notify Facilities**
 
 1\. Go to **All Facilities**. Select Program, Region, Type of Facility. Select the facility. Click on **NOTIFY**.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.57.51 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.21.44 PM.png>)
 
 2\. Write the subject matter and the message. Click on **SEND**.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 1.58.45 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.22.37 PM.png>)
 
 ### 3. Facility Admin
 
 Use the following URL: [**https://demo-divoc.egov.org.in/portal**](https://demo-divoc.egov.org.in/portal). Log in using 3333333341 and OTP 1234.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 2.00.33 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.23.50 PM.png>)
 
 **A. Set up appointment schedules**
 
 1\. Go to **Program Overview**. Click on **CONFIGURE SLOTS**.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 2.02.59 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.25.11 PM.png>)
 
 2\. Select **Appointment Hours** to set/change the timings, and set up/change the **Maximum number of appointments allowed**. Select **Walk-in Hours** to set up /change the timings, and set up/change the **Walk-in Days**. Click on **SAVE.**
 
