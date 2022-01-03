@@ -24,25 +24,25 @@ Use the following URL for the citizen portal: [**https://demo-divoc.egov.org.in/
 
 Click on **+Member** to add members (you can register yourself and 3 more with a single mobile number).
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.23.56 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.48.28 PM.png>)
 
 **Step 3: Register to a program**
 
 Select the program for which you want to register (if there are multiple programs listed). Click on **Continue**.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.25.09 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.49.48 PM.png>)
 
 **Step 4: Check eligibility**
 
 Enter the beneficiary’s year of birth and mention if the person has any commodities from among those listed. Click on **Continue**.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.27.27 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.51.00 PM.png>)
 
 **Step 5: Add details**
 
 Mention ID type, ID number, name, gender, residence details, contact information, and email ID among others. Once you have added all the details, click on **Continue**. You can book your appointment once you have registered yourself.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.29.20 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.53.32 PM.png>)
 
 ### **2. For Downloading a Certificate -**
 
@@ -54,13 +54,13 @@ Click on the following URL to log into the citizen portal: [**https://demo-divoc
 
 Log in with 1234567890 and OTP 1234.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.35.59 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.59.42 PM.png>)
 
 **Step 2:**
 
 Select the person whose certificate you want to download or print.
 
-![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.38.50 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-01-03 at 3.01.23 PM.png>)
 
 **Step 3:**
 
