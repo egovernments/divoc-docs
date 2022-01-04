@@ -16,7 +16,11 @@ You have likely seen a lot more QR codes over the last year due to the pandemic.
 * In a normal QR code, information can be edited and altered, making the verification process untrustworthy and vulnerable to hacking. To address this issue, a signed or verifiable QR code is used, particularly in the case of sensitive information. Sensitive data could be your bank details, educational details, and medical information, among others.
 * A signed QR code encodes the verifiable data set or information within the QR itself, rather than on any website.
 * The information is secure and cannot be altered or tampered with, nor can it be scanned and accessed by everyone. This is because the original data/information in the QR code is digitally signed.
-* In the case of COVID-19 vaccination certificates, for example, data identifying the vaccination event and the beneficiary is encoded within a QR code and then digitally signed, making it tamper-proof. Only a verifying authority with a secure key can validate this information accurately by matching it with the signing key of the QR code. Click [**here**](../../implementing-divoc/certification-and-verification-component/updating-certificates/what-information-goes-into-a-qr-code.md) to know more about what information goes into a QR-code based vaccination certificate.
+* In the case of COVID-19 vaccination certificates, for example, data identifying the vaccination event and the beneficiary is encoded within a QR code and then digitally signed, making it tamper-proof. Only a verifying authority with a secure key can validate this information accurately by matching it with the signing key of the QR code.
+
+## What information goes into a QR code?
+
+Click [**here**](../../implementing-divoc/certification-and-verification-component/updating-certificates/what-information-goes-into-a-qr-code.md) to know more.
 
 
 
