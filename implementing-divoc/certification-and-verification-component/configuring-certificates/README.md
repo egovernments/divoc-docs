@@ -1,8 +1,8 @@
-# Updating Certificates
+# Configuring Certificates
 
 ## Overview
 
-This document will help an implementer make changes to the certificate (template and QR code). This section will cover the steps to update a certificate by configuring:
+This document will help an implementer create a certificate (template and QR code) for a health event such as vaccination. This section will cover the steps to generate a certificate by configuring:
 
 1. [Certificate generation request](step-1-create-a-certification-generation-request.md)&#x20;
 2. [QR code section](step-2-update-the-qr-code-content.md)&#x20;
