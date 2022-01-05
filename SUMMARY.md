@@ -18,8 +18,8 @@
       * [Step 1: Create a certification generation request](implementing-divoc/certification-and-verification-component/configuring-certificates/step-1-create-a-certification-generation-request.md)
       * [Step 2: Configure the QR code content](implementing-divoc/certification-and-verification-component/configuring-certificates/step-2-configure-the-qr-code-content.md)
       * [Step 3: Configure the certificate template](implementing-divoc/certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)
-      * [What information goes into a QR Code?](implementing-divoc/certification-and-verification-component/configuring-certificates/what-information-goes-into-a-qr-code.md)
     * [Setting up the verification portal for implementation](implementing-divoc/certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
+    * [What information goes into a QR Code?](implementing-divoc/certification-and-verification-component/what-information-goes-into-a-qr-code.md)
 * [DIVOC events](events/README.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 
