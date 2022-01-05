@@ -20,7 +20,7 @@ You have likely seen a lot more QR codes over the last year due to the pandemic.
 
 ## What information goes into a QR code?
 
-Click [**here**](../../implementing-divoc/certification-and-verification-component/what-information-goes-into-a-qr-code.md) to know more.
+Click [**here**](../../implementing-divoc/what-information-goes-into-a-qr-code.md) to know more.
 
 
 
