@@ -2,11 +2,11 @@
 
 ## Overview
 
-This document will help an implementer create a certificate (template and QR code) for a health event such as vaccination. This section will cover the steps to generate a certificate by configuring:
+This document will help an implementer configure a certificate (template and QR code) for a health event such as vaccination. This section includes configuring:
 
 1. [Certificate generation request](step-1-create-a-certification-generation-request.md)&#x20;
-2. [QR code section](step-2-update-the-qr-code-content.md)&#x20;
-3. [Certificate template](step-3-update-the-certificate-template.md)
+2. [QR code section](step-2-configure-the-qr-code-content.md)&#x20;
+3. [Certificate template](step-3-configure-the-certificate-template.md)
 
 ## API&#x20;
 
@@ -81,8 +81,8 @@ The DIVOC platform provides API services for generating digitally verifiable QR 
 
 ## Key Functionalities&#x20;
 
-* Generate updated QR code&#x20;
-* Generate updated certificate template
+* Generate configured QR code&#x20;
+* Generate configured certificate template
 
 ## Prerequisite: Get details on API request and field validations
 
@@ -124,8 +124,8 @@ b. The detailed field validations are mentioned here: [**https://github.com/egov
 Click the following to see how you can make the changes:
 
 1. ****[**Create a certification generation request**](step-1-create-a-certification-generation-request.md)****
-2. ****[**Update the QR code content**](step-2-update-the-qr-code-content.md)****
-3. ****[**Update the certificate template**](step-3-update-the-certificate-template.md)****
+2. ****[**Update the QR code content**](step-2-configure-the-qr-code-content.md)****
+3. ****[**Update the certificate template**](step-3-configure-the-certificate-template.md)****
 
 
 

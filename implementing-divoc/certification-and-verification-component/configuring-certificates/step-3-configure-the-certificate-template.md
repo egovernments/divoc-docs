@@ -1,10 +1,10 @@
-# Step 3: Update the certificate template
+# Step 3: Configure the certificate template
 
 Each country will have a separate certificate template with country-specific branding, and language.
 
 **Steps:**
 
-a. The DIVOC certificate template has been designed in the HTML format. To update the HTML**-**based certificate template according to your country’s requirement, open [**certificate\_template.html**](https://github.com/egovernments/DIVOC/blob/main/backend/certificate\_api/configs/templates/certificate\_template.html) and map the dynamic fields in the certificate template.
+a. The DIVOC certificate template has been designed in the HTML format. To configure the HTML**-**based certificate template according to your country’s requirement, open [**certificate\_template.html**](https://github.com/egovernments/DIVOC/blob/main/backend/certificate\_api/configs/templates/certificate\_template.html) and map the dynamic fields in the certificate template.
 
 ```
 <tr>
