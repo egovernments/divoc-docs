@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DIVOC](README.md)
+* [Introduction to DIVOC](README.md)
 * [DIVOC Architecture](divoc-architecture.md)
 * [DIVOC Demo](divoc-demo/README.md)
   * [Orchestration](divoc-demo/orchestration.md)
