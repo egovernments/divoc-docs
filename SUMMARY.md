@@ -14,7 +14,7 @@
 * [Implementing DIVOC](implementing-divoc/README.md)
   * [Skills needed to set up DIVOC](implementing-divoc/skills-needed-to-set-up-divoc.md)
   * [Certification and Verification component](implementing-divoc/certification-and-verification-component/README.md)
-    * [Configuring Certificates](implementing-divoc/certification-and-verification-component/configuring-certificates/README.md)
+    * [Configuring certificates](implementing-divoc/certification-and-verification-component/configuring-certificates/README.md)
       * [Step 1: Create a certification generation request](implementing-divoc/certification-and-verification-component/configuring-certificates/step-1-create-a-certification-generation-request.md)
       * [Step 2: Configure the QR code content](implementing-divoc/certification-and-verification-component/configuring-certificates/step-2-configure-the-qr-code-content.md)
       * [Step 3: Configure the certificate template](implementing-divoc/certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)
