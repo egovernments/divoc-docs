@@ -19,7 +19,7 @@ DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccinati
 
 1. [How to configure the certificate generation component?](configuring-certificates/)&#x20;
 2. [How to set up the verification portal for your implementation?](setting-up-the-verification-portal-for-implementation.md)
-3. [How to set up update certificates API?](../divocs-certification-and-verification-component/how-to-setup-update-certificates-api.md)
+3. [How to set up update certificates API?](../divocs-certification-and-verification-component/how-to-set-up-update-certificates-api.md)
 4. How to integrate with the SMS/Email gateway to notify beneficiaries?
 5. How to configure revocation services?&#x20;
 
