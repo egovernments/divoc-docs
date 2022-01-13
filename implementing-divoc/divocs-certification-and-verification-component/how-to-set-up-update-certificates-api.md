@@ -1,4 +1,4 @@
-# How to setup update certificates API
+# How to set up update certificates API
 
 ## Overview
 
@@ -8,7 +8,7 @@ This document will help an implementer configure the following service:&#x20;
 
 ## API
 
-* The DIVOC platform provides API services for updating vaccination certificates. You can refer to the API service call ‘​/v3​/certificate’ for the method PUT **** [**here**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../india/interfaces/vaccination-api.yaml).
+* The DIVOC platform provides API services for updating vaccination certificates. You can refer to the API service call ‘​/v3​/certificate’ for the method <mark style="background-color:orange;">PUT</mark> [**here**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../india/interfaces/vaccination-api.yaml).
 * The payload of the update service is the same as that of the certificate generation request. Click [**here**](https://divoc.egov.org.in/implementing-divoc/certification-and-verification-component/configuring-certificates) to know more.
 * The platform provides flexibility to update values in the ‘recipient,’ ‘vaccination,’ ‘vaccinator,’ and ‘facility’ sections. Click **** [**here**](../what-information-goes-into-a-qr-code.md) **** if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
 
@@ -64,7 +64,7 @@ if count < (config.Config.Certificate.UpdateLimit + 1) {
 }
 ```
 
-**Step 2:** Open [**this**](https://github.com/egovernments/DIVOC/blob/main/backend/vaccination\_api/config/config.go#L78) file and update the limit by configuring _**CERTIFICATE\_UPDATE\_LIMIT**_.
+**Step 2:** Open [**this**](https://github.com/egovernments/DIVOC/blob/main/backend/vaccination\_api/config/config.go#L78) file and update the limit by configuring <mark style="background-color:yellow;">CERTIFICATE\_UPDATE\_LIMIT</mark>.
 
 ```
 UpdateLimit int `env:"CERTIFICATE_UPDATE_LIMIT" default:"5"`
