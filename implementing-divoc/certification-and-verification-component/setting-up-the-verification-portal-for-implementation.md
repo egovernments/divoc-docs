@@ -1,4 +1,4 @@
-# Setting up the verification portal for implementation
+# How to set up the verification portal for implementation
 
 ## Overview&#x20;
 

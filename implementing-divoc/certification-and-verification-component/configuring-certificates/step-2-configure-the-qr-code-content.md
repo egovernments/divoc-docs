@@ -1,4 +1,4 @@
-# Step 2: Update the QR code content
+# Step 2: Configure the QR code content
 
 The template for the QR code generation is provided [**here**](https://github.com/egovernments/DIVOC/blob/main/vaccination-context/vaccination-context.js) under vaccination-context. The QR code structure must match the vaccination-context. Any updates made in the QR code content must reflect in the vaccination-context.js file.
 

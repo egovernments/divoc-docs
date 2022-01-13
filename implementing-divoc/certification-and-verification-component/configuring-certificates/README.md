@@ -1,4 +1,4 @@
-# Configuring Certificates
+# Configuring certificates
 
 ## Overview
 
