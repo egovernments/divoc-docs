@@ -28,7 +28,7 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev) website ****
 
 &#x20;            2\. Analytics
 
-![](<.gitbook/assets/Screenshot 2022-01-24 at 2.13.48 PM.png>)
+![](<.gitbook/assets/Screenshot 2022-01-24 at 2.35.02 PM.png>)
 
 * Reference Implementation: There are other components of DIVOC that countries can customise according to their requirement -&#x20;
 
