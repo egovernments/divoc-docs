@@ -2,7 +2,9 @@
 description: Digital Infrastructure for Vaccination Open Credentialing
 ---
 
-# DIVOC
+# Introduction to DIVOC
+
+
 
 ![](.gitbook/assets/VACCINE.jpeg)
 
@@ -20,11 +22,27 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev) website ****
 ## **Our Key Modules**
 
 * The platform is modular, enabling countries to use the components together or as an individual standalone solution, according to their need, for end-to-end vaccination and certification.
+* DIVOC has two core modules:
+
+&#x20;            1\. Issue and Verify Certificates
+
+&#x20;            2\. Analytics
+
+![](<.gitbook/assets/Screenshot 2022-01-24 at 2.13.48 PM.png>)
+
+* Reference Implementation: There are other components of DIVOC that countries can customise according to their requirement -&#x20;
+
+&#x20;             1\. Orchestration&#x20;
+
+&#x20;             2\. Facility app
+
+&#x20;             3\. Citizen portal
+
+&#x20;             4\. Feedback        &#x20;
+
+![](<.gitbook/assets/Screenshot 2022-01-24 at 1.55.44 PM (1).png>)
+
 * <mark style="color:orange;">**DIVOC Demo**</mark>**:** Click [<mark style="color:orange;">**here**</mark>](divoc-demo/) to play around with the modules.
-
-![](<.gitbook/assets/Screenshot 2021-12-24 at 3.41.59 PM (1).png>)
-
-![](<.gitbook/assets/Screenshot 2021-12-24 at 8.51.24 PM.png>)
 
 ## **DIVOC’s journey so far: Country stories**
 
