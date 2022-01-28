@@ -5,7 +5,7 @@ This section describes the key features of DIVOC and how they work. It covers:
 * [Creating a DIVOC certificate](creating-a-divoc-certificate/)&#x20;
 * [DIVOC native COVID-19 certificate specification](divoc-native-covid-19-certificate-specification.md)&#x20;
 * [What information goes into a QR code](what-information-goes-into-a-qr-code.md)&#x20;
-* Updating a DIVOC certificate
+* [Updating a DIVOC certificate](updating-a-divoc-certificate.md)
 * Revoking a DIVOC certificate&#x20;
 
 
