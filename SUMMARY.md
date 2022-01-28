@@ -16,6 +16,9 @@
     * [What information is included in the DIVOC certificate?](divoc-features/creating-a-divoc-certificate/what-information-is-included-in-the-divoc-certificate.md)
     * [DIVOC’s certificate generation service: How does it work?](divoc-features/creating-a-divoc-certificate/divocs-certificate-generation-service-how-does-it-work.md)
     * [Compliance with internationally used COVID-19 certificate schemas](divoc-features/creating-a-divoc-certificate/compliance-with-internationally-used-covid-19-certificate-schemas.md)
+  * [DIVOC native COVID-19 certificate specification](divoc-features/divoc-native-covid-19-certificate-specification.md)
+  * [What information goes into a QR Code?](divoc-features/what-information-goes-into-a-qr-code.md)
+  * [Updating a DIVOC Certificate](divoc-features/updating-a-divoc-certificate.md)
 * [Developer Documents](tech-docs.md)
 * [Implementing DIVOC](implementing-divoc/README.md)
   * [Skills needed to set up DIVOC](implementing-divoc/skills-needed-to-set-up-divoc.md)
@@ -26,7 +29,6 @@
       * [Step 3: Configure the certificate template](implementing-divoc/certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)
     * [How to set up the verification portal for implementation](implementing-divoc/certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
     * [How to set up update certificates API](implementing-divoc/divocs-certification-and-verification-component/how-to-set-up-update-certificates-api.md)
-  * [What information goes into a QR Code?](implementing-divoc/what-information-goes-into-a-qr-code.md)
 * [DIVOC events](events/README.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 
