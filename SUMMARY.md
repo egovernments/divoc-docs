@@ -19,6 +19,7 @@
   * [DIVOC native COVID-19 certificate specification](divoc-features/divoc-native-covid-19-certificate-specification.md)
   * [What information goes into a QR Code?](divoc-features/what-information-goes-into-a-qr-code.md)
   * [Updating a DIVOC Certificate](divoc-features/updating-a-divoc-certificate.md)
+  * [Revoking a DIVOC Certificate](divoc-features/revoking-a-divoc-certificate.md)
 * [Developer Documents](tech-docs.md)
 * [Implementing DIVOC](implementing-divoc/README.md)
   * [Skills needed to set up DIVOC](implementing-divoc/skills-needed-to-set-up-divoc.md)
