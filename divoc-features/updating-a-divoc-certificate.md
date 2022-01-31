@@ -1,12 +1,13 @@
 # Updating a DIVOC Certificate
 
-## Document Purpose&#x20;
+## Document purpose&#x20;
 
-The purpose of this document is to outline the features and workflow of the DIVOC “Update Certificate” service.
+The purpose of this document is to outline the features and workflow of DIVOC's “Update Certificate” service.
 
 ## **Overview**
 
-* DIVOC provides an “**update certificate**” feature to help beneficiaries make changes in a certificate if any information was captured incorrectly during the beneficiary registration or vaccination process. For this purpose, DIVOC provides an “_Update Certificate API_,” for a source system (e.g. a vaccination platform) to update the vaccination as well as beneficiary details in digital certificates issued by DIVOC.
+* DIVOC provides an “**update certificate**” feature to help beneficiaries make changes in a certificate if any information was captured incorrectly during the beneficiary registration or vaccination process.&#x20;
+* For this purpose, DIVOC provides an “_Update Certificate API_,” for a source system (e.g. a vaccination platform) to update the vaccination as well as beneficiary details in digital certificates issued by DIVOC.
 * There are multiple ways of using this service. The issuing authority can enable a self-service portal, or set up a call centre, or the source system can capture the update requests directly, which can then call the Update API to facilitate the updates/corrections to the specific certificates. The key requirement here is that the “Update Certificate API” is called by the source system(s) to update an issued certificate. Using this API, the source system can update a beneficiary’s latest as well as previously issued digital certificates.
 
 ## **Update Certificate API**
@@ -72,11 +73,11 @@ As outlined earlier, DIVOC’s “Update Certificate” API is used by source sy
 
 2\. Any or all of the above fields can be corrected/updated by calling the Update Certificate API by a source system.&#x20;
 
-3\. The Update Certificate API requires “beneficiary ID/enrollment code and dose number as an input to fetch the right certificate that needs to be updated.&#x20;
+3\. The Update Certificate API requires beneficiary ID/enrollment code and dose number as an input to fetch the right certificate that needs to be updated.&#x20;
 
 4\. Once the certificate is fetched, the update API updates the information against the certificate ID as provided in the API payload input.&#x20;
 
-5\. Once the certificate is updated, a new certificate is issued with a new certificate ID and updated information. The older certificate gets revoked by an automated revocation workflow utilizing DIVOC’s “Revoke API”.&#x20;
+5\. Once the certificate is updated, a new certificate is issued with a new certificate ID and updated information. The older certificate gets revoked by an automated revocation workflow using DIVOC’s “Revoke API.”&#x20;
 
 6\. The revoked certificate is moved to the Certificate Revocation List (CRL). If the older revoked certificate is scanned by a verifier, the verification screen will show “certificate revoked.”&#x20;
 

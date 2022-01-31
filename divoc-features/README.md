@@ -1,6 +1,6 @@
 # DIVOC Features
 
-This section describes the key features of DIVOC and how they work. It covers:
+This section describes the key features of DIVOC and how they work. It covers the following:
 
 * [Creating a DIVOC certificate](creating-a-divoc-certificate/)&#x20;
 * [DIVOC native COVID-19 certificate specification](divoc-native-covid-19-certificate-specification.md)&#x20;

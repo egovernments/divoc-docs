@@ -2,7 +2,7 @@
 
 ## Who would typically use this?
 
-It will be typically used by facility staff, including vaccinators and registration desk users, to carry out day-to-day tasks around a particular vaccination program. The app can be used both in <mark style="color:orange;">**offline and online mode**</mark>. This is a multilingual application and the staff can choose the language according to their convenience.
+It will be typically used by facility staff, including vaccinators and registration desk users, to carry out day-to-day tasks around a particular vaccination program. The app can be used both in <mark style="color:orange;">**offline and online modes**</mark>. This is a multilingual application and the staff can choose the language according to their convenience.
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 2.21.47 PM.png>)
 
@@ -38,7 +38,7 @@ Click on **Beneficiary Queue** to check how many patients are in queue for vacci
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 2.34.48 PM.png>)
 
-### **4. Issue/ Distribute Certificates**
+### **4. Issue/Distribute Certificates**
 
 After a vaccination event, the facility app generates a digital certificate in real-time.&#x20;
 

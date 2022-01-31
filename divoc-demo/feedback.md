@@ -2,11 +2,11 @@
 
 ## Who would typically use this?&#x20;
 
-DIVOC has a feedback module that can be configured by countries to receive feedback on facilities that are running health campaigns. It can also configure a list of side-effects that can be reported by beneficiaries with a single click after authenticating themselves with a user ID password or mobile OTP via the “Citizen Portal.”
+DIVOC has a feedback module that can be configured by countries to receive feedback on facilities that are running health campaigns. It can also configure a list of side-effects that can be reported by beneficiaries with a single click after authenticating themselves with a user ID password or mobile OTP via the [**Citizen portal**](citizen-portal.md).
 
 ## Citizen portal to report symptoms&#x20;
 
-A citizen interface via the DIVOC’s citizen portal has been enabled that can be used to provide feedback against the facility or report side-effects experienced after leaving the facility.
+A citizen interface via DIVOC’s citizen portal has been enabled that can be used to provide feedback against the facility or report side-effects experienced after leaving the facility.
 
 ### Steps to follow
 

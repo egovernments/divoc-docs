@@ -25,7 +25,7 @@ DIVOC comes with **three default roles**:
 
 ### **1. System Admin**&#x20;
 
-A system admin can be a user from the IT department of the country responsible for setting up initial rules, configuration, and master data upload for the specific program/programs in question.
+A system admin can be a user from the IT department of the country responsible for setting up initial rules, configuration, and master data upload for a specific program/programs in question.
 
 Use the following URL: [**https://demo-divoc.egov.org.in/portal**](https://demo-divoc.egov.org.in/portal). Log in using 2111111111 and OTP 1234
 
@@ -127,7 +127,7 @@ Use the following URL: [**https://demo-divoc.egov.org.in/portal**](https://demo-
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 2.07.23 PM.png>)
 
-2\. Add details such as name, mobile number, email id, license number, and certification, if any. Click on **ADD**.
+2\. Enter details such as name, mobile number, email id, license number, and certification, if any. Click on **ADD**.
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 2.08.31 PM.png>)
 

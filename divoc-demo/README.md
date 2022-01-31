@@ -2,7 +2,7 @@
 description: Introduction to DIVOC Modules
 ---
 
-# View Demo
+# DIVOC Demo
 
 Each module or component of DIVOC can be <mark style="color:orange;">**used independently or together**</mark> and integrated with existing systems. This makes it easy for countries to choose, customise and pick up components as per their needs.
 
@@ -14,7 +14,7 @@ The tutorials will guide you on how to use DIVOC:
 
 **Or,**
 
-* You can go step-by-step as shown below: Orchestration - Facility app - Issue and Distribute Certificates - Citizen portal - Feedback module - Analytics.
+* You can go step-by-step as shown below: Orchestration - Facility app - Issue and Verify Certificates - Citizen portal - Feedback module - Analytics.
 
 ## Getting Started
 

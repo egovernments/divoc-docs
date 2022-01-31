@@ -1,6 +1,6 @@
 # Verifiable QR Code
 
-You have likely seen a lot more QR codes over the last year due to the pandemic. At many restaurants, for example, which are keen not to share physical menus, customers scan a QR code with their phone camera to open a website for the online menu.
+You have likely seen a lot more QR codes over the last two years due to the pandemic. At many restaurants, for example, which are keen not to share physical menus, customers scan a QR code with their phone camera to open a website for the online menu.
 
 ## **What is a QR code?**
 

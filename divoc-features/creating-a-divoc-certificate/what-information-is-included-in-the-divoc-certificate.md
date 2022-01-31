@@ -29,7 +29,7 @@ The DIVOC digital certificate QR code includes the following data structure:
 
 ### Sample certificate payload
 
-To further illustrate the data structure of DIVOC Certificate outputs, a sample certificate payload is outlined below:
+To further illustrate the data structure of DIVOC certificate outputs, a sample certificate payload is outlined below:
 
 ![](<../../.gitbook/assets/Screenshot 2022-01-27 at 10.22.11 AM.png>)
 

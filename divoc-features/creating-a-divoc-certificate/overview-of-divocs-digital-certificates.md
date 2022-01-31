@@ -14,13 +14,13 @@ Using the DIVOC certificate generation service, a country can issue a QR code-ba
 
 **A. Holder:** Someone who possesses one or more verifiable credentials as a proof of an event/identified use case and is responsible for generating presentations from them. In DIVOC’s vaccination use case, it is the vaccine recipient or beneficiary.
 
-**B. Issuer:** Issuer is a legal entity that asserts claims about the holder or subject about a verifiable event or an identified use case by issuing a verifiable credential to a holder. Issuers may include central/state governments, authorities, corporations, etc. For instance, in the COVID 19 vaccine scenario, the issuer is the issuing countries or legal authorities.&#x20;
+**B. Issuer:** Reefers to a legal entity that asserts claims about the holder or subject about a verifiable event or an identified use case by issuing a verifiable credential to a holder. Issuers may include central/state governments, authorities, corporations, etc. For instance, in the COVID 19 vaccine scenario, the issuer could be the issuing country or legal authorities.&#x20;
 
 **C. Subject:** An entity about which the verifiable claim is made by the issuer, for example, beneficiary or vaccine dose recipient.&#x20;
 
 **D. Verifier:** An entity who is responsible for verifying an issued credential. In the COVID-19 travel scenario, verifiers are the arrival country authorities that require a verifiable COVID-19 vaccine proof for allowing access to services and border entries.&#x20;
 
-**E. Verifiable data registry:** A role a system may perform by mediating the creation and verification of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries, issuer public keys, and so on, which may be required to use verifiable credentials.
+**E. Verifiable data registry:** This refers to a role that a system may perform by mediating the creation and verification of identifiers, keys, and other relevant data, such as verifiable credential schemas, revocation registries, issuer public keys, and so on, which may be required to use verifiable credentials.
 
 
 
