@@ -1,4 +1,4 @@
-# How to set up update certificates API
+# How to configure the update certificate API
 
 ## Overview
 
@@ -16,7 +16,7 @@ This document will help an implementer configure the following service:&#x20;
 
 * Update the existing certificate along with its QR code.
 
-## Prerequisite: Get details on the API request and field validations:
+## Methods: Get details on the API request and field validations:
 
 a. The update certificate request is processed in [**this**](https://github.com/egovernments/DIVOC/blob/main/backend/vaccination\_api/pkg/handler.go#L608) function. The pre-enrollment code and dose-wise certificates will be searched in the system to make an update request. The function will trigger the subsequent process to update the certificates.
 

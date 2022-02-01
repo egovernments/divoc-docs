@@ -29,7 +29,7 @@
       * [Step 2: Configure the QR code content](implementing-divoc/certification-and-verification-component/configuring-certificates/step-2-configure-the-qr-code-content.md)
       * [Step 3: Configure the certificate template](implementing-divoc/certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)
     * [How to set up the verification portal for implementation](implementing-divoc/certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
-    * [How to set up update certificates API](implementing-divoc/divocs-certification-and-verification-component/how-to-set-up-update-certificates-api.md)
+    * [How to configure the update certificate API](implementing-divoc/divocs-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
 * [DIVOC events](events/README.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 
