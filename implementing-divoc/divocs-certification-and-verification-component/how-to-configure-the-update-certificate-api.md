@@ -2,21 +2,19 @@
 
 ## Overview
 
-This document will help an implementer configure the following service:&#x20;
+This section will help an implementer configure the DIVOC “Update Certificate” API.
 
-* Update certificates
+## Intended output&#x20;
+
+* Implementers can use the “Update Certificate” API to process the requested updates - both in the QR code and human-readable sections of a specific certificate.
 
 ## API
 
 * The DIVOC platform provides API services for updating vaccination certificates. You can refer to the API service call ‘​/v3​/certificate’ for the method <mark style="background-color:orange;">PUT</mark> [**here**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../india/interfaces/vaccination-api.yaml).
 * The payload of the update service is the same as that of the certificate generation request. Click [**here**](https://divoc.egov.org.in/implementing-divoc/certification-and-verification-component/configuring-certificates) to know more.
-* The platform provides flexibility to update values in the ‘recipient,’ ‘vaccination,’ ‘vaccinator,’ and ‘facility’ sections. Click **** [**here**](../../divoc-features/what-information-goes-into-a-qr-code.md) **** if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
+* The platform provides flexibility to update values in the ‘**recipient**,’ ‘**vaccination**,’ ‘**vaccinator**,’ and ‘**facility**’ sections. Click **** [**here**](../../divoc-features/what-information-goes-into-a-qr-code.md) **** if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
 
-## Key Functionality
-
-* Update the existing certificate along with its QR code.
-
-## Methods: Get details on the API request and field validations:
+## Methods - Get details on the API request and field validations:
 
 a. The update certificate request is processed in [**this**](https://github.com/egovernments/DIVOC/blob/main/backend/vaccination\_api/pkg/handler.go#L608) function. The pre-enrollment code and dose-wise certificates will be searched in the system to make an update request. The function will trigger the subsequent process to update the certificates.
 
@@ -45,13 +43,7 @@ log.Infof("Certificate update request approved %+v", request)
 return certification.NewUpdateCertificateV3OK()
 ```
 
-b. The platform provides the flexibility to restrict the number of update requests to avoid misuse of the functionality in generating multiple certificates.
-
-## Example:
-
-Configure the limit of update certificate requests to only five where the user can only update a certificate five times.
-
-## Steps
+b. An implementer has the provision to restrict the number of update requests against a specific certificate in order to avoid the misuse of this functionality (i.e. fraudulent generation of multiple certificate copies). For instance, the implementer can configure the “Update Limit” to only “5,” in which case the certificate can only be updated five times. The following steps are needed to enable this configuration:
 
 **Step 1:** Open [**this**](https://github.com/egovernments/DIVOC/blob/main/backend/vaccination\_api/pkg/handler.go#L660) file and check the function that will limit the number of certificates being updated.
 
