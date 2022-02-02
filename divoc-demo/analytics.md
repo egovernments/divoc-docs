@@ -11,7 +11,7 @@ During any major health event, countries need powerful visual analytics to manag
 ## Real-time analytics oversee the entire process
 
 * It uses an open-source visualisation dashboard called “Redash,” which can be configured by countries.
-* It is integrated with DIVOC’s [**certificate module**](issue-and-verify-certificates.md). Redash can be configured for other modules of DIVOC as well as per a country's requirements.
+* It is integrated with DIVOC’s [**certificate module**](issue-and-verify-certificates/). Redash can be configured for other modules of DIVOC as well as per a country's requirements.
 * Countries can generate customised analytical reports without hampering the actual production database via ClickHouse, an open-source database management system that has been implemented by DIVOC.
 
 ![](<../.gitbook/assets/Screenshot 2021-11-29 at 9.46.02 AM.png>)
