@@ -1,6 +1,6 @@
 # Creating a DIVOC certificate
 
-## Document purpose&#x20;
+## Purpose&#x20;
 
 The purpose of this document is to provide information about the certificate generation service of DIVOC. It has the following sections:
 

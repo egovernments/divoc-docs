@@ -1,6 +1,6 @@
 # Updating a DIVOC Certificate
 
-## Document purpose&#x20;
+## Purpose&#x20;
 
 The purpose of this document is to outline the features and workflow of DIVOC's “Update Certificate” service.
 

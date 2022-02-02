@@ -1,6 +1,6 @@
 # Revoking a DIVOC Certificate
 
-## Document purpose
+## Purpose
 
 This document refers to the revocation of a digital certificate issued to a person. DIVOC’s certificate revocation service will help stakeholders of a program to revoke digital certificates, according to the issuing authority’s predefined policy.
 
@@ -26,13 +26,12 @@ The purpose of this document is to provide an overview of the certificate revoca
 * The revocation list can be maintained and hosted by an issuing authority (either inside or outside its central certificate registry). Or, it can be periodically downloaded as a file and stored by a verifier application.
 * When a revoked certificate’s QR code is scanned using the DIVOC’s online verification service, the service searches the CRL for the certificate ID to check if the certificate is a valid or revoked certificate.
 * If the certificate ID is found in the CRL of the scanned QR code, the verification screen displays the certificate as revoked.
-
-![](<../.gitbook/assets/Screenshot 2022-01-31 at 3.03.31 PM.png>)
-
 * Each CRL has a serial number, time, and date on which the certificate was revoked, as well as the reason behind revocation.&#x20;
 * It includes the date and time when the CRL was published, and when the next update to the CRL will be published.
 
-## **How does it work?**
+![](<../.gitbook/assets/Screenshot 2022-02-02 at 12.20.09 PM.png>)
+
+## How does it work?
 
 * A revocation flow is triggered when the revocation API is called by the source system (e.g. a vaccination platform), on specific transactions (e.g. the correction or update of a certificate).&#x20;
 * As input parameters from the source system, the Revoke API receives beneficiary ID/enrollment code and dose number.
