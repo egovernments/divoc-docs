@@ -11,7 +11,7 @@ The guide covers everything developers need to know to set up and run DIVOC on t
 ## What will it cover?
 
 * [API documentation](api-documentation.md)&#x20;
-* [Setting up DIVOC development environment](../setting-up-divoc-development-environment.md)
+* [Setting up DIVOC development environment](setting-up-divoc-development-environment.md)
 
 
 

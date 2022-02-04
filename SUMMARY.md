@@ -22,7 +22,7 @@
   * [Revoking a DIVOC Certificate](divocs-verifiable-certificate-features/revoking-a-divoc-certificate.md)
 * [Developer Documents](tech-docs/README.md)
   * [API Documentation](tech-docs/api-documentation.md)
-* [Setting up DIVOC development environment](setting-up-divoc-development-environment.md)
+  * [Setting up DIVOC development environment](tech-docs/setting-up-divoc-development-environment.md)
 * [Implementing DIVOC](implementing-divoc/README.md)
   * [Skills needed to set up DIVOC](implementing-divoc/skills-needed-to-set-up-divoc.md)
   * [DIVOC's Certification and Verification component](implementing-divoc/certification-and-verification-component/README.md)
