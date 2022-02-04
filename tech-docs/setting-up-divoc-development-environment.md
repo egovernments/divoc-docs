@@ -1,6 +1,6 @@
 # Setting up DIVOC development environment
 
-This will cover the following:&#x20;
+## This will cover the following:&#x20;
 
 * [Running DIVOC on a local machine](setting-up-divoc-development-environment.md#running-divoc-on-a-local-machine)&#x20;
 * [DIVOC walkthrough](setting-up-divoc-development-environment.md#divoc-walkthrough)

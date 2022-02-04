@@ -6,7 +6,7 @@ description: Relevant Software and Developer Documentation
 
 ## Purpose
 
-The guide covers everything developers need to know to set up and run DIVOC on their local machine.&#x20;
+The guide covers everything developers need to know to set up and run DIVOC on their local machines.&#x20;
 
 ## What will it cover?
 
