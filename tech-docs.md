@@ -10,7 +10,7 @@ description: Relevant Software and Developer Documentation
 2. [Vaccination API (swagger)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../india/interfaces/vaccination-api.yaml)
 3. [Certificate Access API (swagger)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../main/interfaces/certificate-api.yaml)
 4. [Registration API (swagger)](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/registration-api.yaml)
-5. [Vaccination api](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#/../..)
+5. [Vaccination api](https://raw.githubusercontent.com/egovernments/DIVOC/main/interfaces/vaccination-api.yaml)
 
 ### Getting Started
 
