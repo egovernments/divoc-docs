@@ -3,7 +3,7 @@
 * [Introduction to DIVOC](README.md)
 * [DIVOC Architecture](divoc-architecture.md)
 * [DIVOC Demo](divoc-demo/README.md)
-  * [Orchestration](divoc-demo/orchestration.md)
+  * [Program setup (via Orchestration module)](divoc-demo/program-setup-via-orchestration-module.md)
   * [Facility App](divoc-demo/facility-app.md)
   * [Issue and Verify Certificates](divoc-demo/issue-and-verify-certificates/README.md)
   * [Citizen Portal](divoc-demo/citizen-portal.md)

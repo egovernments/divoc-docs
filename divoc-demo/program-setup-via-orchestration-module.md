@@ -1,4 +1,4 @@
-# Orchestration
+# Program setup (via Orchestration module)
 
 Using this module you can create and maintain program, facility, vaccine, and vaccinator registries. Countries that do not have digital health registries can use this module to create digital infrastructure/resources for any kind of public health program. Countries can also create appointment schedules and daily rates of vaccination for different facilities.
 
@@ -15,9 +15,9 @@ Using this module you can create and maintain program, facility, vaccine, and va
 
 DIVOC comes with **three default roles**:
 
-* ****[**System admin**](orchestration.md#1.-system-admin) ****&#x20;
-* ****[**Controller**](orchestration.md#2.-controller) ****&#x20;
-* ****[**Facility admin**](orchestration.md#3.-facility-admin)****
+* ****[**System admin**](program-setup-via-orchestration-module.md#1.-system-admin) ****&#x20;
+* ****[**Controller**](program-setup-via-orchestration-module.md#2.-controller) ****&#x20;
+* ****[**Facility admin**](program-setup-via-orchestration-module.md#3.-facility-admin)****
 
 ## Each has specific functions and logins assigned to them -&#x20;
 
