@@ -18,7 +18,7 @@ The tutorials will guide you on how to use DIVOC:
 
 ## Getting Started
 
-### [1. Program setup (via orchestration module): ](program-setup-via-orchestration-module.md)
+### [1. Program setup (via orchestration module): ](orchestration.md)
 
 Before you start any public health program in your country, the orchestration\
 module helps you establish multiple registries for the program, set up appointment schedules, and add vaccinators, among others.

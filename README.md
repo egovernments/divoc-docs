@@ -32,7 +32,7 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev) website ****
 
 * Reference Implementation: There are other components of DIVOC that countries can customise according to their requirement -&#x20;
 
-&#x20;             1\. Orchestration&#x20;
+&#x20;             1\. Program setup via the orchestration module
 
 &#x20;             2\. Facility app
 
