@@ -20,6 +20,7 @@
   * [DIVOC native COVID-19 certificate specification](divocs-verifiable-certificate-features/divoc-native-covid-19-certificate-specification.md)
   * [Updating a DIVOC Certificate](divocs-verifiable-certificate-features/updating-a-divoc-certificate.md)
   * [Revoking a DIVOC Certificate](divocs-verifiable-certificate-features/revoking-a-divoc-certificate.md)
+  * [Verifying a DIVOC certificate](divocs-verifiable-certificate-features/verifying-a-divoc-certificate.md)
 * [Developer Documents](tech-docs/README.md)
   * [API Documentation](tech-docs/api-documentation.md)
   * [Setting up DIVOC development environment](tech-docs/setting-up-divoc-development-environment.md)
