@@ -16,7 +16,7 @@ Using this module you can create and maintain program, facility, vaccine, and va
 DIVOC comes with **three default roles**:
 
 * ****[**System admin**](orchestration.md#1.-system-admin) ****&#x20;
-* ****[**Program administrator**](orchestration.md#2.-controller) ****&#x20;
+* ****[**Program administrator**](orchestration.md#2.-program-administrator) ****&#x20;
 * ****[**Facility admin**](orchestration.md#3.-facility-admin)****
 
 ## Each has specific functions and logins assigned to them -&#x20;
