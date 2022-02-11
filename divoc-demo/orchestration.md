@@ -16,7 +16,7 @@ Using this module you can create and maintain program, facility, vaccine, and va
 DIVOC comes with **three default roles**:
 
 * ****[**System admin**](orchestration.md#1.-system-admin) ****&#x20;
-* ****[**Controller**](orchestration.md#2.-controller) ****&#x20;
+* ****[**Program administrator**](orchestration.md#2.-controller) ****&#x20;
 * ****[**Facility admin**](orchestration.md#3.-facility-admin)****
 
 ## Each has specific functions and logins assigned to them -&#x20;
@@ -77,9 +77,9 @@ price, duration dose (if there are multiple doses), and vaccine validity. Next, 
 
 ![](<../.gitbook/assets/Screenshot 2022-01-03 at 2.15.10 PM.png>)
 
-### 2. Controller&#x20;
+### 2. Program administrator&#x20;
 
-The controller user role can be utilised by a program administrator who manages facility enrollment and oversees the facility operations aligned with the program objective. The person would be responsible for setting up per day facility vaccination rate, and activating/deactivating the facilities, etc.
+A program administrator manages facility enrollment and oversees the facility operations aligned with the program objective. The person would be responsible for setting up per day facility vaccination rate, and activating/deactivating the facilities, etc.
 
 Use the following URL: [**https://demo-divoc.egov.org.in/portal**](https://demo-divoc.egov.org.in/portal). Log in using 1111111170 and OTP 1234
 
