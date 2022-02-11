@@ -16,14 +16,14 @@ The purpose of this document is to provide an overview of the certificate revoca
 
 ### **Revocation API**
 
-* DIVOC has enabled a “Revoke API” that can be used to revoke an issued certificate, for manual revocation use cases.&#x20;
-* The API uses a “beneficiary ID/pre-enrollment code” and either the “dose number(s)” or the “all doses” flag as input parameters to search and fetch the certificate(s) that needs to be revoked from the certificate registry.&#x20;
-* If the “dose number(s)” parameter is passed, it must be a sequential list of doses which includes the latest dose.&#x20;
-* DIVOC stores the revoked certificate ID within a centrally-maintained “certificate revocation list” (or CRL).
+* DIVOC has enabled a “Revoke API” that can be used to revoke an issued certificate for manual revocation use cases.&#x20;
+* The API uses a “beneficiary ID/pre-enrollment code” and either the “dose number(s)” or the “all doses” flag as input parameters to search and fetch the certificate(s) that need to be revoked from the certificate registry.&#x20;
+* If the “dose number(s)” parameter is passed, it must be a sequential list of doses that includes the latest dose.&#x20;
+* DIVOC stores the revoked certificate ID within a centrally-maintained “certificate revocation list (or CRL).”
 
 ### Revocation List
 
-* DIVOC maintains a “certificate revocation list” (CRL) to store certificate IDs of the revoked certificates. The revocation list can be hosted by an issuing authority (either inside or outside its central certificate registry) or can be periodically downloaded as a file and stored by a verifier application.&#x20;
+* DIVOC maintains a certificate revocation list to store certificate IDs of the revoked certificates. The revocation list can be hosted by an issuing authority (either inside or outside its central certificate registry) or can be periodically downloaded as a file and stored by a verifier application.&#x20;
 * When a revoked certificate’s QR code is scanned using the DIVOC’s online verification service, the service searches the CRL for the certificate ID to check if the certificate is a valid or revoked certificate.&#x20;
 * If the certificate ID is found in the CRL of the scanned QR code, the verification screen displays the certificate as revoked.
 
@@ -34,10 +34,10 @@ The purpose of this document is to provide an overview of the certificate revoca
 
 ## How does it work?
 
-* A revocation is triggered when the revocation API is called by the source system (e.g. a vaccination platform), on specific transactions (e.g. the correction or update of a certificate).&#x20;
-* As input parameters from the source system, the Revoke API receives beneficiary ID/enrollment code and dose number(s) or the all doses flag.&#x20;
+* A revocation is triggered when the revocation API is called by the source system (for example, a vaccination platform), on specific transactions (for example, the correction or update of a certificate).&#x20;
+* As input parameters from the source system, the revoke API receives beneficiary ID/enrollment code and dose number(s) or the all doses flag.&#x20;
 * The relevant certificate is fetched and DIVOC performs a “soft delete” of the certificate (also referred to as the “revocation” process).
-* The revoked certificate’s certificate ID is then moved to the certificate revocation list.
+* The revoked certificate’s "certificate ID" is then moved to the certificate revocation list.
 * Certificate IDs of all revoked certificates are maintained in the CRL within the certificate registry. The revoked certificate IDs can be indexed in chronological order against the respective unique certificate ID, along with its revocation date and time.
 * The certificate revocation list will be regularly updated to support the verification flow by approved domestic and international verifiers.
 * If the certificate was revoked, the same information will be displayed to the third-party verifier application in real-time. On scanning, the verifier application will display the result as an “Invalid certificate.”
