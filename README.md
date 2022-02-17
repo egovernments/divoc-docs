@@ -26,11 +26,9 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev) website ****
 
 &#x20;            1\. Issue and Verify Certificates
 
-![](<.gitbook/assets/Screenshot 2022-02-17 at 3.17.07 PM.png>)
-
 &#x20;            2\. Analytics
 
-![](<.gitbook/assets/Screenshot 2022-02-17 at 3.17.18 PM.png>)
+![](<.gitbook/assets/Screenshot 2022-02-17 at 3.41.51 PM.png>)
 
 * Reference Implementation: There are other components of DIVOC that countries can customise according to their requirement -&#x20;
 
