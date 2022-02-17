@@ -26,9 +26,11 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev) website ****
 
 &#x20;            1\. Issue and Verify Certificates
 
+![](<.gitbook/assets/Screenshot 2022-02-17 at 3.17.07 PM.png>)
+
 &#x20;            2\. Analytics
 
-![](<.gitbook/assets/Screenshot 2022-01-24 at 2.35.02 PM.png>)
+![](<.gitbook/assets/Screenshot 2022-02-17 at 3.17.18 PM.png>)
 
 * Reference Implementation: There are other components of DIVOC that countries can customise according to their requirement -&#x20;
 
@@ -36,11 +38,13 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev) website ****
 
 &#x20;             2\. Facility app
 
+![](<.gitbook/assets/Screenshot 2022-02-17 at 3.18.00 PM.png>)
+
 &#x20;             3\. Citizen portal
 
 &#x20;             4\. Feedback        &#x20;
 
-![](<.gitbook/assets/Screenshot 2022-01-24 at 1.55.44 PM (1).png>)
+![](<.gitbook/assets/Screenshot 2022-02-17 at 3.18.18 PM.png>)
 
 * <mark style="color:orange;">**DIVOC Demo**</mark>**:** Click [<mark style="color:orange;">**here**</mark>](divoc-demo/) to play around with the modules.
 
