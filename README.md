@@ -38,13 +38,13 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev) website ****
 
 &#x20;             2\. Facility app
 
-![](<.gitbook/assets/Screenshot 2022-02-17 at 3.18.00 PM.png>)
+![](<.gitbook/assets/Screenshot 2022-02-17 at 3.35.46 PM.png>)
 
 &#x20;             3\. Citizen portal
 
 &#x20;             4\. Feedback        &#x20;
 
-![](<.gitbook/assets/Screenshot 2022-02-17 at 3.18.18 PM.png>)
+![](<.gitbook/assets/Screenshot 2022-02-17 at 3.36.11 PM.png>)
 
 * <mark style="color:orange;">**DIVOC Demo**</mark>**:** Click [<mark style="color:orange;">**here**</mark>](divoc-demo/) to play around with the modules.
 
