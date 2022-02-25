@@ -77,7 +77,7 @@ The DIVOC platform provides API services for generating digitally verifiable QR 
 ```
 
 * Refer to the /v3/certify service [**here**](https://raw.githubusercontent.com/egovernments/DIVOC/india/interfaces/vaccination-api.yaml) for details.&#x20;
-* Click [**here**](../../../divocs-verifiable-certificate-features/what-information-goes-into-a-qr-code.md) if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
+* Click [**here**](../../../what-information-goes-into-a-qr-code.md) if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
 
 ## Key Functionalities&#x20;
 

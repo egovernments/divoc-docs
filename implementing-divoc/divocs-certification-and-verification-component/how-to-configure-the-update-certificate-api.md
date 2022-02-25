@@ -12,7 +12,7 @@ This section will help an implementer configure the DIVOC “Update Certificate�
 
 * The DIVOC platform provides API services for updating vaccination certificates. You can refer to the API service call ‘​/v3​/certificate’ for the method <mark style="background-color:orange;">PUT</mark> [**here**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../india/interfaces/vaccination-api.yaml).
 * The payload of the update service is the same as that of the certificate generation request. Click [**here**](https://divoc.egov.org.in/implementing-divoc/certification-and-verification-component/configuring-certificates) to know more.
-* The platform provides flexibility to update values in the ‘**recipient**,’ ‘**vaccination**,’ ‘**vaccinator**,’ and ‘**facility**’ sections. Click **** [**here**](../../divocs-verifiable-certificate-features/what-information-goes-into-a-qr-code.md) **** if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
+* The platform provides flexibility to update values in the ‘**recipient**,’ ‘**vaccination**,’ ‘**vaccinator**,’ and ‘**facility**’ sections. Click **** [**here**](../../what-information-goes-into-a-qr-code.md) **** if you want to understand the mandatory and non-mandatory information that should be there in a vaccination certificate, according to global standards.
 
 ## Methods - Get details on the API request and field validations:
 
