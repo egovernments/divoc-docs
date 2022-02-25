@@ -23,7 +23,7 @@ This section describes the key features of DIVOC and how they work.
 * [Difference between a normal QR code (that you may see on a food menu) and a verifiable QR code (for example, DIVOC's QR-code based digital certificates).](normal-qr-code-versus-signed-verifiable-qr-code.md)
 * [What information goes into a QR code?](what-information-goes-into-a-qr-code.md)
 * [Creating a DIVOC certificate](creating-a-divoc-certificate/)&#x20;
-* [DIVOC native COVID-19 certificate specification](divoc-native-covid-19-certificate-specification.md)&#x20;
+* [DIVOC native COVID-19 certificate specification](divoc-native-covid-19-certificate-specification/)&#x20;
 * [Verifying a DIVOC certificate](verifying-a-divoc-certificate.md)
 * [Updating a DIVOC certificate](updating-a-divoc-certificate.md)
 * [Revoking a DIVOC certificate](revoking-a-divoc-certificate.md)&#x20;

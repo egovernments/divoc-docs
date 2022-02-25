@@ -117,7 +117,7 @@ DIVOC is capable of self-generating a public-private key pair. It also supports 
 }
 ```
 
-* Click [**here**](what-information-goes-into-a-qr-code.md) **** to know more about what data set goes inside the QR code.
+* Click [**here**](../what-information-goes-into-a-qr-code.md) **** to know more about what data set goes inside the QR code.
 
 
 
