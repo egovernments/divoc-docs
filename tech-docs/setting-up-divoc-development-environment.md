@@ -54,7 +54,7 @@ In this section, we will go through the steps involved in a typical flow, starti
 
 ### Set up Keycloack
 
-* Login to Keycloak console (`localhost/auth/admin`) as `admin` (password : `admin`)
+* Login to keycloak console (`localhost/auth/admin`) as `admin` (password : `admin`)
 * Hover on `Master` on the left top corner and click on `Add realm.`
 * Click on `Select File` button (import option).
 * Select `realm-export.json` in the keycloak directory. `path:DIVOC/keycloak.`
@@ -62,7 +62,7 @@ In this section, we will go through the steps involved in a typical flow, starti
 
 ### Set up CLIENT\_SECRET for `admin-api`
 
-* Login to Keycloak console (`localhost/auth/admin`) as `admin` (password:`admin`).
+* Login to keycloak console (`localhost/auth/admin`) as `admin` (password:`admin`).
 * Click on `Clients` in the configure section on the left pane and click on `admin-api.`
 * Go to the credentials tab, click on `Regenerate Secret` and copy the new secret.
 * Change the `ADMIN_API_CLIENT_SECRET` to the copied secret in `docker-compose.yml.`
@@ -75,7 +75,7 @@ docker-compose up -d --build --no-deps <service1> <service2>...
 
 ### Flagr configuration
 
-The following steps configure notification templates for the app (**this can skipped if you do not want to test notifications**).
+The following steps configure notification templates for the app (_**this can skipped if you do not want to test notifications**_).
 
 * Visit `localhost/config`.&#x20;
 * Enter `notification_templates`in the flag description field and click on `Create New Flag.`
@@ -113,7 +113,7 @@ The following steps configure notification templates for the app (**this can ski
 
 ### Create `admin` and `controller` users in Keycloak
 
-* Login to Keycloak console (`localhost/auth/admin`) as `admin` (password : `admin`).
+* Login to keycloak console (`localhost/auth/admin`) as `admin` (password : `admin`).
 * Click on `Users` in the Manage section on the left panel and click on `Add User.`
 * Give the username as 0000000000 and click on save.
 * In the `Attributes` section, Add new key as `mobile_number` and value as 0000000000. Click on Add and save.

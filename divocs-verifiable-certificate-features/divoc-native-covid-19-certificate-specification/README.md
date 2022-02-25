@@ -31,9 +31,11 @@ DIVOC is capable of self-generating a public-private key pair. It also supports 
 
 &#x20;              1\. PS256 - Using "crit" with "b64"&#x20;
 
-&#x20;                 ([https://w3c-ccg.github.io/security-vocab/#RsaSignature2018](https://w3c-ccg.github.io/security-vocab/#RsaSignature2018))
+&#x20;                 ([**https://w3c-ccg.github.io/security-vocab/#RsaSignature2018**](https://w3c-ccg.github.io/security-vocab/#RsaSignature2018))
 
-&#x20;              2\. ES256 ([https://w3c-ccg.github.io/security-vocab/#EcdsaSecp256k1Signature2019](https://w3c-ccg.github.io/security-vocab/#EcdsaSecp256k1Signature2019))
+&#x20;              2\. ES256&#x20;
+
+&#x20;                  ([**https://w3c-ccg.github.io/security-vocab/#EcdsaSecp256k1Signature2019**](https://w3c-ccg.github.io/security-vocab/#EcdsaSecp256k1Signature2019))
 
 * Click [**here**](https://github.com/egovernments/DIVOC/blob/f3c524ff0e8e9a2f09193a37758a67e9b7198c31/public\_app/src/utils/credentials.json) to see the various versions of the algorithm.&#x20;
 * The public key along with the method of signing will be provided to verifiers to authenticate certificates.&#x20;

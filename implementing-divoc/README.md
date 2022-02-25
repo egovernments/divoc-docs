@@ -14,7 +14,7 @@ Each country will have its own set of requirements in line with globally accepte
 * [How to configure the certificate component?](certification-and-verification-component/configuring-certificates/)&#x20;
 * [How to set up the verification portal for your implementation?](certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
 * [How to configure the update certificate API?](divocs-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
-* How to integrate with the SMS/Email gateway to notify beneficiaries?
+* How to integrate with the SMS/Email gateway to notify beneficiaries? (coming soon)
 
 &#x20;&#x20;
 
