@@ -86,9 +86,12 @@ DIVOC is an open-source platform that can be used to issue and verify certificat
 
 * Click [**here**](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate\_en) to know more about the EU digital green certificate.
 * You can check the EU specifications for onboarding third-countries by clicking on the following link: **** [**https://ec.europa.eu/health/system/files/2021-07/covid-certificate\_equivalence-decision\_en\_0.pdf**](https://ec.europa.eu/health/system/files/2021-07/covid-certificate\_equivalence-decision\_en\_0.pdf).
-* To check the technical specifications for EU Digital COVID Certificates, click on the following link: **** [**https://ec.europa.eu/health/sites/default/files/ehealth/docs/covid-certificate\_json\_specification\_en.pdf**](https://ec.europa.eu/health/sites/default/files/ehealth/docs/covid-certificate\_json\_specification\_en.pdf).
-* JSON specifications are mentioned below: [**https://ec.europa.eu/health/system/files/2021-06/covid-certificate\_json\_specification\_en\_0.pdf**](https://ec.europa.eu/health/system/files/2021-06/covid-certificate\_json\_specification\_en\_0.pdf)****
-* To know the value sets for EU Digital COVID Certificates, click [**here**](https://ec.europa.eu/health/system/files/2022-01/eu-dcc-value-sets\_en\_0.pdf).
+* Click [**here**](https://ec.europa.eu/health/publications/third-country-covid-certificate-equivalence-decision-checklist\_en) to see third country COVID-19 certificate equivalence decision checklist.&#x20;
+* List of all EU specifications are given [**here**](https://ec.europa.eu/health/ehealth-digital-health-and-care/ehealth-and-covid-19\_en).&#x20;
+* To check the JSON specifications, click on the link mentioned below: [**https://ec.europa.eu/health/system/files/2021-06/covid-certificate\_json\_specification\_en\_0.pdf**](https://ec.europa.eu/health/system/files/2021-06/covid-certificate\_json\_specification\_en\_0.pdf)**.**
+* For QR code specifications, click on the following link: [**https://ec.europa.eu/health/system/files/2022-02/digital-covid-certificates\_v3\_en\_0.pdf**](https://ec.europa.eu/health/system/files/2022-02/digital-covid-certificates\_v3\_en\_0.pdf).
+* To know the value sets for EU Digital COVID Certificates, click [**here**](https://ec.europa.eu/health/publications/value-sets-eu-digital-covid-certificates-update\_en).
+* Guidelines on verifiable vaccination certificates - basic interoperability elements can be accessed [**here**](https://ec.europa.eu/health/publications/guidelines-verifiable-vaccination-certificates-basic-interoperability-elements\_en).
 
 ****
 
