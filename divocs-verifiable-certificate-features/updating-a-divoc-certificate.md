@@ -6,7 +6,7 @@ The purpose of this document is to outline the features and workflow of DIVOC's 
 
 ## **Overview**
 
-* DIVOC provides an “**update certificate**” feature to help beneficiaries make changes in a certificate if any information was captured incorrectly during the beneficiary registration or vaccination process.&#x20;
+* DIVOC provides an “update certificate” feature to help beneficiaries make changes in a certificate if any information was captured incorrectly during the beneficiary registration or vaccination process.&#x20;
 * For this purpose, DIVOC provides an “_Update Certificate API_,” for a source system (e.g. a vaccination platform) to update the vaccination as well as beneficiary details in digital certificates issued by DIVOC.
 * There are multiple ways of using this service. The issuing authority can enable a self-service portal, or set up a call centre, or the source system can capture the update requests directly, which can then call the Update API to facilitate the updates/corrections to the specific certificates. The key requirement here is that the “Update Certificate API” is called by the source system(s) to update an issued certificate. Using this API, the source system can update a beneficiary’s latest as well as previously issued digital certificates.
 

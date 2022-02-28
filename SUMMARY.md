@@ -18,7 +18,7 @@
   * [Updating a DIVOC Certificate](divocs-verifiable-certificate-features/updating-a-divoc-certificate.md)
   * [Revoking a DIVOC Certificate](divocs-verifiable-certificate-features/revoking-a-divoc-certificate.md)
   * [Verifying a DIVOC certificate](divocs-verifiable-certificate-features/verifying-a-divoc-certificate.md)
-  * [DIVOC native COVID-19 certificate specification](divocs-verifiable-certificate-features/divoc-native-covid-19-certificate-specification/README.md)
+  * [DIVOC's native COVID-19 certificate specification](divocs-verifiable-certificate-features/divocs-native-covid-19-certificate-specification.md)
   * [DIVOC’s EU-DCC Adapter Service](divocs-verifiable-certificate-features/divoc-native-covid-19-certificate-specification/divocs-eu-dcc-adapter-service.md)
   * [Normal QR code versus signed/verifiable QR code](divocs-verifiable-certificate-features/normal-qr-code-versus-signed-verifiable-qr-code.md)
   * [What information goes into a QR Code?](divocs-verifiable-certificate-features/what-information-goes-into-a-qr-code.md)

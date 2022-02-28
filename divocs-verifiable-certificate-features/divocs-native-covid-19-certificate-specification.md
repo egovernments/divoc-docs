@@ -1,4 +1,4 @@
-# DIVOC native COVID-19 certificate specification
+# DIVOC's native COVID-19 certificate specification
 
 When the “Certify API” is called by a vaccinating system, a unique QR code is generated for that specific event. This document specifies the data structure that can be used to generate a QR code-based digitally verifiable certificate for a registered health event.
 
@@ -119,7 +119,7 @@ DIVOC is capable of self-generating a public-private key pair. It also supports 
 }
 ```
 
-* Click [**here**](../what-information-goes-into-a-qr-code.md) **** to know more about what data set goes inside the QR code.
+* Click [**here**](what-information-goes-into-a-qr-code.md) **** to know more about what data set goes inside the QR code.
 
 
 
