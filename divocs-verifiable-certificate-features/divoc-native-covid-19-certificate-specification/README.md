@@ -2,7 +2,7 @@
 
 When the “Certify API” is called by a vaccinating system, a unique QR code is generated for that specific event. This document specifies the data structure that can be used to generate a QR code-based digitally verifiable certificate for a registered health event.
 
-## QR Payload structure
+## QR payload structure
 
 The payload structure follows the JSON Web Token (JWT) digital signature and is defined in [**RFC 7519**](https://datatracker.ietf.org/doc/html/rfc7519). The payload is transported in a DIVOC certificate. JWT includes the following:
 
