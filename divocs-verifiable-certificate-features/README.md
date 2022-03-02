@@ -27,6 +27,7 @@ This section describes the key features of DIVOC and how they work.
 * [Revoking a DIVOC certificate](revoking-a-divoc-certificate.md)&#x20;
 * [DIVOC's native COVID-19 certificate specification](divocs-native-covid-19-certificate-specification.md)
 * [DIVOC's EU-DCC adapter service](divoc-native-covid-19-certificate-specification/divocs-eu-dcc-adapter-service.md)
+* [DIVOC’s SHC Adapter Service](divocs-shc-adapter-service.md)
 * [Difference between a normal QR code (that you may see on a food menu) and a verifiable QR code (for example, DIVOC's QR-code based digital certificates).](normal-qr-code-versus-signed-verifiable-qr-code.md)
 * [What information goes into a QR code?](what-information-goes-into-a-qr-code.md)
 
