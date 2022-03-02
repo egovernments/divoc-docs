@@ -28,7 +28,7 @@ A Smart Health Card (SHC) is a globally popular HL7 FHIR (Fast Healthcare Intero
 | Tests: Date, manufacturer, and result  | Government-issued identifier      |
 | Vaccinations: type, date, and location | Any other health information      |
 
-&#x20;                              _(Information courtesy_ [_**SMART Health Card**_](https://smarthealth.cards/en/)_)_
+&#x20;                                          _(Information courtesy_ [_**SMART Health Card**_](https://smarthealth.cards/en/)_)_
 
 * To understand how they work and where they can be used, click [**here**](https://smarthealth.cards/en/) and [**here**](https://smarthealthit.org/health-cards/).
 
