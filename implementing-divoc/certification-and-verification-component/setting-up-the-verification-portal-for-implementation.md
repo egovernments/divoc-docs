@@ -66,7 +66,7 @@ const onTryAgain = () => {
 Example: Include the beneficiary’s parent name as a mandatory field in the verification confirmation page.
 
 * Open this file: [**https://github.com/egovernments/DIVOC/blob/main/vaccination-context/vaccination-context.js**](https://github.com/egovernments/DIVOC/blob/main/vaccination-context/vaccination-context.js).
-* Add a parameter in the function “vaccinationContextV2” to set the schema. You can refer to the detailed list of parameters under schema **** [**here**](https://schema.org).
+* Add a parameter in the function “vaccinationContextV2” to set the schema.&#x20;
 
 ```
 "Person": {
@@ -120,6 +120,7 @@ Example: Include the beneficiary’s parent name as a mandatory field in the ver
 ```
 
 * Build and deploy your changes.&#x20;
+* Click [**here**](../../divocs-verifiable-certificate-features/creating-a-divoc-certificate/what-information-is-included-in-the-divoc-certificate.md) to know what information is included in the DIVOC certificate.
 
 **Note:**
 
