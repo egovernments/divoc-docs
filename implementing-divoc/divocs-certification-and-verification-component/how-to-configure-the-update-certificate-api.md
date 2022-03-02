@@ -62,6 +62,8 @@ if count < (config.Config.Certificate.UpdateLimit + 1) {
 UpdateLimit int `env:"CERTIFICATE_UPDATE_LIMIT" default:"5"`
 ```
 
+* Click [**here**](../../divocs-verifiable-certificate-features/updating-a-divoc-certificate.md) to understand how DIVOC's “Update Certificate” service works.
+
 
 
 _All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
