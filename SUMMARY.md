@@ -22,6 +22,7 @@
   * [DIVOC’s EU-DCC Adapter Service](divocs-verifiable-certificate-features/divoc-native-covid-19-certificate-specification/divocs-eu-dcc-adapter-service.md)
   * [Normal QR code versus signed/verifiable QR code](divocs-verifiable-certificate-features/normal-qr-code-versus-signed-verifiable-qr-code.md)
   * [What information goes into a QR Code?](divocs-verifiable-certificate-features/what-information-goes-into-a-qr-code.md)
+  * [DIVOC’s SHC Adapter Service](divocs-verifiable-certificate-features/divocs-shc-adapter-service.md)
 * [Developer Documents](tech-docs/README.md)
   * [API Documentation](tech-docs/api-documentation.md)
   * [Setting up DIVOC development environment](tech-docs/setting-up-divoc-development-environment.md)

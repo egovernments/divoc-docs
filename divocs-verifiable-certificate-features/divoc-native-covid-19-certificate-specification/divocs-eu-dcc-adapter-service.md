@@ -12,7 +12,7 @@ description: Conversion utility for generating EU-DCC compliant QR code
 
 &#x20;             ****              [1. DIVOC’s EU-DCC adapter service: Technical details ](divocs-eu-dcc-adapter-service.md#1.-divocs-eu-dcc-adapter-service-technical-details)
 
-&#x20;           [2. EU’s technical specification for third-countries](divocs-eu-dcc-adapter-service.md#eu-technical-specifications-for-third-countries)&#x20;
+&#x20;             [2. EU’s technical specification for third-countries](divocs-eu-dcc-adapter-service.md#eu-technical-specifications-for-third-countries)&#x20;
 
 ## **What is DIVOC’s EU-DCC adapter service?**
 
@@ -82,7 +82,7 @@ DIVOC is an open-source platform that can be used to issue and verify certificat
 * Click on the following URL to see the API details: [**https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../main/interfaces/certificate-api.yaml**](https://egovernments.github.io/DIVOC/developer-docs/api/admin-api.html#../../main/interfaces/certificate-api.yaml)****
 * [**https://github.com/Path-Check/dcc-sdk.js**](https://github.com/Path-Check/dcc-sdk.js) **** SDK has been used to generate a CBOR/COSE-based verifiable QR credential from the EU certificate payload.
 
-### 2. EU technical specifications for third-countries:
+### 2. EU technical specification for third-countries:
 
 * Click [**here**](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate\_en) to know more about the EU digital green certificate.
 * You can check the EU specifications for onboarding third-countries by clicking on the following link: **** [**https://ec.europa.eu/health/system/files/2021-07/covid-certificate\_equivalence-decision\_en\_0.pdf**](https://ec.europa.eu/health/system/files/2021-07/covid-certificate\_equivalence-decision\_en\_0.pdf).
