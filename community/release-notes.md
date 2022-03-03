@@ -4,9 +4,9 @@ description: >-
   enhancements, and fixes
 ---
 
-# DIVOC Releases
+# Release Notes
 
-## Release notes for supported versions
+### Release notes for supported versions are given below:&#x20;
 
 * [Release notes 1.24.0](https://github.com/egovernments/DIVOC/releases/tag/1.24.0-generic) (WHO-DDCC compliant, EU, FHIR format support and ECDSA signing)
 * [Release notes 1.23.2](https://github.com/egovernments/DIVOC/releases/tag/1.23.3-generic) (minor enhancements and UI fixes)

@@ -43,7 +43,7 @@
 ## Tech Community <a href="#community" id="community"></a>
 
 * [Useful links](community/about-project-team.md)
-* [DIVOC Releases](community/divoc-releases.md)
+* [Release Notes](community/release-notes.md)
 * [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
