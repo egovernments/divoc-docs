@@ -56,13 +56,13 @@ In this section, we will go through the steps involved in a typical flow, starti
 
 * Login to keycloak console (`localhost/auth/admin`) as `admin` (password : `admin`)
 * Hover on `Master` on the left top corner and click on `Add realm.`
-* Click on `Select File` button (import option).
+* Click on the `Select File` button (import option).
 * Select `realm-export.json` in the keycloak directory. `path:DIVOC/keycloak.`
 * Click on create.
 
 ### Set up CLIENT\_SECRET for `admin-api`
 
-* Login to keycloak console (`localhost/auth/admin`) as `admin` (password:`admin`).
+* Login to the keycloak console (`localhost/auth/admin`) as `admin` (password:`admin`).
 * Click on `Clients` in the configure section on the left pane and click on `admin-api.`
 * Go to the credentials tab, click on `Regenerate Secret` and copy the new secret.
 * Change the `ADMIN_API_CLIENT_SECRET` to the copied secret in `docker-compose.yml.`
@@ -113,11 +113,11 @@ The following steps configure notification templates for the app (_**this can sk
 
 ### Create `admin` and `controller` users in Keycloak
 
-* Login to keycloak console (`localhost/auth/admin`) as `admin` (password : `admin`).
+* Login to the keycloak console (`localhost/auth/admin`) as `admin` (password : `admin`).
 * Click on `Users` in the Manage section on the left panel and click on `Add User.`
 * Give the username as 0000000000 and click on save.
-* In the `Attributes` section, Add new key as `mobile_number` and value as 0000000000. Click on Add and save.
-* Go to Groups section, select `system admin` in the available groups and click on Join.
+* In the `Attributes` section, add a new key as `mobile_number` and value as 0000000000. Click on Add and save.
+* Go to the Groups section, select `system admin` in the available groups and click on Join.
 * Similarly, create another user with `username` and `mobile_number` as 0000000001 and join the `controller` group.
 
 ### **System admin activities**
@@ -128,7 +128,7 @@ Login to the portal as `system admin` (Mobile Number : 0000000000, OTP : 1234).
 
 * Click on the Facilities tab and click on `Download Template .csv.`
 * Click on `Upload CSV` button and upload the downloaded csv.
-* You should see the success message for at least facility.
+* You should see the success message for a facility.
 
 **Create a vaccine:**
 
@@ -152,7 +152,7 @@ Login to the portal as `controller` (`Mobile Number: 0000000001, OTP: 1234).`
 
 **Activate facilities for vaccination program:**
 
-* In the Facility Activation tab, select vaccination program added in the previous step, select type of facility as Govt and mark the status as Active.
+* In the Facility Activation tab, select the vaccination program added in the previous step, select the type of facility as government and mark the status as Active.
 * You should be able to see at least one facility in the search results.
 * Click on the checkbox for the relevant facility (make note of facility code) and click on `MAKE ACTIVE.`
 * The activated facility should disappear from the search results.
@@ -165,20 +165,20 @@ Login to Facility Admin portal (`localhost/portal/facility_admin`) using the mob
 
 **Add facility\_staff user:**
 
-* Click on Role Setup tab and click on the add role icon.
+* Click on the Role Setup tab and click on the add role icon.
 * Create a role with type `facility staff` and mobile number `1111111111`. Set the status as enabled and set the rate of 50 for the vaccination program.
 
 **Add Vaccinators:**
 
 * Click on `Vaccinator Details` tab and Click `Add Vaccinator.`
-* Fill all the details. Select the vaccination program previously created in the certification dropdown.
+* Fill in all the details. Select the vaccination program previously created in the certification dropdown.
 * Click on Add and click on Back.
-* Click on `Make Active` button to activate vaccinator.
+* Click on the `Make Active` button to activate the vaccinator.
 
 **Bulk Certification:**
 
 * Certificates can also be issued in bulk by the facility admin by uploading a CSV file.
-* Go to Upload Vaccination details tab and click on the download CSV template button.
+* Go to the Upload Vaccination details tab and click on the download CSV template button.
 * Now upload a CSV file, containing all the fields in the template.
 * The generated certificates can be viewed on the public app (`localhost`).
 
@@ -194,7 +194,7 @@ Login to the Facility app (`localhost/facility_app`) (`Mobile Number: 1111111111
 **Certifying pre-enrolled recipients:**
 
 * Recipients pre-enrolled by facility admin can be certified by the facility staff.
-* Go to app home and click on `Verify Recipient` to proceed for vaccination.
+* Go to the app home and click on `Verify Recipient` to proceed for vaccination.
 
 ### Recipient activities
 
@@ -208,7 +208,7 @@ Login to the Facility app (`localhost/facility_app`) (`Mobile Number: 1111111111
 
 Change the admin password of Keycloak console
 
-* Go to admin console, click on the Admin menu in the top right corner and select Manage account.
+* Go to the admin console, click on the Admin menu in the top right corner and select Manage account.
 * Change the password in the password section on the right.
 
 
