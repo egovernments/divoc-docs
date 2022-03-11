@@ -4,7 +4,7 @@ Digitally verifiable certificates have emerged as a solution to help open up bus
 
 * [EU-DCC](../divoc-native-covid-19-certificate-specification/divocs-eu-dcc-adapter-service.md)
 * [DIVOC (native COVID-19 certificate schema)](../divocs-native-covid-19-certificate-specification.md)
-* SmartHealthCards&#x20;
+* [Smart Health Cards](../divocs-shc-adapter-service.md)&#x20;
 * ICAO-VDS
 
 As the interoperability of these certificate schemas is critical to streamline the international travel process, DIVOC has added the ability to issue digital certificates in the EU-DCC and SmartHealthCard formats, in addition to the [**native DIVOC COVID-19 certificate format**](../divocs-native-covid-19-certificate-specification.md). This will enable citizens of a country, which is using a DIVOC certificate system, to export their native certificates in a format that is acceptable in the travel destination country. \
