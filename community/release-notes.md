@@ -9,7 +9,7 @@ description: >-
 ### Release notes for supported versions are given below:&#x20;
 
 * [Release notes 1.24.0](https://github.com/egovernments/DIVOC/releases/tag/1.24.0-generic) (On-demand EU-DCC and FHIR-DDCC export)
-* [Release notes 1.23.2](https://github.com/egovernments/DIVOC/releases/tag/1.23.3-generic) (minor enhancements and UI fixes)
+* [Release notes 1.23.3](https://github.com/egovernments/DIVOC/releases/tag/1.23.3-generic) (minor enhancements and UI fixes)
 * [Release notes 1.23.2](https://github.com/egovernments/DIVOC/releases/tag/1.23.2-generic) (bug fixes and enhancements)&#x20;
 * [Release notes 1.23.1](https://github.com/egovernments/DIVOC/releases/tag/1.23.1-generic) (UI enhancements and bug fixes)
 * [Release notes 1.23.0](https://github.com/egovernments/DIVOC/releases/tag/1.23.0-generic) (secondary dosage flows and design enhancements)
