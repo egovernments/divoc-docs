@@ -7,7 +7,7 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### A. [Skills needed to set up DIVOC](skills-needed-to-set-up-divoc.md)
 
-### B. <mark style="color:blue;">How to install DIVOC</mark>
+### B. [<mark style="color:blue;">How to install DIVOC</mark>](how-to-install-divoc.md)<mark style="color:blue;"></mark>
 
 ### C. [Certificate and Verification component](certification-and-verification-component/)&#x20;
 
