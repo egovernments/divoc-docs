@@ -1,7 +1,3 @@
----
-description: Relevant Software and Developer Documentation
----
-
 # Developer Documents
 
 ## Purpose

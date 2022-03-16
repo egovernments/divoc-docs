@@ -1,7 +1,3 @@
----
-description: Coming soon.....
----
-
 # DIVOC Architecture
 
 Highly flexible and configurable, DIVOC’s architecture is designed to accommodate changes and allow the addition of new capabilities and functionalities. For example, during a vaccination campaign, you can configure vaccines, vaccination frequency, approved facilities, trained vaccinators, certificate templates, and authentication mechanisms, among others. Built on <mark style="color:orange;">**open source and open standards**</mark>, the DIVOC architecture ensures <mark style="color:orange;">**privacy and security by design**</mark>.

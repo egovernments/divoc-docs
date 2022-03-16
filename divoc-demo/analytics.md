@@ -1,7 +1,3 @@
----
-description: Coming Soon...
----
-
 # Analytics
 
 ## Who would typically use this?
