@@ -6,7 +6,7 @@
 
 **When:** Join us on **Wednesday, March 30, 2022**, to understand the use of digital health credentials for COVID-19 vaccination and testing campaigns, and beyond.&#x20;
 
-Time: 2 pm (Manila time) / 11.30 am IST.
+**Time:** 2 pm Manila time / 11.30 am IST.
 
 **Register** at [**https://adb-org.zoom.us/meeting/register/ tJIod-6uqT0uE9SuFBowmJ2FVHVlITyokt34**](https://adb-org.zoom.us/meeting/register/%20tJIod-6uqT0uE9SuFBowmJ2FVHVlITyokt34)****
 
