@@ -9,7 +9,9 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### B. [<mark style="color:blue;">How to install DIVOC</mark>](how-to-install-divoc.md)<mark style="color:blue;"></mark>
 
-### C. [Certificate and Verification component](certification-and-verification-component/)&#x20;
+### C. [Backup & Restore: Postgres, Clickhouse, and Kafka](backup-and-restore-postgres-clickhouse-and-kafka.md)
+
+### D. [Certificate and Verification component](certification-and-verification-component/)&#x20;
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
