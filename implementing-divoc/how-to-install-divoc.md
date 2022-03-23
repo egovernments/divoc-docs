@@ -58,9 +58,11 @@ There are three scripts that need to be run to complete the DIVOC installation p
 1. Clone the repository available at https://github.com/egovernments/divoc-installer.&#x20;
 2. Create an inventory file from the sample inventory file located at https://github.com/egovernments/divoc-installer/blob/master/inventory.example.ini.
 3. Add the inventory details as per the comments present in the file.&#x20;
-4. Run the install.sh present within the divoc-installer with the elevated privileges (we can also use nohup for running in the background)
+4. Run the install.sh present within the divoc-installer with the elevated privileges (we can also use nohup for running in the background):
 
-![](<../.gitbook/assets/Screenshot 2022-03-16 at 11.59.58 AM.png>)
+{% hint style="info" %}
+sudo sh install.sh -i \<path to inventory file>
+{% endhint %}
 
 * It will install the dependencies like python3, ansible, etc.&#x20;
 * It will install the applications and configure them on the servers mentioned in the inventory file.
@@ -69,7 +71,9 @@ There are three scripts that need to be run to complete the DIVOC installation p
 
 * Run the build.sh file with elevated privileges.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2022-03-16 at 12.01.37 PM (1).png>)
+{% hint style="info" %}
+&#x20;**** sudo sh build.sh -d \<IP Address of Docker Registry> -r \<GIT REPO URL>
+{% endhint %}
 
 * Default values for the Docker repository are from dockerhub.
 * The Default value for the GIT repo is the master branch of the [**https://github.com/egovernments/DIVOC.git**](https://github.com/egovernments/DIVOC).
@@ -165,7 +169,9 @@ There are three scripts that need to be run to complete the DIVOC installation p
 
 3\. Run the deploy script to deploy the application on Kubernetes.
 
-![](<../.gitbook/assets/Screenshot 2022-03-16 at 11.47.23 AM.png>)
+{% hint style="info" %}
+sudo sh deploy.sh -i \<path to inventory file> -p \<Directory containing Kubernetes Config files> -d \<Private Docker Registry IP> -k \<Kube Master Node IP> -s \<Key file to access Kube Master>
+{% endhint %}
 
 ## Post installation
 
