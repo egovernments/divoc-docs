@@ -9,7 +9,7 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### B. [<mark style="color:blue;">How to install DIVOC</mark>](how-to-install-divoc.md)<mark style="color:blue;"></mark>
 
-### C. [Backup & Restore: Postgres, Clickhouse, and Kafka](backup-and-restore-postgres-clickhouse-and-kafka.md)
+### C. [Backup & Restore: Postgres, Clickhouse, and Kafka](backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
 
 ### D. [Certificate and Verification component](certification-and-verification-component/)&#x20;
 
