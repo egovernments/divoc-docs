@@ -2,9 +2,9 @@
 
 ## Overview
 
-We use open-source software. This document details some standard methodologies to backup and restore persisted data from these software. There maybe other methodologies available for performing these operations. It is upto the implementation team to select and implement the methodology that works best for their use-case.
+This is the generic solution for backup and restore. Depending on the backup strategy used, the tools might change.
 
-## Postgres&#x20;
+## Backing up and restoring Postgres&#x20;
 
 * The Ansible script will automatically configure pg\_basebackup, pgbackrest, wal-g and other recovery tools. For the sake of simplicity, we can use pg\_dump and pg\_restore.
 * The following command takes a backup. This will create a compressed tarball backup in the directory mentioned:
@@ -31,7 +31,7 @@ sudo apt install postgresql-client
 pg\_restore -h 192.168.0.100 -U postgres -F -C -d db1 < db1.tar
 {% endhint %}
 
-## Clickhouse
+## Backing up and restoring Clickhouse
 
 The plan is to use [clickhouse-backup](https://github.com/AlexAkulov/clickhouse-backup), which is open sourced under the liberal MIT license. This tool has the ability to create archived backups and upload them to NFS, S3, GCS, AZBlob, SFTP and other remote data repositories.
 
@@ -193,9 +193,7 @@ COMMANDS:\
 &#x20;help, h         Shows a list of commands or help for one command
 {% endhint %}
 
-## Kafka
-
-### Manual Backup and Restore
+## Backing up and restoring Kafka
 
 * Backup zookeeper state data
 
@@ -267,7 +265,7 @@ tar -czf /home/kafka/kafka-backup.tar.gz /tmp/kafka-logs/\*
 
 &#x20;        BackupTopic --from-beginning
 
-## Redis&#x20;
+## Backing up and restoring Redis&#x20;
 
 Redis provides an in-built command to save a backup.
 
