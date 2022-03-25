@@ -15,6 +15,7 @@
     * [What information is included in the DIVOC certificate?](divocs-verifiable-certificate-features/creating-a-divoc-certificate/what-information-is-included-in-the-divoc-certificate.md)
     * [DIVOC’s certificate generation service: How does it work?](divocs-verifiable-certificate-features/creating-a-divoc-certificate/divocs-certificate-generation-service-how-does-it-work.md)
     * [Compliance with internationally used COVID-19 certificate schemas](divocs-verifiable-certificate-features/creating-a-divoc-certificate/compliance-with-internationally-used-covid-19-certificate-schemas.md)
+  * [Distributing a DIVOC certificate](divocs-verifiable-certificate-features/distributing-a-divoc-certificate.md)
   * [Updating a DIVOC Certificate](divocs-verifiable-certificate-features/updating-a-divoc-certificate.md)
   * [Revoking a DIVOC Certificate](divocs-verifiable-certificate-features/revoking-a-divoc-certificate.md)
   * [Verifying a DIVOC certificate](divocs-verifiable-certificate-features/verifying-a-divoc-certificate.md)
