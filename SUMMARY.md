@@ -33,6 +33,7 @@
   * [Skills needed to set up DIVOC](implementing-divoc/skills-needed-to-set-up-divoc.md)
   * [How to install DIVOC](implementing-divoc/how-to-install-divoc.md)
   * [Backup & Restore: Postgres, Clickhouse, Kafka, & Redis](implementing-divoc/backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
+  * [Key Pairs in DIVOC](implementing-divoc/key-pairs-in-divoc.md)
   * [DIVOC's Certification and Verification component](implementing-divoc/certification-and-verification-component/README.md)
     * [Configuring certificates](implementing-divoc/certification-and-verification-component/configuring-certificates/README.md)
       * [Step 1: Create a certification generation request](implementing-divoc/certification-and-verification-component/configuring-certificates/step-1-create-a-certification-generation-request.md)
