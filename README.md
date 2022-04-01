@@ -1,5 +1,5 @@
 ---
-description: Digital Infrastructure for Vaccination Open Credentialing
+description: Digital Infrastructure for Verifiable Open Credentialing
 ---
 
 # Introduction to DIVOC
