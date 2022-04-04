@@ -20,6 +20,10 @@ Citizens can use this portal before and after a vaccination event.
 
 Use the following URL for the citizen portal: [**https://demo-divoc.egov.org.in/citizen**](https://demo-divoc.egov.org.in/citizen)**.** Log in using your own mobile number and OTP 123456. Click on **Verify**.
 
+![](<../.gitbook/assets/Screenshot 2022-04-04 at 9.21.36 AM.png>)
+
+
+
 **Step 2: Add a member**
 
 Click on **+Member** to add members (you can register yourself and 3 more with a single mobile number).
