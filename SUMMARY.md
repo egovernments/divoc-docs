@@ -41,6 +41,7 @@
       * [Step 3: Configure the certificate template](implementing-divoc/certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)
     * [How to set up the verification portal for implementation](implementing-divoc/certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
     * [How to configure the update certificate API](implementing-divoc/divocs-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
+  * [Jamaica implementation details](implementing-divoc/jamaica-implementation-details.md)
   * [Platform policy guidelines](implementing-divoc/platform-policy-guidelines.md)
   * [Privacy policy recommendations](implementing-divoc/privacy-policy-recommendations.md)
 * [DIVOC events](events/README.md)
