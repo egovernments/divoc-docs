@@ -21,7 +21,7 @@ The following checklist should be followed for data protection:
 * Backup files will be kept in a separate environment.
 * Backup files will be encrypted before storing on another environment/server.
 
-### **Authentication and password management**
+## **Authentication and password management**
 
 Authenticating the identity of a principal and verifying its authorisation to act are foundational controls that other security controls are built upon. Organisations should standardise on an approach to both authentication and authorisation. Consider the following authentication and password management:
 
