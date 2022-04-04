@@ -1,6 +1,6 @@
 # DIVOC events
 
-## Upcoming Event&#x20;
+## Past events
 
 ### ADB-eGov Live Webinar on Digital Health Credentials
 
