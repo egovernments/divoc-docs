@@ -1,12 +1,8 @@
----
-description: We recommend you to include the privacy notice in platform
----
-
 # Privacy policy recommendations
 
-## We recommend the following:&#x20;
+## Privacy notice for citizens&#x20;
 
-* The privacy notice should at least have the following sections -
+We recommend that you include the privacy notice in the platform. This information should be shared by implementing countries with their citizens. The privacy notice should have the following sections -
 
 1. Purpose of processing
 2. What information is collected
@@ -16,6 +12,10 @@ description: We recommend you to include the privacy notice in platform
 6. Usage of cookies, what information is stored in cookies
 7. Security measures taken for processing/storing information
 8. Rights of individuals
+
+## Privacy policy guidelines for an implementing country
+
+We recommend that the following guidelines should be followed by a country that is implementing DIVOC:
 
 * A citizen's consent should be collected against the privacy notice and a centralised database should be maintained to log consent provided by the citizen (wherever applicable).
 * The privacy notice should ask people to connect with the privacy officer/grievance officer to exercise his/her right to withdraw their consent.
