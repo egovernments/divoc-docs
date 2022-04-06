@@ -11,9 +11,19 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### C. [Backup & Restore: Postgres, Clickhouse, and Kafka](backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
 
-### D. [Key pairs in DIVOC](key-pairs-in-divoc.md)
+### D. [Infrastructure recovery](infrastructure-recovery.md)
 
-### E. [Certificate and Verification component](certification-and-verification-component/)&#x20;
+### E. [Server hardening](server-hardening.md)
+
+### F. [Key pairs in DIVOC](key-pairs-in-divoc.md)
+
+### G. [Certificate and Verification component](certification-and-verification-component/)&#x20;
+
+### H. [Jamaica implementation details](jamaica-implementation-details.md)
+
+### I. [Platform policy guidelines](platform-policy-guidelines.md)
+
+### J. [Privacy policy recommendations](privacy-policy-recommendations.md)
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
