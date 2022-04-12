@@ -30,6 +30,8 @@ This section describes the key features of DIVOC and how they work.
 * [DIVOC’s SHC Adapter Service](divocs-shc-adapter-service.md)
 * [Difference between a normal QR code (that you may see on a food menu) and a verifiable QR code (for example, DIVOC's QR-code based digital certificates).](normal-qr-code-versus-signed-verifiable-qr-code.md)
 * [What information goes into a QR code?](what-information-goes-into-a-qr-code.md)
+* [WHO master vaccine checklist](who-master-vaccine-checklist.md)
+* [EU master vaccine checklist](eu-master-vaccine-checklist.md)
 
 
 
