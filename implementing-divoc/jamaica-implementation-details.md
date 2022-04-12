@@ -12,15 +12,15 @@ We will give you an overview of the different features and services of DIVOC tha
 
 ## **Features and services**
 
-* ****[**Certificate generation**](../divocs-verifiable-certificate-features/creating-a-divoc-certificate/)**:** This is in sync with the country’s COVID-19 vaccination event. Once a person gets vaccinated, information is sent to Jamaica’s vaccination system and a certificate is automatically generated via DIVOC.
-* ****[**Certificate verification**](../divocs-verifiable-certificate-features/verifying-a-divoc-certificate.md)**:** The citizen portal can be used to verify the QR code-based certificates that are issued after vaccination.
+* ****[**Certificate generation:**](../divocs-verifiable-certificate-features/creating-a-divoc-certificate/) **** This is in sync with the country’s COVID-19 vaccination event. Once a person gets vaccinated, information is sent to Jamaica’s vaccination system and a certificate is automatically generated via DIVOC.
+* ****[**Certificate verification:**](../divocs-verifiable-certificate-features/verifying-a-divoc-certificate.md) **** The citizen portal can be used to verify the QR code-based certificates that are issued after vaccination.
 
 ![](<../.gitbook/assets/Screenshot 2022-04-04 at 2.51.40 PM.png>)
 
-* ****[**Updating certificates**](../divocs-verifiable-certificate-features/updating-a-divoc-certificate.md)**:** DIVOC has enabled a certificate update/correction API that can be used to update or correct an issued certificate if a citizen requests it.
-* ****[**Revoking certificates**](../divocs-verifiable-certificate-features/revoking-a-divoc-certificate.md)**:** This feature has been provided to Jamaica and will be implemented soon.
+* ****[**Updating certificates:**](../divocs-verifiable-certificate-features/updating-a-divoc-certificate.md) **** DIVOC has enabled a certificate update/correction API that can be used to update or correct an issued certificate if a citizen requests it.
+* ****[**Revoking certificates:**](../divocs-verifiable-certificate-features/revoking-a-divoc-certificate.md) **** This feature has been provided to Jamaica and will be implemented soon.
 * SMS service: DIVOC’s certificate module has been integrated with the SMS gateway service facilitated by Jamaica. As part of this service, a notification is sent to every citizen after they get vaccinated, informing them to download their certificates from the citizen portal.
-* ****[**Downloading certificates**](../divoc-demo/citizen-portal.md#2.-for-downloading-a-certificate)**:** Beneficiaries of the vaccination program can log in to the citizen portal using the 10-digit mobile number that they had used during registration and then click on “download your vaccination certificate” to view and download certificates.
+* ****[**Downloading certificates:**](../divoc-demo/citizen-portal.md#2.-for-downloading-a-certificate) **** Beneficiaries of the vaccination program can log in to the citizen portal using the 10-digit mobile number that they had used during registration and then click on “download your vaccination certificate” to view and download certificates.
 
 ![](<../.gitbook/assets/Screenshot 2022-04-04 at 2.59.42 PM.png>)
 
