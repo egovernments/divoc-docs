@@ -19,7 +19,7 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### G. [Certificate and Verification component](certification-and-verification-component/)&#x20;
 
-### H. [Jamaica implementation details](jamaica-implementation-details.md)
+### H. [Jamaica implementation details](issuing-covid-19-vaccination-certificates-in-jamaica.md)
 
 ### I. [Platform policy guidelines](platform-policy-guidelines.md)
 
