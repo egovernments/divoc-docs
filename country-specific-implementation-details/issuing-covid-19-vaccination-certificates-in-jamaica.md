@@ -1,4 +1,4 @@
-# Jamaica implementation details
+# Issuing COVID-19 Vaccination Certificates in Jamaica
 
 ## Overview&#x20;
 
@@ -30,7 +30,7 @@ We will give you an overview of the different features and services of DIVOC tha
 
 ## Standards used&#x20;
 
-All COVID-19 certificates are generated in the WHO-Digital Documentation of COVID-19 Certificates (DDCC) format.
+All COVID-19 certificates are generated as per the WHO-Digital Documentation of COVID-19 Certificates (DDCC) data specification.
 
 
 

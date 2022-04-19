@@ -1,4 +1,4 @@
-# Sri Lanka implementation details
+# Issuing COVID-19 Vaccination Certificates in  Sri Lanka
 
 ## **Overview**
 
@@ -26,7 +26,7 @@ We will give you an overview of the different features and services of DIVOC tha
 
 ## Standards used&#x20;
 
-All COVID-19 certificates issued in Sri Lanka are compliant with the WHO-Digital Documentation of COVID-19 Certificates (DDCC) format.
+All COVID-19 certificates issued in Sri Lanka are compliant with the WHO-Digital Documentation of COVID-19 Certificates (DDCC) data specification.
 
 
 
