@@ -55,8 +55,8 @@ There are three scripts that need to be run to complete the DIVOC installation p
 
 ## Installation dependencies
 
-1. Clone the repository available at https://github.com/egovernments/divoc-installer.&#x20;
-2. Create an inventory file from the sample inventory file located at https://github.com/egovernments/divoc-installer/blob/master/inventory.example.ini.
+1. Clone the repository available at [**https://github.com/egovernments/divoc-installer**](https://github.com/egovernments/divoc-installer).&#x20;
+2. Create an inventory file from the sample inventory file located at [**https://github.com/egovernments/divoc-installer/blob/master/inventory.example.ini**](https://github.com/egovernments/divoc-installer/blob/master/inventory.example.ini).
 3. Add the inventory details as per the comments present in the file.&#x20;
 4. Run the install.sh present within the divoc-installer with the elevated privileges (we can also use nohup for running in the background):
 
