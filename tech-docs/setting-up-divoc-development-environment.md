@@ -9,36 +9,51 @@
 
 ### Steps
 
-**Step 1:** Install Docker Compose&#x20;
+**Step 1:** Install prerequisites and dependencies
 
-* You can find the instructions [**here**](https://docs.docker.com/compose/install/).&#x20;
-* Basic Docker Compose commands:&#x20;
+* Update package list - sudo apt-get update.
+* Install docker - sudo apt install docker.io.
+* Install docker-compose - sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose.
+* Install git - sudo apt install git.
+* For additional details on Docker, you can find the instructions **** [**here**](https://docs.docker.com/compose/install/)**.**
+* You can find the basic Docker Compose commands below:
 
-&#x20;      \- Staring services [**docker-compose up**](https://docs.docker.com/compose/reference/up/).&#x20;
+&#x20;      \- Starting services [**docker-compose up**](https://docs.docker.com/compose/reference/up/).
 
-&#x20;      \- Restarting services [**docker-compose restart**](https://docs.docker.com/compose/reference/restart/).&#x20;
+&#x20;      \- Restarting services [**docker-compose restart**](https://docs.docker.com/compose/reference/restart/).
 
-&#x20;      \- Checking Status of services [**docker-compose ps**](https://docs.docker.com/compose/reference/ps/).&#x20;
+&#x20;      \- Checking the status of services **** [**docker-compose ps**](https://docs.docker.com/compose/reference/ps/).
 
 &#x20;      \- Monitoring service logs [**docker-compose logs**](https://docs.docker.com/compose/reference/logs/).
 
-**Step 2:** Clone DIVOC repository onto your local machine and navigate to the DIVOC directory:&#x20;
+**Step 2:** Install DIVOC
+
+* Clone DIVOC repository onto your local machine - git clone [**https://github.com/egovernments/DIVOC**](https://github.com/egovernments/DIVOC).
+* Navigate to DIVOC directory - cd DIVOC.
+* Configure DIVOC: Configurations are provided as environment variables and a default set of configurations is provided in the ‘.env.example’ file. Make a copy of this file named ‘.env’ that docker will pick up. Edit these configurations as per your need.&#x20;
 
 ```
-git clone git@github.com:egovernments/DIVOC.git && cd DIVOC
+   'cp .env.example .env'
 ```
 
-**Step 3:** Start all services in the detached mode.
+&#x20;   **Step 3:** Start all services in the detached mode.
 
 ```
 docker-compose up -d
 ```
 
 * [**Verify the state of containers**](https://github.com/egovernments/DIVOC/blob/main/docs/developer-docs/index.md#docker-compose-ps)**.** All containers should be up.
-* Some services might fail to start because the dependent service may not be ready yet. [**Restarting the failed service**](https://github.com/egovernments/DIVOC/blob/main/docs/developer-docs/index.md#docker-compose-restart) should start it successfully in this case.
-* On Mac/Windows, services may crash with exit code:137, if sufficient memory is not set for docker. This can be changed in the Docker desktop preferences, resources tab, as shown[ **here**](https://docs.docker.com/docker-for-mac/#resources).
+* Some services might fail to start because the dependent service may not be ready yet. [**Restarting the failed service**](https://github.com/egovernments/DIVOC/blob/main/docs/developer-docs/index.md#docker-compose-restart) **** should start it successfully in this case.
+* On Mac/Windows, services may crash with exit code:137, if sufficient memory is not set for docker. This can be changed in the Docker desktop preferences, resources tab, as shown[ **** ](https://docs.docker.com/docker-for-mac/#resources)[**here**](https://docs.docker.com/docker-for-mac/#resources)**.**
 
-**Step 4:** Explore DIVOC
+**Step 4:** To build docker images locally after making changes, run following commands&#x20;
+
+```
+make docker
+make docker docker-compose up -d
+```
+
+**Step 5:** Explore DIVOC
 
 * The following are the routes to access local apps. The remaining routes can be found in `nginx/nginx.conf.`
 
@@ -73,43 +88,11 @@ docker-compose up -d --build --no-deps <service1> <service2>...
  docker-compose restart nginx
 ```
 
-### Flagr configuration
+“For example - sudo docker-compose up -d --build --no-deps certificate-processor portal-api certificate-api gateway.
 
-The following steps configure notification templates for the app (_**this can skipped if you do not want to test notifications**_).
+### **DIVOC application configuration**
 
-* Visit `localhost/config`.&#x20;
-* Enter `notification_templates`in the flag description field and click on `Create New Flag.`
-* Click on the new flag created to configure it.
-  * In the Flag section, change flag key to `notification_templates`
-  * In the Variant section, create new variant with key as `default`, below attachment
-
-```
-{
-    "facilityPendingTasks": {
-    "html": "<h4>Dear Facility Administrator,</h4>Request you to upload / complete all details pertaining to this facility prior to execution of the Vaccination Program. <br/>Failing to do so, this facility: <br/><b>- will not be accessible to citizen during the pre-enrolment phase <br/>- will not be able to use the Vaccination App or generate digital certificates. </b><br/>Please submit the missing details at the earliest.DIVOC System Administrator",
-    "message": "Dear Facility Administrator,Request you to upload / complete all details pertaining to this facility prior to execution of the C19 VaccinationProgram. Failing to do so, this facility: - will not be accessible to citizen during the pre-enrolment phase - will not be able to use the Vaccination App or generate digital certificates. Please submit the missing details at the earliest.DIVOC System Administrator",
-    "subject": "DIVOC - Facility Pending Tasks"
-    },
-    "facilityRegistered": {
-    "message": "Welcome {{.FacilityName}}. Your facility has been registered under divoc. You can login at https://divoc.xiv.in/portal using {{.Admins}} contact numbers.",
-    "subject": "DIVOC - Facility Registered"
-    },
-    "facilityUpdate": {
-    "message": "Dear Facility Administrator. Your facility {{.field}} is been updated to {{.value}}",
-    "subject": "DIVOC - Facility Updated"
-    },
-    "preEnrollmentRegistered": {
-    "message": "{{.Name}}, you have been registered to receive {{.ProgramId}}. Please proceed to the nearest vaccination center. Please show the Pre Enrollment Code: {{.Code}} to the center admin.",
-    "subject": "DIVOC - Pre-Enrollment"
-    },
-    "recipientCertified": {
-    "message": "{{.Name}}, your {{.VaccineName}} vaccine certificate can be viewed and downloaded at: https://divoc.xiv.in/certificate/ ",
-    "subject": "DIVOC - Vaccination Certificate"
-    }
-}
-```
-
-* In the Segment section, create a new segment with `default` key and a default distribution of 100%.
+DIVOC uses [**etcd**](https://etcd.io) as a configuration store for templates and other configurations. A default set of configurations is available in the default-configuration/etcd folder. The instructions to configure these are available [**here**](https://github.com/egovernments/DIVOC/tree/main/default-configuration/etcd).
 
 ### Create `admin` and `controller` users in Keycloak
 
