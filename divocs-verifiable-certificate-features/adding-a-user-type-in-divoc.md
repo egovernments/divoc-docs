@@ -4,7 +4,7 @@
 
 The document will cover steps on how to add a new user.
 
-## Steps to add a user type
+## Steps to add a user&#x20;
 
 ### Step 1:&#x20;
 
@@ -38,7 +38,7 @@ Click on "attributes" and add the required attribute (mobile\_number) by clickin
 
 ### Step 6:
 
-Click on "role mappings" and select the type you want to add from the list of "client roles."
+Click on "role mappings" and select the type of role you want to add from the list of "client roles."
 
 ![](<../.gitbook/assets/Screenshot 2022-05-04 at 11.31.25 AM.png>)
 
