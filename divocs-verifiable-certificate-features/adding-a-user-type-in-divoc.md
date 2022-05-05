@@ -8,7 +8,7 @@ The document will cover steps on how to add a new user.
 
 ### Step 1:&#x20;
 
-Login to keycloak (demo url: [**https://demo-divoc.egov.org.in/auth**](https://demo-divoc.egov.org.in/auth/)). Click on the administration console and enter the username, and password. Next, click on the "sign in" button.
+Login to keycloak (demo URL: [**https://demo-divoc.egov.org.in/auth**](https://demo-divoc.egov.org.in/auth/)). Click on the administration console and enter the username and password. Next, click on the "sign in" button.
 
 ![](<../.gitbook/assets/Screenshot 2022-05-04 at 10.58.41 AM.png>)
 
@@ -32,7 +32,7 @@ Enter your mobile number as the user name, and click on save.
 
 ### Step 5:
 
-Click on "attributes" and add the required attribute (mobile\_number) by clicking on the 'add' button. Next, click on save.
+Click on 'attributes' and add the required attribute (mobile\_number) by clicking on the 'add' button. Next, click on 'save.'
 
 ![](<../.gitbook/assets/Screenshot 2022-05-04 at 11.28.38 AM.png>)
 
