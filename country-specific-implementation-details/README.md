@@ -1,12 +1,12 @@
 # Country-specific implementation details
 
-This section will cover the different features and services of DIVOC that were implemented by the following countries:
+Each section will cover the different features and services of DIVOC that were implemented by the following countries and the standards used:
 
 * [India](issuing-covid-19-vaccination-certificates-in-india.md)
 * [Sri Lanka](issuing-covid-19-vaccination-certificates-in-sri-lanka.md)
-* Philippines (Coming soon)
+* [Philippines](issuing-covid-19-vaccination-certificates-in-the-philippines.md)&#x20;
 * [Jamaica](issuing-covid-19-vaccination-certificates-in-jamaica.md)
-* Indonesia (Coming soon)
+* [Indonesia](issuing-covid-19-vaccination-certificates-in-indonesia.md)
 
 
 

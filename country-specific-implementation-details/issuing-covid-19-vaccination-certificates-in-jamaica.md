@@ -2,9 +2,9 @@
 
 ## Overview&#x20;
 
-Jamaica went live with DIVOC in December 2021. DIVOC has set up the “Digital Vaccination Certificate Portal,” which also serves as the citizen portal, as well as a system admin portal for Jamaica. The vaccination data has been integrated with CommCare.
+Jamaica went live with DIVOC in December 2021. It was implemented by Jamaica's Ministry of Health & Wellness.
 
-We will give you an overview of the different features and services of DIVOC that have been implemented in Jamaica and the standard used.
+DIVOC has set up the “Digital Vaccination Certificate Portal,” which also serves as the citizen portal, as well as a system admin portal for Jamaica. The vaccination data has been integrated with CommCare.
 
 ## Platform release version&#x20;
 
@@ -30,7 +30,7 @@ We will give you an overview of the different features and services of DIVOC tha
 
 ## Standards used&#x20;
 
-All COVID-19 certificates are generated as per the WHO-Digital Documentation of COVID-19 Certificates (DDCC) data specification.
+* All COVID-19 certificates are generated as per the WHO-Digital Documentation of COVID-19 Certificates (DDCC) data specification.
 
 
 

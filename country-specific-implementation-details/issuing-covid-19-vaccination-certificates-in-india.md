@@ -2,8 +2,6 @@
 
 The Government of India launched the COVID-19 vaccination program in January 2021. The roll-out of the Co-WIN application was key to this. While the cloud-based platform covered all the major modules that a vaccination program of this scale should have, it lacked the digital credentialing feature that was critical to open up travel and economy amid the COVID-19 pandemic. DIVOC was integrated with Co-WIN in January 2021, making India the first country where the digital verifiable credentialing was implemented. Over 1.9 billion vaccination certificates have been issued in India so far.
 
-This section will give you an overview of the different features of DIVOC that have been implemented in India and the standard used.
-
 ## Platform release version&#x20;
 
 Since India was the first country to implement DIVOC, a component-wise release was done as there was no generic version available back then. Hence, the release versions are component-specific:
@@ -44,7 +42,7 @@ Since India was the first country to implement DIVOC, a component-wise release w
 
 ## Standards used
 
-The international certificates issued in India for citizens traveling abroad are based on the     [**WHO-Digital Documentation of COVID-19 Certificates (DDCC)**](https://www.who.int/publications/i/item/WHO-2019-nCoV-Digital\_certificates-vaccination-2021.1) data specification.
+* The international certificates issued in India for citizens traveling abroad are based on the     [**WHO-Digital Documentation of COVID-19 Certificates (DDCC)**](https://www.who.int/publications/i/item/WHO-2019-nCoV-Digital\_certificates-vaccination-2021.1) data specification.
 
 
 
