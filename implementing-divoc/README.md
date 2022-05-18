@@ -9,17 +9,17 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### B. [<mark style="color:blue;">How to install DIVOC</mark>](how-to-install-divoc.md)<mark style="color:blue;"></mark>
 
-### C. [Backup & Restore: Postgres, Clickhouse, and Kafka](backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
+### C. [Implementation Checklist](implementation-checklist.md)
 
-### D. [Infrastructure recovery](infrastructure-recovery.md)
+### D. [Backup & Restore: Postgres, Clickhouse, and Kafka](backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
 
-### E. [Server hardening](server-hardening.md)
+### E. [Infrastructure recovery](infrastructure-recovery.md)
 
-### F. [Key pairs in DIVOC](key-pairs-in-divoc.md)
+### F. [Server hardening](server-hardening.md)
 
-### G. [Certificate and Verification component](certification-and-verification-component/)&#x20;
+### G. [Key pairs in DIVOC](key-pairs-in-divoc.md)
 
-### H. [Jamaica implementation details](broken-reference)
+### H. [Certificate and Verification component](certification-and-verification-component/)&#x20;
 
 ### I. [Platform policy guidelines](platform-policy-guidelines.md)
 
@@ -34,4 +34,4 @@ Each country will have its own set of requirements in line with globally accepte
 
 &#x20;&#x20;
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
