@@ -24,11 +24,11 @@ Since India was the first country to implement DIVOC, a component-wise release w
 
 [**Certificate generation:**](../divocs-verifiable-certificate-features/creating-a-divoc-certificate/) **** A certificate is generated in real-time every time a person’s vaccination record is created in Co-WIN. Citizens get the latest dose certificate, which could be provisional, final, or the precaution dose. Two types of certificates are issued: domestic (age is mandatory) and international travel certificates (date of birth is mandatory). Further, DIVOC certificates (domestic) can be generated in 22 languages in India.
 
-****[**Certificate download:**](../divoc-demo/citizen-portal.md#2.-for-downloading-a-certificate) **** Besides Co-WIN, DIVOC’s certificate module has been integrated with **** [**Arogya Setu**](https://www.aarogyasetu.gov.in)**,** [**Umang**](https://web.umang.gov.in/landing/)**,** and [**Digilocker**](https://www.digilocker.gov.in)**,** so that citizens can download their certificates after vaccination from any of these portals/apps by using their registered mobile number.&#x20;
+****[**Certificate download:**](../divoc-demo/citizen-portal.md#2.-for-downloading-a-certificate) **** Besides Co-WIN, DIVOC’s certificate module has been integrated with **** [**Arogya Setu**](https://www.aarogyasetu.gov.in/)**,** [**Umang**](https://web.umang.gov.in/landing/)**,** and [**Digilocker**](https://www.digilocker.gov.in/)**,** so that citizens can download their certificates after vaccination from any of these portals/apps by using their registered mobile number.&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2022-04-19 at 2.03.01 PM.png>)
 
-****[**Certificate verification:**](../divocs-verifiable-certificate-features/verifying-a-divoc-certificate.md) DIVOC’s integration with CoWIN enables verification of the QR code-based vaccination certificates [**online**](https://verify.cowin.gov.in) by using DIVOC’s verification utility embedded within Co-WIN.
+****[**Certificate verification:**](../divocs-verifiable-certificate-features/verifying-a-divoc-certificate.md) DIVOC’s integration with CoWIN enables verification of the QR code-based vaccination certificates [**online**](https://verify.cowin.gov.in/) by using DIVOC’s verification utility embedded within Co-WIN.
 
 ![](<../.gitbook/assets/Screenshot 2022-04-19 at 2.07.18 PM.png>)
 
@@ -40,10 +40,12 @@ Since India was the first country to implement DIVOC, a component-wise release w
 
 ![Note: These are April 19, 2022, numbers](<../.gitbook/assets/Screenshot 2022-04-19 at 2.13.17 PM.png>)
 
+**Reconciliation service:** This service was introduced in India to resolve any initial (bulk) data entry discrepancy such as date of vaccination.
+
 ## Standards used
 
 * The international certificates issued in India for citizens traveling abroad are based on the     [**WHO-Digital Documentation of COVID-19 Certificates (DDCC)**](https://www.who.int/publications/i/item/WHO-2019-nCoV-Digital\_certificates-vaccination-2021.1) data specification.
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
