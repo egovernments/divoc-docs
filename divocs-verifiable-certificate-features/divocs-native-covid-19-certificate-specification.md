@@ -1,4 +1,4 @@
-# DIVOC's native COVID-19 certificate specification
+# DIVOC's Native COVID-19 Certificate Specification
 
 When the “Certify API” is called by a vaccinating system, a unique QR code is generated for that specific event. This document specifies the data structure that can be used to generate a QR code-based digitally verifiable certificate for a registered health event.
 
@@ -123,4 +123,4 @@ DIVOC is capable of self-generating a public-private key pair. It also supports 
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

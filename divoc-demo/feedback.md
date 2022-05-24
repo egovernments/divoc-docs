@@ -13,7 +13,7 @@ A citizen interface via DIVOC’s citizen portal has been enabled that can be us
 **Step 1:**
 
 Click on the URL to open the feedback page: **** [**https://demo-divoc.egov.org.in/**\
-****](https://demo-divoc.egov.org.in)****
+****](https://demo-divoc.egov.org.in/)****
 
 **Step 2:**
 
@@ -53,4 +53,4 @@ Once the feedback is submitted, a notification is sent to the healthcare facilit
 
 __
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

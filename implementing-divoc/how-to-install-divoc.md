@@ -1,4 +1,4 @@
-# How to install DIVOC
+# How to Install DIVOC
 
 ## Assumptions&#x20;
 
@@ -183,4 +183,4 @@ The indexes for efficient querying of the database tables do not get automatical
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

@@ -52,7 +52,7 @@ Mention ID type, ID number, name, gender, residence details, contact information
 
 **Step 1: Log in**
 
-Click on the following URL to log into the citizen portal: [**https://demo-divoc.egov.org.in/**](https://demo-divoc.egov.org.in). Go to **Download your Vaccination Certificate** section. Click on **Download**.
+Click on the following URL to log into the citizen portal: [**https://demo-divoc.egov.org.in/**](https://demo-divoc.egov.org.in/). Go to **Download your Vaccination Certificate** section. Click on **Download**.
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.34.34 PM.png>)
 
@@ -86,4 +86,4 @@ Click on **SCAN WITH QR** to verify the certificate.
 
 ![](<../.gitbook/assets/Screenshot 2021-12-07 at 3.49.10 PM.png>)
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

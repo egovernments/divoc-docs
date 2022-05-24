@@ -1,4 +1,4 @@
-# Adding a user type in DIVOC
+# Adding a User Type in DIVOC
 
 ## Overview
 
@@ -50,4 +50,4 @@ Select the role you want to add from the list of "available roles" and click on 
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

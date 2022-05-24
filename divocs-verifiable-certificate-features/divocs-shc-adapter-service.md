@@ -55,9 +55,9 @@ DIVOC’s adapter issues a digital certificate, as per the SHC data model, and i
 
 ### **Technical specification**
 
-* To know more on SHC specification, click [**https://spec.smarthealth.cards/**](https://spec.smarthealth.cards).
+* To know more on SHC specification, click [**https://spec.smarthealth.cards/**](https://spec.smarthealth.cards/).
 * You can check the SHC vaccination and testing implementation guide [**here**](https://build.fhir.org/ig/HL7/fhir-shc-vaccination-ig/).
 
 ****
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

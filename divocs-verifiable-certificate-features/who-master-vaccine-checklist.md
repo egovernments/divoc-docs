@@ -4,7 +4,7 @@ description: >-
   (WHO) and used by  DIVOC's adopter countries.
 ---
 
-# WHO master vaccine checklist
+# WHO Master Vaccine Checklist
 
 | Vaccine Name                  | Manufacturer Name (human readable)                     | Vaccine Code (ICD 11) (vaccine type/prophylaxis; normally in QR) | Vaccine Type/Prophylaxis (human readable description) |
 | ----------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------- |
@@ -24,6 +24,4 @@ description: >-
 
 
 
-
-
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

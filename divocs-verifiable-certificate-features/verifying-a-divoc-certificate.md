@@ -1,4 +1,4 @@
-# Verifying a DIVOC certificate
+# Verifying a DIVOC Certificate
 
 The verification component of the DIVOC certificate service checks for two things:
 
@@ -29,7 +29,7 @@ Use the following steps to verify a DIVOC certificate:
 ### **Online verification:**
 
 * DIVOC provides a public portal that allows verifiers (including self-verification by beneficiaries) to verify certificates.
-* Certificates can be scanned and verified on the following URL: [**https://demo-divoc.egov.org.in/**](https://demo-divoc.egov.org.in) **** and clicking on “Verify.”
+* Certificates can be scanned and verified on the following URL: [**https://demo-divoc.egov.org.in/**](https://demo-divoc.egov.org.in/) **** and clicking on “Verify.”
 
 ![](<../.gitbook/assets/Screenshot 2022-02-11 at 4.28.36 PM.png>)
 
@@ -43,4 +43,4 @@ Next,
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

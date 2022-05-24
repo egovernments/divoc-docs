@@ -12,7 +12,7 @@ description: Digital Infrastructure for Verifiable Open Credentialing
 
 The <mark style="color:orange;">**Digital Infrastructure**</mark>** for Vaccination Open Credentialing** or <mark style="color:orange;">**DI**</mark>**VOC** is an **open-source platform** that enables countries to digitally orchestrate large-scale health campaigns such as vaccination and certification programs.
 
-Learn more about the platform on the [**DIVOC**](https://divoc.dev) website **** or **** [**Contact us**](https://divoc.dev/#get-in-touch) **** for more details.
+Learn more about the platform on the [**DIVOC**](https://divoc.dev/) website **** or **** [**Contact us**](https://divoc.dev/#get-in-touch) **** for more details.
 
 ## **Facilitates last-mile delivery of health programs at scale**
 
@@ -57,4 +57,4 @@ Being deployed across multiple countries, the platform has enabled India to issu
 
 __
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

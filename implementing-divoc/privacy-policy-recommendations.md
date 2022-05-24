@@ -1,4 +1,4 @@
-# Privacy policy recommendations
+# Privacy Policy Recommendations
 
 ## Privacy notice for citizens&#x20;
 
@@ -32,4 +32,4 @@ We recommend that the following guidelines should be followed by a country that 
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

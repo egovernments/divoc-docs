@@ -1,4 +1,4 @@
-# DIVOC's Certification and Verification component
+# DIVOC's Certification and Verification Component
 
 DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccination programs in multiple countries. The guide and its different sections describe the various steps that you have to follow when implementing one or more features of the certification and verification component, depending on your country’s needs.
 
@@ -24,4 +24,4 @@ DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccinati
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

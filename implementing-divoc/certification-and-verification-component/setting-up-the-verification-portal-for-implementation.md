@@ -57,7 +57,7 @@ const onTryAgain = () => {
 #### How to update the verification page:
 
 * The required UI changes, including messaging and branding, can be configured on [**this**](https://github.com/egovernments/DIVOC/blob/main/public\_app/src/components/VerifyCertificate/index.js) **** file.
-* You can refer to **** [**this**](https://github.com/egovernments/DIVOC/blob/icmr/verification/src/components/VerifyCertificate/index.js) **** file as an example of a country-specific configuration ([**https://verify.icmr.org.in/**](https://verify.icmr.org.in)).
+* You can refer to **** [**this**](https://github.com/egovernments/DIVOC/blob/icmr/verification/src/components/VerifyCertificate/index.js) **** file as an example of a country-specific configuration ([**https://verify.icmr.org.in/**](https://verify.icmr.org.in/)).
 
 ## **Verification confirmation page**
 
@@ -129,4 +129,4 @@ Example: Include the beneficiary’s parent name as a mandatory field in the ver
 
 __
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

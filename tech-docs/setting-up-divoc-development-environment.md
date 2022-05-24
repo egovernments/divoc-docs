@@ -92,7 +92,7 @@ docker-compose up -d --build --no-deps <service1> <service2>...
 
 ### **DIVOC application configuration**
 
-DIVOC uses [**etcd**](https://etcd.io) as a configuration store for templates and other configurations. A default set of configurations is available in the default-configuration/etcd folder. The instructions to configure these are available [**here**](https://github.com/egovernments/DIVOC/tree/main/default-configuration/etcd).
+DIVOC uses [**etcd**](https://etcd.io/) as a configuration store for templates and other configurations. A default set of configurations is available in the default-configuration/etcd folder. The instructions to configure these are available [**here**](https://github.com/egovernments/DIVOC/tree/main/default-configuration/etcd).
 
 ### Create `admin` and `controller` users in Keycloak
 
@@ -196,4 +196,4 @@ Change the admin password of Keycloak console
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

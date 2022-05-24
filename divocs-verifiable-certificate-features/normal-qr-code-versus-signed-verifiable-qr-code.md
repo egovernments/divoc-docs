@@ -1,4 +1,4 @@
-# Normal QR code versus signed/verifiable QR code
+# Normal QR Code Versus Signed/Verifiable QR Code
 
 You have likely seen a lot more QR codes over the last two years due to the pandemic. At many restaurants, for example, which are keen not to share physical menus, customers scan a QR code with their phone camera to open a website for the online menu.
 
@@ -20,4 +20,4 @@ You have likely seen a lot more QR codes over the last two years due to the pand
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._

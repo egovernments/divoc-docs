@@ -30,6 +30,7 @@
   * [EU Master Vaccine Checklist](divocs-verifiable-certificate-features/eu-master-vaccine-checklist.md)
 * [Country-specific implementation details](country-specific-implementation-details/README.md)
   * [Issuing COVID-19 Vaccination Certificates in India](country-specific-implementation-details/issuing-covid-19-vaccination-certificates-in-india.md)
+  * [Issuing COVID-19 Test Reports in India](country-specific-implementation-details/issuing-covid-19-test-reports-in-india.md)
   * [Issuing COVID-19 Vaccination Certificates in  Sri Lanka](country-specific-implementation-details/issuing-covid-19-vaccination-certificates-in-sri-lanka.md)
   * [Issuing COVID-19 Vaccination Certificates in the Philippines](country-specific-implementation-details/issuing-covid-19-vaccination-certificates-in-the-philippines.md)
   * [Issuing COVID-19 Vaccination Certificates in Jamaica](country-specific-implementation-details/issuing-covid-19-vaccination-certificates-in-jamaica.md)
