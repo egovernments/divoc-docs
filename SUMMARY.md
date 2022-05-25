@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to DIVOC](README.md)
+  * [What DIVOC is and what it's not](<Digital Infrastructure for Vaccination Open Credentialing/what-divoc-is-and-what-its-not.md>)
 * [DIVOC Architecture](divoc-architecture.md)
 * [DIVOC Demo](divoc-demo/README.md)
   * [Program setup (via Orchestration module)](divoc-demo/orchestration.md)
