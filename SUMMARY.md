@@ -62,7 +62,8 @@
 ## Tech Community <a href="#community" id="community"></a>
 
 * [Useful links](community/about-project-team.md)
-* [Release Notes](community/release-notes.md)
+* [Release Notes](community/release-notes/README.md)
+  * [DIVOC 2.0 Release Features](community/release-notes/divoc-2.0-release-features.md)
 * [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
