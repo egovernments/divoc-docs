@@ -4,9 +4,10 @@
 
 This document will help an implementer configure a certificate (template and QR code) for a health event such as vaccination. This section includes configuring:
 
-1. [Certificate generation request](step-1-create-a-certification-generation-request.md)&#x20;
-2. [QR code section](step-2-configure-the-qr-code-content.md)&#x20;
-3. [Certificate template](step-3-configure-the-certificate-template.md)
+* [Generating Signed Key Pairs](../../divocs-certification-and-verification-component/configuring-certificates/generating-signed-key-pairs.md)
+* [Certificate generation request](step-1-create-a-certification-generation-request.md)&#x20;
+* [QR code section](step-2-configure-the-qr-code-content.md)&#x20;
+* [Certificate template](step-3-configure-the-certificate-template.md)
 
 ## API&#x20;
 
