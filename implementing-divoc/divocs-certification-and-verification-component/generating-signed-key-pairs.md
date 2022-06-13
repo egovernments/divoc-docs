@@ -2,20 +2,20 @@
 
 ## Certificate signing
 
-### Supported key types&#x20;
+Supported key types&#x20;
 
 1. RSA (default)&#x20;
 2. ED25519 (recommended for performance)
 
-### Environment variable configuration
+Environment variable configuration
 
 {% hint style="info" %}
 SIGNING\_KEY\_TYPE (possible values: RSA or ED25519)
 {% endhint %}
 
-## **Key Pair Configuration for DIVOC certificate**
+## **Key pair configuration for DIVOC certificate**
 
-### Environment variables
+Environment variables
 
 {% hint style="info" %}
 CERTIFICATE\_SIGNER\_PRIVATE\_KEY, CERTIFICATE\_SIGNER\_PUBLIC\_KEY
@@ -23,21 +23,21 @@ CERTIFICATE\_SIGNER\_PRIVATE\_KEY, CERTIFICATE\_SIGNER\_PUBLIC\_KEY
 
 The expected values for these configurations change depending on the type of key in use:
 
-### RSA**:**&#x20;
+RSA -
 
 * Private Key Format: 2048 bit, PEM
 * Public key format: PEM&#x20;
 
-### ED25519:
+ED25519 -
 
 | Key     | Format | Type   | Encoding |
 | ------- | ------ | ------ | -------- |
 | Private | DER    | PKCS#8 | Base58   |
 | Public  | DER    | SPKI   | Base58   |
 
-## **Reference steps for key generation**
+### **Reference steps for key generation**
 
-### **RSA key generation using openssl**
+RSA key generation using openssl
 
 {% hint style="info" %}
 openssl genrsa -out privatekey.pem 2048
@@ -47,15 +47,15 @@ openssl genrsa -out privatekey.pem 2048
 openssl rsa -in privatekey.pem -out publickey.pem -pubout -outform PEM
 {% endhint %}
 
-### **ED25519**
+ED25519
 
 Use an external library such as **** [**ed25519-verification-key-2018**](https://github.com/digitalbazaar/ed25519-verification-key-2018/) **** to **** [**generate**](https://github.com/digitalbazaar/ed25519-verification-key-2018#generating-a-new-publicprivate-key-pair) **** a key-pair in the required format.
 
 
 
-## **Key Pair Configuration for EU certificate**
+## **Key pair Configuration for EU certificate**
 
-### Generation of Key pair for signing the EU certificate&#x20;
+Generation of key pair for signing the EU certificate:
 
 * Copy the certificate generation script file [gen-dsc.sh](https://github.com/egovernments/DIVOC/blob/main/scripts/gen-dsc.sh) **** and put it in the desired location&#x20;
 * Copy the certificate configuration file [cert.conf](https://github.com/egovernments/DIVOC/blob/main/scripts/cert.conf) and put it in the same folder where certificate generation script is copied
@@ -78,7 +78,7 @@ Use an external library such as **** [**ed25519-verification-key-2018**](https:/
 2. _CSR filename - DSC01csr.pem CERTIFICATE key filename - DSC01cert.pem_
 3. _Public key format: PEM_
 
-### **Configuring EU certificate retrieval from certificate-api service**
+### **Configuring EU certificate retrieval from the certificate-API service**
 
 1. Generate key pair required for signing the EU certificate and Share the CSR file for signing with CA&#x20;
 2. In the `divoc-config` configMap set the following environment variables:&#x20;

@@ -17,7 +17,7 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### F. [Server hardening](setting-up-divoc/server-hardening.md)
 
-### G. [Key pairs in DIVOC](divocs-certification-and-verification-component/configuring-certificates/generating-signed-key-pairs.md)
+### G. [Key pairs in DIVOC](divocs-certification-and-verification-component/generating-signed-key-pairs.md)
 
 ### H. [Certificate and Verification component](certification-and-verification-component/)&#x20;
 
