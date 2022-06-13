@@ -7,15 +7,15 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### A. [Skills needed to set up DIVOC](skills-needed-to-set-up-divoc.md)
 
-### B. [<mark style="color:blue;">How to install DIVOC</mark>](how-to-install-divoc.md)<mark style="color:blue;"></mark>
+### B. [<mark style="color:blue;">How to install DIVOC</mark>](setting-up-divoc/how-to-install-divoc.md)<mark style="color:blue;"></mark>
 
 ### C. [Implementation Checklist](implementation-checklist.md)
 
-### D. [Backup & Restore: Postgres, Clickhouse, and Kafka](backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
+### D. [Backup & Restore: Postgres, Clickhouse, and Kafka](setting-up-divoc/backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
 
-### E. [Infrastructure recovery](infrastructure-recovery.md)
+### E. [Infrastructure recovery](setting-up-divoc/infrastructure-recovery.md)
 
-### F. [Server hardening](server-hardening.md)
+### F. [Server hardening](setting-up-divoc/server-hardening.md)
 
 ### G. [Key pairs in DIVOC](divocs-certification-and-verification-component/configuring-certificates/generating-signed-key-pairs.md)
 
