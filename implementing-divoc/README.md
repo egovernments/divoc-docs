@@ -7,7 +7,7 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### A. [Skills needed to set up DIVOC](skills-needed-to-set-up-divoc.md)
 
-### B. [<mark style="color:blue;">How to install DIVOC</mark>](setting-up-divoc/how-to-install-divoc.md)<mark style="color:blue;"></mark>
+### B. [Setting up DIVOC](setting-up-divoc/)
 
 ### C. [Implementation Checklist](implementation-checklist.md)
 
@@ -17,13 +17,11 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### F. [Server hardening](setting-up-divoc/server-hardening.md)
 
-### G. [Key pairs in DIVOC](divocs-certification-and-verification-component/generating-signed-key-pairs.md)
+### G. [Certificate and Verification component](certification-and-verification-component/)&#x20;
 
-### H. [Certificate and Verification component](certification-and-verification-component/)&#x20;
+### H. [Platform policy guidelines](platform-policy-guidelines.md)
 
-### I. [Platform policy guidelines](platform-policy-guidelines.md)
-
-### J. [Privacy policy recommendations](privacy-policy-recommendations.md)
+### I. [Privacy policy recommendations](privacy-policy-recommendations.md)
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
