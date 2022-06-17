@@ -55,6 +55,8 @@
       * [Step 3: Configure the certificate template](implementing-divoc/divocs-certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)
     * [How to set up the verification portal for implementation](implementing-divoc/certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
     * [How to configure the update certificate API](implementing-divoc/divocs-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
+  * [Configuration Management Via ETCD](implementing-divoc/configuration-management-via-etcd/README.md)
+    * [Adding a new vaccine and ICD-11 mapping](implementing-divoc/configuration-management-via-etcd/adding-a-new-vaccine-and-icd-11-mapping.md)
   * [Platform Policy Guidelines](implementing-divoc/platform-policy-guidelines.md)
   * [Privacy Policy Recommendations](implementing-divoc/privacy-policy-recommendations.md)
 * [DIVOC Events](events/README.md)
