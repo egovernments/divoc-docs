@@ -56,7 +56,7 @@
     * [How to set up the verification portal for implementation](implementing-divoc/certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
     * [How to configure the update certificate API](implementing-divoc/divocs-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
   * [Configuration Management Via ETCD](implementing-divoc/configuration-management-via-etcd/README.md)
-    * [Adding a new vaccine and ICD-11 mapping](implementing-divoc/configuration-management-via-etcd/adding-a-new-vaccine-and-icd-11-mapping.md)
+    * [Adding a New Vaccine and ICD-11 Mapping](implementing-divoc/configuration-management-via-etcd/adding-a-new-vaccine-and-icd-11-mapping.md)
     * [PDF Template Change for Vaccine Certificates](implementing-divoc/configuration-management-via-etcd/pdf-template-change-for-vaccine-certificates.md)
     * [EU Vaccine Configurations](implementing-divoc/configuration-management-via-etcd/eu-vaccine-configurations.md)
     * [Payload Changes in the QR Code](implementing-divoc/configuration-management-via-etcd/payload-changes-in-the-qr-code.md)

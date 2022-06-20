@@ -14,8 +14,8 @@ Once the etcd manager app is installed, the following can be seamlessly managed 
 
 * [Adding a new vaccine and International Classification of Diseases or ICD-11 mapping.](adding-a-new-vaccine-and-icd-11-mapping.md)
 * [PDF template change for vaccine certificates.](pdf-template-change-for-vaccine-certificates.md)&#x20;
-* EU vaccine configurations. (Coming soon)
-* Payload changes in the QR code. (Coming soon)
+* [EU vaccine configurations.](eu-vaccine-configurations.md)&#x20;
+* [Payload changes in the QR code.](payload-changes-in-the-qr-code.md)&#x20;
 
 
 
