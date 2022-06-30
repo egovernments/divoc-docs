@@ -8,11 +8,11 @@ Under the guidance of the Department of Health, the Department of Information an
 
 ## Platform release version&#x20;
 
-1.23.0
+2.0
 
 ## **Features and services**
 
-****[**Certificate generation:**](../divocs-verifiable-certificate-features/creating-a-divoc-certificate/) **** DIVOC provides the latest COVID-19 certificate on demand for any Philippines citizen.
+****[**Certificate generation:**](../divocs-verifiable-certificate-features/creating-a-divoc-certificate/) **** DIVOC provides the latest COVID-19 certificate on demand for any Philippines citizen.&#x20;
 
 ![Sample COVID-19 vaccination certificate](<../.gitbook/assets/Screenshot 2022-05-10 at 2.11.28 PM.png>)
 

@@ -7,9 +7,9 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### A. [Skills needed to set up DIVOC](skills-needed-to-set-up-divoc.md)
 
-### B. [Implementation Checklist](implementation-checklist.md)
+### B. [Setting up DIVOC](setting-up-divoc/)
 
-### C. [Setting up DIVOC](setting-up-divoc/)
+### C. [Implementation Checklist](implementation-checklist.md)
 
 ### D. [Backup & Restore: Postgres, Clickhouse, and Kafka](setting-up-divoc/backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
 
