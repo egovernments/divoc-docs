@@ -4,9 +4,7 @@ description: Digital Infrastructure for Verifiable Open Credentialing
 
 # Introduction to DIVOC
 
-
-
-![](.gitbook/assets/VACCINE.jpeg)
+![](<.gitbook/assets/Screenshot 2022-07-06 at 2.20.13 PM.png>)
 
 ## What is DIVOC?
 
@@ -48,11 +46,11 @@ Learn more about the platform on the [**DIVOC**](https://divoc.dev/) website ***
 
 ## **DIVOC’s journey so far: Country stories**
 
-Being deployed across multiple countries, the platform has enabled India to issue over 1 billion COVID-19 vaccination certificates to its citizens.
+Acknowledge as a Digital Public Good by the [**Digital Public Good Alliance (DGPA)**](https://digitalpublicgoods.net/), the platform has enabled India, and four other countries to issue over 2 billion COVID-19 vaccination certificates to its citizens.
 
 |                                                            Launched at Scale: India                                                                                                       |                                                                                                                                                                                                             Now live in…                                                                                                                                                                                                            |                                                                                Coming soon…                                                                               |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                          <mark style="color:orange;">**1.1 billion**</mark> digitally signed vaccinated certificates via Cowin.                                           | <p>DIVOC’s certificate component went </p><p>live with digital vaccination certificates </p><p>in <mark style="color:orange;"><strong>Sri Lanka</strong></mark> in July 2021, in the <mark style="color:orange;"><strong>Philippines</strong></mark> in September 2021, and in <mark style="color:orange;"><strong>Jamaica</strong></mark> and <mark style="color:orange;"><strong>Indonesia</strong></mark> in December 2021. </p> | <mark style="color:orange;">**Indonesia**</mark> and <mark style="color:orange;">**Jamaica**</mark> are currently planned for Covid-19 vaccination certificate roll-outs. |
+|                                          <mark style="color:orange;">**1.9 billion**</mark> digitally signed vaccinated certificates via Cowin.                                           | <p>DIVOC’s certificate component went </p><p>live with digital vaccination certificates </p><p>in <mark style="color:orange;"><strong>Sri Lanka</strong></mark> in July 2021, in the <mark style="color:orange;"><strong>Philippines</strong></mark> in September 2021, and in <mark style="color:orange;"><strong>Jamaica</strong></mark> and <mark style="color:orange;"><strong>Indonesia</strong></mark> in December 2021. </p> | <mark style="color:orange;">**Indonesia**</mark> and <mark style="color:orange;">**Jamaica**</mark> are currently planned for Covid-19 vaccination certificate roll-outs. |
 | <p>DIVOC has enabled the Indian Council of Medical Research (ICMR) to </p><p>issue digitally-signed </p><p><mark style="color:orange;"><strong>COVID-19 test reports</strong></mark>.</p> |                                                                                                                            Plans are underway to issue COVID-19 test result certificates in both <mark style="color:orange;">**Sri Lanka**</mark> and <mark style="color:orange;">**Philippines**</mark>.                                                                                                                           |                                                                  <mark style="color:orange;">****</mark>                                                                  |
 
 __
