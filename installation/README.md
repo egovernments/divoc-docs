@@ -1,4 +1,4 @@
-# Implementing DIVOC
+# Installation
 
 Setting up DIVOC in your country to orchestrate a new health program? The guide covers everything you need to know to implement DIVOC. The different sections are meant for people who are involved in planning and managing the various aspects of the implementation process, as well as those involved in the technical work. The documents cover the various steps and configurations required. \
 
@@ -17,7 +17,7 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 ### F. [Server hardening](setting-up-divoc/server-hardening.md)
 
-### G. [Certificate and Verification component](certification-and-verification-component/)&#x20;
+### G. [Certificate and Verification component](divocs-certification-and-verification-component/)&#x20;
 
 ### H. [Platform policy guidelines](platform-policy-guidelines.md)
 
@@ -25,8 +25,8 @@ Setting up DIVOC in your country to orchestrate a new health program? The guide 
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
-* [How to configure the certificate component?](certification-and-verification-component/configuring-certificates/)&#x20;
-* [How to set up the verification portal for your implementation?](certification-and-verification-component/setting-up-the-verification-portal-for-implementation.md)
+* [How to configure the certificate component?](divocs-certification-and-verification-component/configuring-certificates/)&#x20;
+* [How to set up the verification portal for your implementation?](divocs-certification-and-verification-component/how-to-set-up-the-verification-portal-for-implementation.md)
 * [How to configure the update certificate API?](divocs-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
 * How to integrate with the SMS/Email gateway to notify beneficiaries? (coming soon)
 
