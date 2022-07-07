@@ -7,7 +7,7 @@
 * The staff of a particular facility can use the [**facility app**](../facility-app.md) to verify a beneficiary.
 * Certificates can also be verified and downloaded via the [**citizen portal**](../citizen-portal.md#3.-for-certificate-verification). &#x20;
 * If the country has an authorised third-party app, it can be integrated with DIVOC's credentialing module to fetch certificates from the certificate registry and view/download them.
-* Click [**here**](../../divocs-verifiable-certificate-features/) to know more on the certificate generation service of DIVOC.
+* Click [**here**](../../platform/divocs-verifiable-certificate-features/) to know more on the certificate generation service of DIVOC.
 
 
 
