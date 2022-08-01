@@ -19,7 +19,7 @@ description: >-
 * [Release notes 1.20.2](https://github.com/egovernments/DIVOC/releases/tag/1.20.2-generic) (minor enhancements and bug fixes)
 * [Release notes 1.20.1 ](https://github.com/egovernments/DIVOC/releases/tag/1.20.1-generic)(minor enhancement on appointment)
 * [Release notes 1.20.0](https://github.com/egovernments/DIVOC/releases/tag/1.20.0-generic) (registration and appointment)
-* [Release notes 2.0.0](https://github.com/egovernments/DIVOC/releases/tag/2.0.0-generic) (generic)
+* [Release notes 2.0.0](https://github.com/egovernments/DIVOC/releases/tag/2.0.0-generic) (generic) and [2.0 release features](divoc-2.0-release-features.md)
 
 
 
