@@ -12,7 +12,7 @@ The <mark style="color:orange;">**Digital Infrastructure**</mark>** for Vaccinat
 
 Learn more about the platform on the [**DIVOC**](https://divoc.dev/) website **** or **** [**Contact us**](https://divoc.dev/#get-in-touch) **** for more details.
 
-## **Facilitates last-mile delivery of health programmes at scale**
+## **Facilitates last-mile delivery of health programs at scale**
 
 * Built in India for the world as a <mark style="color:orange;">**digital public good**</mark>, DIVOC is a flexible and extendable software that can be used across multiple health programs.
 * Its scalable and data-driven architecture allows it to deal with diverse country-specific scenarios. In a vaccination programme, for example, it gives countries the ability to manage and control vaccines, facilities, and vaccinators systematically across geographies, as well as generate digitally variable certificates that are compliant with international standards.
