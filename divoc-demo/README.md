@@ -14,7 +14,7 @@ The tutorials will guide you on how to use DIVOC:
 
 **Or,**
 
-* You can go step-by-step as shown below: Orchestration - Facility app - Issue and Verify Certificates - Citizen portal - Feedback module - Analytics.
+* You can go step-by-step as shown below: Program setup (via orchestration module) - Facility app - Issue and Verify Certificates - Citizen portal - Feedback module - Analytics.
 
 ## Getting Started
 
