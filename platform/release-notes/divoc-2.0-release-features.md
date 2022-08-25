@@ -8,7 +8,7 @@
 
 If your country is implementing DIVOC 2.0, it is important to know the additions/changes that we have made as part of this release:
 
-* **Configuration management via** [**etcd**](https://etcd.io/)**:** You can make configuration changes to DIVOC’s certificate module via etcd without needing a new deployment. Click [**here**](../../implementing-divoc/configuration-management-via-etcd/) to know more.
+* **Configuration management via** [**etcd**](https://etcd.io/)**:** You can make configuration changes to DIVOC’s certificate module via etcd without needing a new deployment. Click [**here**](../../configuration/configuration-management-via-etcd/) to know more.
 * **Support for EU compliant digital certificates and Smart Health Cards:** DIVOC’s **EU-DCC** and **SHC** adapter services facilitate easy travel for residents from DIVOC’s adopter countries. Know more about DIVOC’s [**EU-DCC**](../divocs-verifiable-certificate-features/divocs-eu-dcc-adapter-service.md) and [**SHC**](../divocs-verifiable-certificate-features/divocs-shc-adapter-service.md) adapter services.
 * **Print certificates at the facility:** We have added the capability to print vaccination certificates when a beneficiary walks into a facility. Click [**here**](../divocs-verifiable-certificate-features/printing-certificates-at-a-facility.md) to know more.
 * **New API for revocation services:** A new Revoke API has been introduced that can be used to revoke an issued certificate for manual revocation use cases. Click [**here**](../divocs-verifiable-certificate-features/revoking-a-divoc-certificate.md) to know more.
