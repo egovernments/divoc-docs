@@ -19,9 +19,9 @@ Setting up DIVOC in your country to orchestrate a new health programme? The guid
 
 ### G. [Certificate and Verification Component](../configuration/configuring-the-certification-and-verification-component/)&#x20;
 
-### H. [Platform Policy Guidelines](../community/about-project-team/platform-policy-guidelines.md)
+### H. [Platform Policy Guidelines](platform-policy-guidelines.md)
 
-### I. [Privacy Policy Recommendations](../community/about-project-team/privacy-policy-recommendations.md)
+### I. [Privacy Policy Recommendations](privacy-policy-recommendations.md)
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 

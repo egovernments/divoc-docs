@@ -71,9 +71,9 @@
 
 ## Tech Community <a href="#community" id="community"></a>
 
-* [Useful links](community/about-project-team/README.md)
-  * [Platform Policy Guidelines](community/about-project-team/platform-policy-guidelines.md)
-  * [Privacy Policy Recommendations](community/about-project-team/privacy-policy-recommendations.md)
+* [Useful links](community/about-project-team.md)
+  * [Platform Policy Guidelines](implementing-divoc/platform-policy-guidelines.md)
+  * [Privacy Policy Recommendations](implementing-divoc/privacy-policy-recommendations.md)
 * [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
