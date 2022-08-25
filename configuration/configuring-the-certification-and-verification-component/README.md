@@ -1,4 +1,4 @@
-# DIVOC's Certification and Verification Component
+# Configuring the Certification and Verification Component
 
 DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccination programs in multiple countries. The guide and its different sections describe the various steps that you have to follow when implementing one or more features of the certification and verification component, depending on your country’s needs.
 
@@ -17,10 +17,10 @@ DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccinati
 
 ## What will the sections cover?
 
-1. [Generating signed key pairs](../divocs-certification-and-verification-component/generating-signed-key-pairs.md)
+1. [Generating signed key pairs](generating-signed-key-pairs.md)
 2. [How to configure the certificate generation component?](configuring-certificates/)&#x20;
-3. [How to set up the verification portal for your implementation?](setting-up-the-verification-portal-for-implementation.md)
-4. [How to configure the update certificate API?](../divocs-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
+3. [How to set up the verification portal for your implementation?](how-to-set-up-the-verification-portal-for-implementation.md)
+4. [How to configure the update certificate API?](how-to-configure-the-update-certificate-api.md)
 
 
 

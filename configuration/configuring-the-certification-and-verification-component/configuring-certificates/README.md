@@ -4,10 +4,10 @@
 
 This document will help an implementer configure a certificate (template and QR code) for a health event such as vaccination. This section includes configuring:
 
-* [Generating Signed Key Pairs](../../divocs-certification-and-verification-component/generating-signed-key-pairs.md)
-* [Certificate generation request](../../divocs-certification-and-verification-component/configuring-certificates/step-1-create-a-certification-generation-request.md)&#x20;
-* [QR code section](../../divocs-certification-and-verification-component/configuring-certificates/step-2-configure-the-qr-code-content.md)&#x20;
-* [Certificate template](../../divocs-certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)
+* [Generating Signed Key Pairs](../generating-signed-key-pairs.md)
+* [Certificate generation request](step-1-create-a-certification-generation-request.md)&#x20;
+* [QR code section](step-2-configure-the-qr-code-content.md)&#x20;
+* [Certificate template](step-3-configure-the-certificate-template.md)
 
 ## API&#x20;
 
@@ -124,9 +124,9 @@ b. The detailed field validations are mentioned here: [**https://github.com/egov
 
 Click the following to see how you can make the changes:
 
-1. ****[**Create a certification generation request**](../../divocs-certification-and-verification-component/configuring-certificates/step-1-create-a-certification-generation-request.md)****
-2. ****[**Update the QR code content**](../../divocs-certification-and-verification-component/configuring-certificates/step-2-configure-the-qr-code-content.md)****
-3. ****[**Update the certificate template**](../../divocs-certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)****
+1. ****[**Create a certification generation request**](step-1-create-a-certification-generation-request.md)****
+2. ****[**Update the QR code content**](step-2-configure-the-qr-code-content.md)****
+3. ****[**Update the certificate template**](step-3-configure-the-certificate-template.md)****
 
 
 
