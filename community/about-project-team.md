@@ -6,6 +6,10 @@ Documentation is available at [**https://divoc.egov.org.in/**](https://divoc.ego
 
 If you have questions, please visit our **** [**project discussions page**](https://github.com/egovernments/DIVOC/discussions)**.**&#x20;
 
+Click here to know about platform policy guidelines.
+
+Click here to know about privacy policy recommendations.
+
 
 
 _All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
