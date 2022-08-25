@@ -6,9 +6,9 @@ Documentation is available at [**https://divoc.egov.org.in/**](https://divoc.ego
 
 If you have questions, please visit our **** [**project discussions page**](https://github.com/egovernments/DIVOC/discussions)**.**&#x20;
 
-Click here to know about platform policy guidelines.
+Click [**here**](../implementing-divoc/platform-policy-guidelines.md) to know about platform policy guidelines.
 
-Click here to know about privacy policy recommendations.
+Click [**here**](../implementing-divoc/privacy-policy-recommendations.md) to know about privacy policy recommendations.
 
 
 
