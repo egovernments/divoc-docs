@@ -41,8 +41,6 @@
     * [Backup & Restore: Postgres, Clickhouse, Kafka, & Redis](implementing-divoc/setting-up-divoc/backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
     * [Infrastructure Recovery](implementing-divoc/setting-up-divoc/infrastructure-recovery.md)
     * [Server Hardening](implementing-divoc/setting-up-divoc/server-hardening.md)
-  * [Platform Policy Guidelines](implementing-divoc/platform-policy-guidelines.md)
-  * [Privacy Policy Recommendations](implementing-divoc/privacy-policy-recommendations.md)
 * [Configuration](configuration/README.md)
   * [Configuring the Certification and Verification Component](configuration/configuring-the-certification-and-verification-component/README.md)
     * [Generating Signed Key Pairs](configuration/configuring-the-certification-and-verification-component/generating-signed-key-pairs.md)
@@ -73,7 +71,9 @@
 
 ## Tech Community <a href="#community" id="community"></a>
 
-* [Useful links](community/about-project-team.md)
+* [Useful links](community/about-project-team/README.md)
+  * [Platform Policy Guidelines](community/about-project-team/platform-policy-guidelines.md)
+  * [Privacy Policy Recommendations](community/about-project-team/privacy-policy-recommendations.md)
 * [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
