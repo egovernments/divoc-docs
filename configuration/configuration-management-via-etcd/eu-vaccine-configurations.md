@@ -18,7 +18,7 @@ To add a new vaccine to an EU certificate, a country must identify the EU code t
 
 * Click on Save. A popup will appear as “operation successful.” Click on Close.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-20 at 8.29.17 AM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-20 at 8.29.17 AM.png>)
 
 * To add the prophylaxis, go to euVaccineProph and click on the Edit key to add the vaccine name and code.
 
@@ -28,7 +28,7 @@ To add a new vaccine to an EU certificate, a country must identify the EU code t
 
 * Click on Save. A popup will appear as “operation successful.” Click on Close.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-20 at 8.31.59 AM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-20 at 8.31.59 AM.png>)
 
 * To add the manufacturer, go to euVaccineManuf and click on the Edit key to add the new manufacturer.
 
@@ -38,11 +38,11 @@ To add a new vaccine to an EU certificate, a country must identify the EU code t
 
 * Click on Save. A popup will appear as “operation successful.” Click on Close.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-20 at 8.37.42 AM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-20 at 8.37.42 AM.png>)
 
 * Once the mappings are available in etcd, you can create the certificate and generate the PDF with the new vaccine.
 
-![Sample certificate](<../../../.gitbook/assets/Screenshot 2022-06-20 at 8.39.49 AM.png>)
+![Sample certificate](<../../.gitbook/assets/Screenshot 2022-06-20 at 8.39.49 AM.png>)
 
 
 
