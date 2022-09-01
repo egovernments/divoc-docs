@@ -13,7 +13,7 @@ There are different International Classification of Diseases (ICD) codes based o
 
 * Click on Save. A popup will appear as “operation successful.” Click on Close.
 
-![](<../../.gitbook/assets/Screenshot 2022-06-17 at 7.58.12 AM.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-17 at 7.58.12 AM.png>)
 
 * Click on the edit button of the “ICD” key to add ICD-11 code and click on the Edit key.
 
@@ -23,11 +23,11 @@ There are different International Classification of Diseases (ICD) codes based o
 
 * Click on Save. A popup will appear as “operation successful.” Click on Close.
 
-![](<../../.gitbook/assets/Screenshot 2022-06-17 at 8.05.04 AM.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-17 at 8.05.04 AM.png>)
 
 * Make the certificate generation request call and fetch the certificate to test the changes. Once updated, any new certificate can be issued using the new vaccine name.
 
-![This is a sample certificate generated with the new vaccine type, with ICD-11 code XM6JD5 and ICD-11 term: ‘COVID-19 vaccine, live attenuated virus.’](<../../.gitbook/assets/Screenshot 2022-06-17 at 8.07.20 AM.png>)
+![This is a sample certificate generated with the new vaccine type, with ICD-11 code XM6JD5 and ICD-11 term: ‘COVID-19 vaccine, live attenuated virus.’](<../../../.gitbook/assets/Screenshot 2022-06-17 at 8.07.20 AM.png>)
 
 __
 
