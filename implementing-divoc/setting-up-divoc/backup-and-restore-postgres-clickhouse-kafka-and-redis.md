@@ -166,7 +166,7 @@ api:\
 {% endhint %}
 
 * Ensure configuration under clickhouse and general section of the configuration file. The rest are not mandatory.&#x20;
-* If automated remote upload functionality is needed, the appropriate section needs to be filled in: sftp, ftp, s3, GCS, AZBlob etc.&#x20;
+* If automated remote upload functionality is needed, the appropriate section needs to be filled in: sftp, ftp, s3, GCS, AZBlob, etc.&#x20;
 * The following command can be run:
 
 {% hint style="info" %}
@@ -223,7 +223,7 @@ tar -czf /home/kafka/zookeeper-backup.tar.gz /tmp/zookeeper/\*
 sudo systemctl stop kafka
 {% endhint %}
 
-&#x20;     \- Login as Kafka user:&#x20;
+&#x20;     \- Login as kafka user:&#x20;
 
 {% hint style="info" %}
 sudo -iu kafka
@@ -235,7 +235,7 @@ sudo -iu kafka
 tar -czf /home/kafka/kafka-backup.tar.gz /tmp/kafka-logs/\*
 {% endhint %}
 
-* Restore Zookeeper
+* Restore zookeeper
 
 &#x20;     \- sudo systemctl stop kafka&#x20;
 
@@ -249,7 +249,7 @@ tar -czf /home/kafka/kafka-backup.tar.gz /tmp/kafka-logs/\*
 
 &#x20;       \--strip-components 2
 
-* Restore Kafka
+* Restore kafka
 
 &#x20;     \- rm -r /tmp/kafka-logs/\*&#x20;
 
@@ -281,7 +281,7 @@ sudo apt install redis-cli
 echo save | redis-cli -u redis://\<user>:\<pass>@\<host>:\<port> >> /tmp/redis-backup.log
 {% endhint %}
 
-* This will save the backup as dump.rdb within
+* This will save the backup as dump.rdb within:
 
 {% hint style="info" %}
 /var/lib/redis

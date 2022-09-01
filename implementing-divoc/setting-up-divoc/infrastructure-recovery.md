@@ -28,13 +28,13 @@
 ### **Recover from the last quorum**
 
 * The playbook attempts to figure out if the etcd quorum is intact. If the quorum is lost, it will attempt to take a snapshot from the first node in the "etcd" group and restore from that.&#x20;
-* If you would like to restore from an alternate snapshot, set the path to that snapshot in the "etcd\_snapshot" variable: **-e etcd\_snapshot=/tmp/etcd\_snapshot**.
+* To restore from an alternate snapshot, set the path to that snapshot in the "etcd\_snapshot" variable: **-e etcd\_snapshot=/tmp/etcd\_snapshot**.
 
 ### **Adding or replacing a node**
 
 #### Removal of first kube\_control\_plane and etcd-master&#x20;
 
-Currently, you cannot remove the first node in your kube\_control\_plane and etcd-master list. If you still want to remove this node you have to do the following:
+Currently, you cannot remove the first node in your kube\_control\_plane and etcd-master list. If you still want to remove this node, you have to do the following:
 
 1. Modify the order of your control plane list by pushing your first entry to any other position, such as if you want to remove node-1 of the following example:
 
@@ -75,7 +75,7 @@ Currently, you cannot remove the first node in your kube\_control\_plane and etc
 docker ps | grep k8s\_nginx-proxy\_nginx-proxy | awk '{print $1}' | xargs docker restart
 {% endhint %}
 
-&#x20;3\. With the old node still in the inventory, run **remove-node.yml**. You need to pass **-e  node=NODE\_NAME** to the playbook to limit the execution to the node being removed. If the node you want to remove is not online, you should add **reset\_nodes=false** and **allow\_ungraceful\_removal=true** to your extra-vars.
+&#x20;3\. With the old node still in the inventory, run **remove-node.yml**. You need to pass **-e        node=NODE\_NAME** to the playbook to limit the execution to the node being removed. If the node you want to remove is not online, you should add **reset\_nodes=false** and **allow\_ungraceful\_removal=true** to your extra-vars.
 
 
 

@@ -12,13 +12,13 @@ netstat -antp
 
 * Once you have identified the open ports, you can stop/purge the applications which keep unnecessary ports open.&#x20;
 * The only acceptable open ports are 22 and 443. Access to the other ports outside the Kubernetes network should be prohibited.&#x20;
-* All ingress should be routed through 443 port only as needed.
+* All ingress should be routed through the 443 port only as needed.
 
 ## **Secure SSH**&#x20;
 
-SSH is secure, but we need to harden this service as well. If we can disable SSH, then the problem solved. However, if we want to use it, we have to change the default configuration of SSH. Password**-**based authentication should be disabled and only key-based authentication should be allowed. The steps for creating sudo users with public and private keys are as follows:
+SSH is secure, but we need to harden this service as well. If we can disable SSH, then the problem is solved. However, if we want to use it, we have to change the default configuration of SSH. Password**-**based authentication should be disabled and only key-based authentication should be allowed. The steps for creating sudo users with public and private keys are as follows:
 
-* Create a non root sudo user
+* Create a non-root sudo user
 
 {% hint style="info" %}
 adduser \<user>

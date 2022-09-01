@@ -6,19 +6,19 @@ With the ETCD CLI, the same can be dynamically updated in the files (euVaccinePr
 
 * Go to the specific path where etcd is configured.
 * Open the files to add the new vaccine or update the existing vaccine.
-* Run the command: vim euVaccineCode.json.
+* Run the command: vim euVaccineCode.json
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 12.33.59 PM.png" alt=""><figcaption></figcaption></figure>
 
-* Run the command:vim euVaccineProph.json.
+* Run the command:vim euVaccineProph.json
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 12.36.53 PM.png" alt=""><figcaption></figcaption></figure>
 
-* Run the command:vim [euVaccineManuf.json](https://github.com/egovernments/DIVOC/blob/main/default-configuration/etcd/euVaccineManuf.json).
+* Run the command:vim [euVaccineManuf.json](https://github.com/egovernments/DIVOC/blob/main/default-configuration/etcd/euVaccineManuf.json)
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 12.39.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-* To reflect the change, run the command: ./updateConfigs.sh. It shows "OK OK OK...."This means that etcd has been updated with the new vaccine list successfully.
+* To reflect the change, run the command: ./updateConfigs.sh. It shows OK OK OK. This means that the etcd has been updated with the new vaccine list successfully.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 2.00.02 PM.png" alt=""><figcaption></figcaption></figure>
 

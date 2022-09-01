@@ -30,7 +30,7 @@ To add a new vaccine to an EU certificate, a country must identify the EU code t
 
 ![](<../../.gitbook/assets/Screenshot 2022-06-20 at 8.31.59 AM.png>)
 
-* To add the manufacturer, go to euVaccineManuf. Click on the Edit key to add the new manufacturer.
+* To add the manufacturer, go to euVaccineManuf and click on the Edit key to add the new manufacturer.
 
 &#x20;     \- Example for Covaxin:
 

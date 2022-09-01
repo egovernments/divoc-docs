@@ -6,11 +6,11 @@ Note: Do not remove the [**mandatory**](../../../platform/divocs-verifiable-cert
 
 ### Steps to remove an optional field:
 
-Run the command: vim DDCC\_TEMPLATE.template.
+Run the command: vim DDCC\_TEMPLATE.template
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 2.07.04 PM.png" alt=""><figcaption></figcaption></figure>
 
-To reflect the change, run the command: ./updateConfigs.sh. It shows "OK OK OK...." This means that etcd has been updated with the new QR Code template successfully.
+To reflect the change, run the command: ./updateConfigs.sh. It shows OK OK OK. This means that the etcd has been updated with the new QR Code template successfully.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 2.07.24 PM.png" alt=""><figcaption></figcaption></figure>
 
