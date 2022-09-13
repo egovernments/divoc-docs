@@ -17,17 +17,17 @@ Setting up DIVOC in your country to orchestrate a new health programme? The guid
 
 ### F. [Server Hardening](setting-up-divoc/server-hardening.md)
 
-### G. [Certificate and Verification Component](../configuration/configuring-the-certification-and-verification-component/)&#x20;
+### G. [Certificate and Verification Component](../../configuration/configuring-the-certification-and-verification-component/)&#x20;
 
-### H. [Platform Policy Guidelines](platform-policy-guidelines.md)
+### H. [Platform Policy Guidelines](../../implementing-divoc/platform-policy-guidelines.md)
 
-### I. [Privacy Policy Recommendations](privacy-policy-recommendations.md)
+### I. [Privacy Policy Recommendations](../../implementing-divoc/privacy-policy-recommendations.md)
 
 Each country will have its own set of requirements in line with globally accepted standards for issuing certificates. The guides will walk you through:
 
-* [How to configure the certificate component?](../configuration/configuring-the-certification-and-verification-component/configuring-certificates/)&#x20;
-* [How to set up the verification portal for your implementation?](../configuration/configuring-the-certification-and-verification-component/how-to-set-up-the-verification-portal-for-implementation.md)
-* [How to configure the update certificate API?](../configuration/configuring-the-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
+* [How to configure the certificate component?](../../configuration/configuring-the-certification-and-verification-component/configuring-certificates/)&#x20;
+* [How to set up the verification portal for your implementation?](../../configuration/configuring-the-certification-and-verification-component/how-to-set-up-the-verification-portal-for-implementation.md)
+* [How to configure the update certificate API?](../../configuration/configuring-the-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
 
 &#x20;&#x20;
 

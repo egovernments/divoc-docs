@@ -16,7 +16,7 @@ If your country is implementing DIVOC 2.0, it is important to know the additions
 
 &#x20;        \- Automating our infrastructure setup has reduced our deployment time from about 3 days  to 1 day.&#x20;
 
-&#x20;        \- DIVOC’s [**installation process**](../../implementing-divoc/setting-up-divoc/how-to-install-divoc.md) has been streamlined with the introduction of the new scripts. The details of the scripts are given below:
+&#x20;        \- DIVOC’s [**installation process**](../installation/setting-up-divoc/how-to-install-divoc.md) has been streamlined with the introduction of the new scripts. The details of the scripts are given below:
 
 1. Install the prerequisites and set up the various hardware clusters.
 2. Push the docker images to the appropriate registry.
