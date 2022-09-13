@@ -70,14 +70,14 @@
   * [Issuing COVID-19 Vaccination Certificates in Jamaica](products/issuing-covid-19-vaccination-certificates-in-jamaica/README.md)
     * [Troubleshooting](products/issuing-covid-19-vaccination-certificates-in-jamaica/troubleshooting.md)
   * [Issuing COVID-19 Vaccination Certificates in Indonesia](products/issuing-covid-19-vaccination-certificates-in-indonesia.md)
-* [DIVOC Events](events/README.md)
-  * [DIVOC in the Media](events/understand-divoc.md)
 
-## Tech Community <a href="#community" id="community"></a>
+## Community
 
-* [Useful links](community/about-project-team.md)
+* [Partner Support](community/about-project-team.md)
   * [Platform Policy Guidelines](implementing-divoc/platform-policy-guidelines.md)
   * [Privacy Policy Recommendations](implementing-divoc/privacy-policy-recommendations.md)
 * [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
+* [Open Events](community/events/README.md)
+  * [DIVOC in the Media](community/events/understand-divoc.md)
