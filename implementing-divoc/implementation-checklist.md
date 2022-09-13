@@ -57,7 +57,7 @@ This checklist can help you plan your implementation. Besides technical and oper
 | Section             | Checklist                                | Description                                                                                                                                   |
 | ------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sign key generation | It is done as per the standard.          | Click [**here**](../configuration/configuring-the-certification-and-verification-component/generating-signed-key-pairs.md) for more details.  |
-| Sign key generation | Keycloak configuration related to DIVOC. | Click [**here**](../platform/tech-docs/setting-up-divoc-development-environment.md) for more details.                                         |
+| Sign key generation | Keycloak configuration related to DIVOC. | Click [**here**](../tech-docs/setting-up-divoc-development-environment.md) for more details.                                                  |
 
 ## Operational checklist
 
