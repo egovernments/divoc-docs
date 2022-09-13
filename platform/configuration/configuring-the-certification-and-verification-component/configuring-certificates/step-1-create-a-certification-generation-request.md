@@ -72,7 +72,7 @@ recipient := &models.CertificationRequestRecipient{
 
 d. If the data is uploaded via CSV, then add this column to the CSV template for this field. Open “[**application-default.yml**](https://github.com/egovernments/DIVOC/edit/main/backend/vaccination\_api/config/application-default.yml)” and update the certificate section in this file.
 
-![](<../../../.gitbook/assets/Screenshot 2021-12-27 at 9.44.26 AM.png>)
+![](<../../../../.gitbook/assets/Screenshot 2021-12-27 at 9.44.26 AM.png>)
 
 **Note:**
 

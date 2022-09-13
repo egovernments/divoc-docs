@@ -26,11 +26,11 @@ Any template-related changes can be done by updating the HTML template in the et
 * Go to the “vaccineCertificateTemplate” key and click on the Edit key to update the template. **** In this case, the ‘nationality’ field is being added. The value expected for this “vaccineCertificateTemplate” configuration is html and can be customised as per your needs.&#x20;
 * The same will be reflected in the PDF of the vaccination certificate. Click on Save. A popup will appear as “operation successful.” Click on Close.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-17 at 5.54.33 PM (1).png>)
+![](<../../../../.gitbook/assets/Screenshot 2022-06-17 at 5.54.33 PM (1).png>)
 
 * Call “GET VaccineCertificate API,” which will return the PDF certificate template. Verify if the new field ‘nationality’ is getting reflected.
 
-![Sample certificate](<../../../.gitbook/assets/Screenshot 2022-06-17 at 5.57.09 PM.png>)
+![Sample certificate](<../../../../.gitbook/assets/Screenshot 2022-06-17 at 5.57.09 PM.png>)
 
 
 

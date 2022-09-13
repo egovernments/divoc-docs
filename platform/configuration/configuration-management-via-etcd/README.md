@@ -12,9 +12,9 @@ We have added etcd as a configuration management tool for DIVOC. This makes it e
 
 Once the etcd manager app is installed, the following can be seamlessly managed within DIVOC:
 
-* [Adding a new vaccine and International Classification of Diseases or ICD-11 mapping.](adding-a-new-vaccine-and-icd-11-mapping.md)
+* [Adding a new vaccine and International Classification of Diseases or ICD-11 mapping.](adding-a-new-vaccine-and-icd-11-mapping/)
 * [PDF template change for vaccine certificates.](pdf-template-change-for-vaccine-certificates/)&#x20;
-* [EU vaccine configurations.](eu-vaccine-configurations.md)&#x20;
+* [EU vaccine configurations.](eu-vaccine-configurations/)&#x20;
 * [Payload changes in the QR code.](payload-changes-in-the-qr-code/)&#x20;
 
 

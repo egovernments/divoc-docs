@@ -120,7 +120,7 @@ Example: Include the beneficiary’s parent name as a mandatory field in the ver
 ```
 
 * Build and deploy your changes.&#x20;
-* Click [**here**](../../platform/divocs-verifiable-certificate-features/creating-a-divoc-certificate/what-information-is-included-in-the-divoc-certificate.md) to know what information is included in the DIVOC certificate.
+* Click [**here**](../../divocs-verifiable-certificate-features/creating-a-divoc-certificate/what-information-is-included-in-the-divoc-certificate.md) to know what information is included in the DIVOC certificate.
 
 **Note:**
 
