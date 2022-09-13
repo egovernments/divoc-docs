@@ -6,22 +6,21 @@ Using ETCD CLI, the same can be dynamically updated in 2 files (VACCINE\_ICD.jso
 
 * Go to the specific folder where etcd files are available.
 * Open the files to add the new vaccine.
-* Run the command: vim VACCINE\_ICD.json
+* Run the command: vim VACCINE\_ICD.json.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 11.57.38 AM.png" alt=""><figcaption></figcaption></figure>
 
-* Run the command: vim ICD.json
+* Run the command: vim ICD.json.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 11.59.02 AM.png" alt=""><figcaption></figcaption></figure>
 
-* To reflect the change, run the updateConfigs.sh.
-* Run the command: ./updateConfigs.sh. It shows OK OK OK. This means that the etcd has been updated with new vaccine list successfully.
+* To reflect the change, run the command: ./updateConfigs.sh. It shows "OK OK OK...." This means that the etcd has been updated with new vaccine list successfully.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 12.00.19 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Create the certificate and generate the PDF with the new vaccine.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 12.01.43 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-01 at 12.01.43 PM.png" alt=""><figcaption><p>Sample certificate</p></figcaption></figure>
 
 
 
