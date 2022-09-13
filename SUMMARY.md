@@ -76,8 +76,12 @@
 * [Partner Support](community/about-project-team.md)
   * [Platform Policy Guidelines](implementing-divoc/platform-policy-guidelines.md)
   * [Privacy Policy Recommendations](implementing-divoc/privacy-policy-recommendations.md)
-* [Ideas & Discussions](https://github.com/egovernments/DIVOC/discussions)
+* [Open Events](events/README.md)
+  * [DIVOC in the Media](events/understand-divoc.md)
+* [Discussion Forum](https://github.com/egovernments/DIVOC/discussions)
 * [Issues](https://github.com/egovernments/DIVOC/issues)
 * [Project Repo](https://github.com/egovernments/DIVOC)
-* [Open Events](community/events/README.md)
-  * [DIVOC in the Media](community/events/understand-divoc.md)
+
+***
+
+* [Source Code](https://app.gitbook.com/o/-MEQmzNGXk5ajuZujG7E/s/BzDN8TNEi1Pzc9yUiD8a/\~/changes/0LX4IOtdrB06O8pYkKtB/community/page-1)

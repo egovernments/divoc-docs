@@ -1,4 +1,4 @@
-# DIVOC events
+# Open Events
 
 ## Past events
 
