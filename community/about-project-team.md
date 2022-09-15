@@ -1,4 +1,4 @@
-# Partner Support
+# Useful links
 
 DIVOC is an open source project (MIT license), and it is maintained by [**eGov Foundation**](https://egov.org.in).
 
@@ -9,8 +9,6 @@ If you have questions, please visit our **** [**project discussions page**](http
 Click [**here**](../implementing-divoc/platform-policy-guidelines.md) to know about platform policy guidelines.
 
 Click [**here**](../implementing-divoc/privacy-policy-recommendations.md) to know about privacy policy recommendations.
-
-Click here to know more about common infrastructure issues and their recovery.&#x20;
 
 
 

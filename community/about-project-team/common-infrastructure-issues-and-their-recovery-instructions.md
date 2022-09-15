@@ -250,6 +250,32 @@ Recovery steps are as follows:
 
 6\. Issue Kubectl commands
 
+## Resources:
 
+#### Pre-reads:&#x20;
+
+1. [Skills needed to set up DIVOC.](../../implementing-divoc/skills-needed-to-set-up-divoc.md#what-does-this-section-cover)
+2. [Implementation checklist.](../../implementing-divoc/implementation-checklist.md)
+3. [DIVOC's certification and verification component.](../../platform/configuration/configuring-the-certification-and-verification-component/)
+
+#### Links to the development process and the environments (such as Github, Testing, etc):
+
+1. Source Code - [https://github.com/egovernments/DIVOC](https://github.com/egovernments/DIVOC)
+2. [Setting up DIVOC development environment](../../tech-docs/setting-up-divoc-development-environment.md).
+3. [Setting up the production environment.](../../implementing-divoc/#what-will-it-cover)
+
+#### Modifying vaccine certificate and template; Branding changes such as UI changes; Adding a new role; Changing the content to the verification page:
+
+1. [ETCD configuration.](../../platform/configuration/configuration-management-via-etcd/pdf-template-change-for-vaccine-certificates/pdf-template-change-for-vaccine-certificates-via-etcd-cli.md)
+2. [Configure the verification component.](../../platform/configuration/configuring-the-certification-and-verification-component/how-to-set-up-the-verification-portal-for-implementation.md#overview)
+
+#### Wiki documentation & discussion forum:
+
+1. Documentation: **** [**https://divoc.digit.org/**](https://divoc.digit.org/)
+2. Report issues: [**https://github.com/egovernments/DIVOC/issues**](https://github.com/egovernments/DIVOC/issues)****
+3. Discussion forum: **** [**https://github.com/egovernments/DIVOC/discussions**](https://github.com/egovernments/DIVOC/discussions) ****&#x20;
+4. Join us on slack: **** [**https://app.slack.com/client/T109J61DY/C03EC8C65SN**](https://app.slack.com/client/T109J61DY/C03EC8C65SN) ****&#x20;
+
+__
 
 _All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
