@@ -4,7 +4,7 @@
 
 This document will help an implementer configure a certificate (template and QR code) for a health event such as vaccination. This section includes configuring:
 
-* [Generating Signed Key Pairs](../generating-signed-key-pairs.md)
+* [Generating signed key pairs](../generating-signed-key-pairs.md)
 * [Certificate generation request](step-1-create-a-certification-generation-request.md)&#x20;
 * [QR code section](step-2-configure-the-qr-code-content.md)&#x20;
 * [Certificate template](step-3-configure-the-certificate-template.md)
@@ -13,7 +13,7 @@ This document will help an implementer configure a certificate (template and QR 
 
 The DIVOC platform provides API services for generating digitally verifiable QR code-based vaccination certificates. The API for certificate generation has 6 sections:
 
-1. **PreEnrollmentCode:** This section is linked to the “dose” in the vaccination section to uniquely identify the event. For example, beneficiary registration number (R101) and dose number (1) as (R101-1) will be used to identify the first dose event uniquely. Similarly, beneficiary registration number (R101) and dose number (2) as (R101-2) will be used to identify the second dose event uniquely.
+1. **PreEnrollmentCode:** This section is linked to the 'dose' in the vaccination section to uniquely identify an event. For example, beneficiary registration number (R101) and dose number (1) as (R101-1) will be used to identify the first dose event uniquely. Similarly, beneficiary registration number (R101) and dose number (2) as (R101-2) will be used to identify the second dose event uniquely.
 2. **Recipient:** It contains information about the beneficiary.
 3. **Vaccination:** It contains details about the vaccination event such as name, batch, and vaccination date.
 4. **Vaccinator:** It contains details about the vaccinator.

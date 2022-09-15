@@ -6,9 +6,9 @@ We have added etcd as a configuration management tool for DIVOC. This makes it e
 
 * Open the URL: **** [**https://www.electronjs.org/apps/etcd-manager**](https://www.electronjs.org/apps/etcd-manager) **** and click on Download.
 * To configure the host and port number: open the etcd manager app → go to settings → click on etcd → enter the respective host IP and port.
-* If authentication is configured for etcd, enter the authentication credentials. Go to      Settings -> Auth -> enter username and password.
-* Click on test connection to confirm connectivity and click on save.
-* Next, go to the Manage keys tab on the left, and you should be able to see all the configurations already setup.
+* If authentication is configured for etcd, enter the authentication credentials. Go to Settings -> Auth -> enter username and password.
+* Click on the test connection to confirm connectivity and click on save.
+* Next, go to the Manage keys tab on the left. You should be able to see the configurations already setup.
 
 Once the etcd manager app is installed, the following can be seamlessly managed within DIVOC:
 

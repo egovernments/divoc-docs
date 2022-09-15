@@ -17,7 +17,7 @@ a. The DIVOC certificate template has been designed in the HTML format. To confi
     </tr>
 ```
 
-b. Any modifications that you make (such as combining address fields as a single string) to the address value must be performed in controller.js. The dynamic values will be sent from[ **controller.js**](https://github.com/egovernments/DIVOC/blob/main/backend/certificate\_api/src/routes/certificate\_controller.js)
+b. Any modifications that you make (such as combining address fields as a single string) to the address value must be performed in controller.js. The dynamic values will be sent from[ **controller.js**](https://github.com/egovernments/DIVOC/blob/main/backend/certificate\_api/src/routes/certificate\_controller.js).
 
 ```
 function prepareDataForVaccineCertificateTemplate(certificateRaw, dataURL) {

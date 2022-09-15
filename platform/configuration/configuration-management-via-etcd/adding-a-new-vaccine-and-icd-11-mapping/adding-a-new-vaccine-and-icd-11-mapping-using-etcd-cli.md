@@ -1,6 +1,6 @@
 # Adding a New Vaccine and ICD-11 Mapping Using ETCD CLI
 
-Using ETCD CLI, the same can be dynamically updated in 2 files (VACCINE\_ICD.json and ICD.json) without any service deployments.
+Using ETCD CLI, the same can be dynamically updated in two files (VACCINE\_ICD.json and ICD.json) without any service deployments.
 
 ### **Steps to update the vaccine name and its ICD-11 mapping:**
 

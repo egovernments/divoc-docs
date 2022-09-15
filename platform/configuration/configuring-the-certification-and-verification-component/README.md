@@ -9,8 +9,8 @@ DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccinati
 * Generate certificates&#x20;
 * Update certificates&#x20;
 * Revoke fake or incorrect certificates&#x20;
-* Fetch certificate&#x20;
-* Fetch QR Code&#x20;
+* Fetch certificates&#x20;
+* Fetch QR code&#x20;
 * Notify beneficiaries
 
 **2. Verification component**

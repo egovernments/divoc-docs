@@ -43,7 +43,7 @@ log.Infof("Certificate update request approved %+v", request)
 return certification.NewUpdateCertificateV3OK()
 ```
 
-b. An implementer has the provision to restrict the number of update requests against a specific certificate in order to avoid the misuse of this functionality (i.e. fraudulent generation of multiple certificate copies). For instance, the implementer can configure the “Update Limit” to only “5,” in which case the certificate can only be updated five times. The following steps are needed to enable this configuration:
+b. An implementer has the provision to restrict the number of update requests against a specific certificate in order to avoid the misuse of this functionality (that is, fraudulent generation of multiple certificate copies). For instance, the implementer can configure the “Update Limit” to only “5,” in which case the certificate can only be updated five times. The following steps are needed to enable this configuration:
 
 **Step 1:** Open [**this**](https://github.com/egovernments/DIVOC/blob/main/backend/vaccination\_api/pkg/handler.go#L660) file and check the function that will limit the number of certificates being updated.
 

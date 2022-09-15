@@ -25,7 +25,7 @@ The expected values for these configurations change depending on the type of key
 
 RSA -
 
-* Private Key Format: 2048 bit, PEM
+* Private key format: 2048 bit, PEM
 * Public key format: PEM&#x20;
 
 ED25519 -
