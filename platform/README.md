@@ -3,8 +3,12 @@
 This section will include the following:
 
 * [Release notes](release-notes/)
+* [Specification](../tech-docs/)
 * [Features](divocs-verifiable-certificate-features/)
 * [Architecture](divoc-architecture.md)
+* [Installation](../implementing-divoc/)
+* [Configuration](configuration/)
+* Performance report
 
 
 
