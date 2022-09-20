@@ -8,7 +8,7 @@ This section will include the following:
 * [Architecture](divoc-architecture.md)
 * [Installation](../implementing-divoc/)
 * [Configuration](configuration/)
-* Performance report
+* [Performance report](performance-report.md)
 
 
 
