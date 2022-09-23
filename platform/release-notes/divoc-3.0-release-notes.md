@@ -2,7 +2,7 @@
 
 ## Version release date
 
-* September 19, 2022
+* September 21, 2022
 
 ## Release summary
 
