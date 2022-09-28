@@ -75,6 +75,7 @@
 
 ## Community
 
+* [Roadmap](community/roadmap.md)
 * [Partner Support](community/about-project-team.md)
   * [Platform Policy Guidelines](implementing-divoc/platform-policy-guidelines.md)
   * [Privacy Policy Recommendations](implementing-divoc/privacy-policy-recommendations.md)
