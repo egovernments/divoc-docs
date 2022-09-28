@@ -23,7 +23,7 @@ The DIVOC roadmap is a snapshot of our upcoming features and tools.
 | Tenant onboarding UI       | <p>A UI through which the source system admin can: 1. Log in to the DIVOC platform with the credentials received. </p><p>2. Reset the password if not accessible. </p><p>3. Generate tokens to connect the source system and DIVOC platform.</p>                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Tenant creates schema UI   | A UI through which the source system admin can define and create schemas for different provider types, and also test and publish the schemas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-### Other features in consideration
+### Other features under consideration
 
 * Verification app
 * Telemetry capability for the platform
