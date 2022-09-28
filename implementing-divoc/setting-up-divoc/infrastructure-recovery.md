@@ -4,7 +4,7 @@
 
 ### Recovering control plane&#x20;
 
-* To recover from broken nodes in the control plane, use the "[**recover-control-plane.yml**](https://github.com/egovernments/divoc-installer/blob/master/ansible-cookbooks/kubernetes/recover-control-plane.yml)" playbook.
+* To recover from broken nodes in the control plane, use the                                      "[**recover-control-plane.yml**](https://github.com/egovernments/divoc-installer/blob/master/ansible-cookbooks/kubernetes/recover-control-plane.yml)" playbook.
 * Back **** up what you can.
 * Provision new nodes to replace the broken ones.
 * Place the surviving nodes of the control plane first in the "etcd" and "kube\_control\_plane" groups.
@@ -20,7 +20,7 @@
 
 ### Runbook
 
-* Move any broken etcd nodes into the "broken\_etcd" group; make sure the "etcd\_member\_name" variable is set.
+* Move any broken etcd nodes into the "broken\_etcd" group, make sure the "etcd\_member\_name" variable is set.
 * Move any broken control plane nodes into the "broken\_kube\_control\_plane" group.
 * Run the playbook with **--limit etcd,kube\_control\_plane**, and increase the number of etdc retries by setting **-e etcd\_retries=10** or something even larger. The amount of retries required is difficult to predict.
 * Once you are done, you should have a fully working control plane again.
@@ -64,7 +64,7 @@ Currently, you cannot remove the first node in your kube\_control\_plane and etc
 1. Add a new node to the inventory.
 2. Run **scale.yml**. You can use **--limit=NODE\_NAME** to limit Kubespray to avoid disturbing other nodes in the cluster. Before using **--limit,** run playbook **facts.yml** without the limit to refresh facts cache for all nodes.
 3. Remove an old node with **remove-node.yml.** With the old node still in the inventory, run **remove-node.yml**. You need to pass **-e node=NODE\_NAME** to the playbook to limit the execution to the node being removed. If the node you want to remove is not online, you should add **reset\_nodes=false and allow\_ungraceful\_removal=true** to your extra-vars: **-e node=NODE\_NAME -e reset\_nodes=false -e allow\_ungraceful\_removal=true**. Use this flag even when you remove other types of nodes like a control plane or etcd nodes.
-4. Remove node  from inventory.
+4. Remove node from the inventory.
 
 ### **Adding or replacing a control plane node**
 

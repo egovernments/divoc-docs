@@ -211,7 +211,7 @@ kafka/config/zookeeper.properties&#x20;
 tar -czf /home/kafka/zookeeper-backup.tar.gz /tmp/zookeeper/\*
 {% endhint %}
 
-* Backup kafka topics and messages
+* Backup Kafka topics and messages
 
 &#x20;     \- Go to the file kafka/config/server.properties
 
