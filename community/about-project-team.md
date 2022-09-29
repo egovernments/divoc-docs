@@ -10,7 +10,7 @@ Click [**here**](about-project-team/terms-and-conditions-of-using-the-divoc-site
 
 Click [**here**](about-project-team/privacy-policy-short-version-for-display.md) to know about DIVOC's privacy policy - short version for display.
 
-Click here to know about DIVOC's privacy policy (detailed)...coming soon
+Click [**here**](about-project-team/privacy-policy-detailed.md) to know about DIVOC's privacy policy - detailed.&#x20;
 
 Click [**here**](../implementing-divoc/platform-policy-guidelines.md) to know about platform policy guidelines.
 
