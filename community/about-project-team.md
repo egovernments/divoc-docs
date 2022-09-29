@@ -8,6 +8,10 @@ If you have questions, please visit our **** [**project discussions page**](http
 
 Click [**here**](about-project-team/terms-and-conditions-of-using-the-divoc-site.md) to know about the terms and conditions of using the DIVOC site.
 
+Click [**here**](about-project-team/privacy-policy-short-version-for-display.md) to know about DIVOC's privacy policy - short version for display.
+
+Click here to know about DIVOC's privacy policy (detailed)...coming soon
+
 Click [**here**](../implementing-divoc/platform-policy-guidelines.md) to know about platform policy guidelines.
 
 Click [**here**](../implementing-divoc/privacy-policy-recommendations.md) to know about privacy policy recommendations.

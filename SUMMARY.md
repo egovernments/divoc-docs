@@ -78,6 +78,7 @@
 * [Roadmap](community/roadmap.md)
 * [Partner Support](community/about-project-team.md)
   * [Terms and Conditions of Using the DIVOC Site](community/about-project-team/terms-and-conditions-of-using-the-divoc-site.md)
+  * [Privacy Policy: Short Version for Display](community/about-project-team/privacy-policy-short-version-for-display.md)
   * [Platform Policy Guidelines](implementing-divoc/platform-policy-guidelines.md)
   * [Privacy Policy Recommendations](implementing-divoc/privacy-policy-recommendations.md)
   * [Common Infrastructure Issues and their Recovery Instructions](community/about-project-team/common-infrastructure-issues-and-their-recovery-instructions.md)
