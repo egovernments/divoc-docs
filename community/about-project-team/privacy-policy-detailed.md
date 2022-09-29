@@ -6,11 +6,11 @@ This Privacy Policy explains what information we collect about you and why.
 
 ### What is DIVOC?&#x20;
 
-DIVOC (Digital Infrastructure for Verifiable Open Credentialing) is an open-source digital platform that has enabled governments across the world to issue, distribute and verify secure and tamper-proof COVID-19 vaccination and test result digital certificates, at scale. DIVOC, a Digital Public Good (DPG) by eGov Foundation, is designed in accordance with precise international specifications, is recognised by 120 countries globally and is compliant with WHO and EU standards.&#x20;
+DIVOC (Digital Infrastructure for Verifiable Open Credentialing) is an open-source digital platform that has enabled governments across the world to issue, distribute and verify secure and  tamper-proof COVID-19 vaccination and test result digital certificates, at scale. DIVOC, a Digital Public Good (DPG) by eGov Foundation, is designed in accordance with precise international specifications, is recognised by 120 countries globally and is compliant with WHO and EU standards.&#x20;
 
-DIVOC refers to the services being provided through the DIVOC platform. To know more about the services provided please refer to our [**website**](https://divoc.egov.org.in/divoc-modules/).&#x20;
+DIVOC refers to the services being provided through the DIVOC platform. To know more about the services provided, please refer to our [**website**](https://divoc.egov.org.in/divoc-modules/).&#x20;
 
-Through DIVOC, any implementing partner (national governmental bodies, department, Local bodies & their agencies) corporate/private bodies (utility services) (Service Providers) can use DIVOC website / application / services in different ways such as for issuing and verifying certificates,set up registries for streamlines public health program executions, etc.
+Through DIVOC, any implementing partner (national governmental bodies, department, Local bodies & their agencies) corporate/private bodies (utility services) (Service Providers) can use DIVOC website / application / services in different ways such as for issuing and verifying certificates, set up registries for streamlines public health program executions, etc.
 
 ### ADHERENCE TO DATA PRIVACY PRINCIPLES&#x20;
 
@@ -18,21 +18,21 @@ The DIVOC data dictionary follows the [**WHO DDCC:VS**](https://apps.who.int/iri
 
 ### WHAT DATA DO WE COLLECT?&#x20;
 
-DIVOC collects information/data (“data”) to improve and provide better public health program execution. We collect and process PII such as your first name, last name, parent’s / guardian’s name, address, unique identifier, nationality, date of birth, mobile number, age, gender, identification documents, vaccine details ( batch number, dosage number, date of vaccination, total number of doses, country of vaccination).
+DIVOC collects information/data (“data”) to improve and provide better public health program execution. We collect and process PII such as your first name, last name, parent’s/guardian’s name, address, unique identifier, nationality, date of birth, mobile number, age, gender, identification documents, vaccine details (batch number, dosage number, date of vaccination, total number of doses, country of vaccination).
 
 We may collect data such as vaccine manufacturer, vaccine market authorisation holder, vaccine administering centre, health worker identifier, due date of next dose, certificate valid from, certificate valid from and to period, certificate issuer and health certificate identifier ( certificate id).&#x20;
 
 We collect information such as Internet Protocol (IP) addresses, domain name, browser type, Operating System, Date and Time of the visit, pages visited, IMEI/IMSI number, device ID, location information, language settings, handset make & model etc. However, no attempt is made to link these with the true identity of individuals visiting the relevant our website, implementing partner or service providers application or platform.&#x20;
 
-The information collected by us shall depend on the need of the service providers and interests of the users . Datasets collected shall be subject to change from time to time. Such changes shall be reflected in the privacy policy of the service provider ( if nature of data changes from the service provider perspective) or our website’s privacy policy ( if we change the nature of data collected).
+The information collected by us shall depend on the need of the service providers and interests of the users. Datasets collected shall be subject to change from time to time. Such changes shall be reflected in the privacy policy of the service provider (if nature of data changes from the service provider perspective) or our website’s privacy policy (if we change the nature of data collected).
 
 ### FOR OUR WEBSITE
 
-Internet address associated with your computer, the type of web browser you use, your operating system, the site that referred you to us, the pages you visited, and the dates and times of those visits.
+The internet address associated with your computer, the type of web browser you use, your operating system, the site that referred you to us, the pages you visited, and the dates and times of those visits.
 
 ### HOW DO WE COLLECT THIS DATA?&#x20;
 
-DIVOC collects data directly from the user (when the user uses our services) as and when you register and login into the service providers app/website. DIVOC may also collect data from national governments (Union, State, and Local governments or any other governing body, including their agents/employees) , private bodies ( only after our data protection and privacy guidelines are adhered to ) as well as receive data that is available openly for public use.
+DIVOC collects data directly from the user (when the user uses our services) as and when you register and login into the service providers app/website. DIVOC may also collect data from national governments (Union, State, and Local governments or any other governing body, including their agents/employees) , private bodies (only after our data protection and privacy guidelines are adhered to ) as well as receive data that is available openly for public use.
 
 We also collect data that any visitor to our website consensually provide to us (for example, data provided to make a complaint, customer query, or to subscribe to our emailing list).
 
@@ -52,7 +52,7 @@ In case you surrender/disconnect your registered mobile number it is recommended
 
 We collect only such data as serves these objectives. Specifically:
 
-* We process this data as necessary to provide you with the services you are requesting ( for example  to get your vaccination certificate issued or verified) through the service providers application ( for example in India the CoWin app is the national government’s application used by citizens for issuance of vaccination certificates).
+* We process this data as necessary to provide you with the services you are requesting (for example, to get your vaccination certificate issued or verified) through the service providers application (for example, in India, the CoWin app is the national government’s application used by citizens for issuance of vaccination certificates).
 * We may process, disclose, or share certain metadata, as well as aggregated and anonymised data, in order to assess and improve the status of such service delivery over time.
 * We may disclose or share this data to/with employees and/or contractors of the government agencies, service providers, whose role requires them to view or use this information in order to perform their official duties, including providing you the service(s) you are requesting.
 * Resolving any disputes that may arise with respect to the transactions/deals that you may conduct using the service providers app/website.
