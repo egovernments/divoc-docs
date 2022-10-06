@@ -1,4 +1,4 @@
-# DIVOC 3.0 Release Notes
+# DIVOC 3.0 Release Features
 
 ## Version release date
 
@@ -39,11 +39,11 @@ With this release, the DIVOC platform can now generate different types of verifi
 
 ## **Enhancements from previous platform release**
 
-| Feature                                                  | Description                                                                                                                 |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Add support in DIVOC to use S-RC in async mode           | DIVOC platform has been updated for the services to work in async mode to avoid any data loss during high transaction load. |
-| Modifications in the response codes for error messages\* | Error codes have been defined and included in the response along with their corresponding error messages.                   |
-| Modify Keycloak services for tenant management services  | Configured Keycloak services to support the creation of multiple tenants.                                                   |
+| Feature                                                  | Description                                                                                                                                    |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Add support in DIVOC to use S-RC in async mode           | The DIVOC platform has been updated for the services to work in async mode to avoid any data loss during the exchange of high volumes of data. |
+| Modifications in the response codes for error messages\* | Error codes have been defined and included in the response along with their corresponding error messages.                                      |
+| Modify Keycloak services for tenant management services  | Configured Keycloak services to support the creation of multiple tenants.                                                                      |
 
 ## **Upcoming features/enhancement**
 
