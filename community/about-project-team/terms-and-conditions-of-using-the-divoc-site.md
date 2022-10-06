@@ -2,7 +2,7 @@
 
 This website/ (“Website”) has been developed and is being maintained by eGov Foundation (“eGov”). This Website provides information related to the digital infrastructure called DIVOC developed by eGov. The Website is an invitation for users to learn about DIVOC, its building blocks, various use-cases, access technical documentation, and engage with the DIVOC community to learn how to use and/or adopt eGov Foundation(“Purpose”).
 
-eGov Foundation is a not-for-profit registered as a Trust, having its office at 147/J , first floor,10th Cross, 12th Main, Koramangala 3rd Block, Bangalore 560034.
+eGov Foundation is a not-for-profit registered as a Trust, having its office at 147/J , first floor,10th Cross , 12th Main, Koramangala 3rd Block, Bangalore 560034.
 
 By using the Website, you have accepted and agree to be governed by these Terms of Use (“Terms”), as may be amended from time to time. The terms ‘you’, ‘your’ refer to anyone who accesses, views or uses the Website. The terms "we", "us", "our" refer to the eGov Foundation.
 
@@ -22,7 +22,7 @@ Set out below are the Terms of Use of this Website:
 
 ### ACCESS AND USE
 
-As a User you represent and warrant that you are of legal age and are legally competent to consent to these terms (or if not, you've received your parent's or guardian's permission to Use the Website and they have agreed to these Terms on your behalf). If you’re agreeing to these Terms on behalf of a department, institution, organisation or legal entity, you represent and warrant that you are duly authorised to agree to these Terms on behalf of that department, institution, organisation or entity and these Terms are binding on them.
+As a User you represent and warrant that you are of legal age and are legally competent to consent to these terms (or if not, you've received your parent's or guardian's permission to Use the Website and they have agreed to these Terms on your behalf). If you’re agreeing to these Terms on behalf of a department, institution, organization or legal entity, you represent and warrant that you are duly authorized to agree to these Terms on behalf of that department, institution, organization or entity and these Terms are binding on them.
 
 All Users shall have access to all the Assets available on the Website for the purpose of learning, finding, viewing, Using, contributing to, modifying, replicating, downloading, and sharing Assets with other Users, through the Website. It is possible that your access and Use of Assets on the Website may be disrupted due to technical or operational difficulties and with no prior notice of downtime. eGov Foundation makes no guarantee as to the continuous uptime and availability of the Website or the quality of Assets on the Website.
 
@@ -32,7 +32,7 @@ You access the Website only to Use the Assets. You will be responsible and liabl
 
 ### INTELLECTUAL PROPERTY RIGHTS
 
-The Website contains copyrighted material, trademarks and other Intellectual Property owned by the eGov Foundation. All our website content is licensed under the CC BY-ND 4.0 License. It allows users to share, copy and redistribute the material on giving appropriate credit to eGov Foundation without any changes or transformations of the content. You agree to abide by all licenses and copyright notices accompanying any Asset published on the Website. Any Asset (other than software code) you contribute to DIVOC or the Website is licensed under the Creative Commons Attribution-ShareAlike 4.0 International - CC BY-SA License.
+The Website contains copyrighted material, trademarks and other Intellectual Property owned by the eGov Foundation. All our website content is licensed under the CC BY-ND 4.0 License. It allows users to share , copy and redistribute the material on giving appropriate credit to eGov Foundation without any changes or transformations of the content. You agree to abide by all licenses and copyright notices accompanying any Asset published on the Website. Any Asset (other than software code) you contribute to DIVOC or the Website is licensed under the Creative Commons Attribution-ShareAlike 4.0 International - CC BY-SA License.
 
 You can share and adapt the licensed Assets under the terms of the same license, provided you cite the creator as eGov Foundation, or the relevant party if the creator is not eGov Foundation, include a link to the original publication on the Website with copyright notice, license notice and disclaimer notice, and indicate if changes were made. You may do so in any reasonable manner, but not in any way which suggests that eGov Foundation endorses you or your Use. For any assistance with contributing to DIVOC or the Website or understanding any license, please contact us at support.divoc@egovernments.org.
 
@@ -48,7 +48,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 By Using the Website and/or by providing your information, if applicable, you consent to the collection and use of the information you disclose on the Website in accordance with our Privacy Policy. eGov Foundation takes the privacy of its Users very seriously. Please refer to our Privacy Policy for complete details.
 
-### LIMITED LIABILITY
+LIMITED LIABILITY
 
 We do not guarantee the accuracy, veracity, correctness, validity, usability, currency, of any Assets made available on or linked through the Website. We shall not be held responsible for any offensive or unlawful Asset posted, transmitted, sent or communicated through the Website.
 
