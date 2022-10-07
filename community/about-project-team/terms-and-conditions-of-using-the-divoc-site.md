@@ -1,8 +1,8 @@
 # Terms and Conditions of Using the DIVOC Site
 
-This website/ (“Website”) has been developed and is being maintained by eGov Foundation (“eGov”). This Website provides information related to the digital infrastructure called DIVOC developed by eGov. The Website is an invitation for users to learn about DIVOC, its building blocks, various use-cases, access technical documentation, and engage with the DIVOC community to learn how to use and/or adopt eGov Foundation (“Purpose”).
+This website/ (“Website”) has been developed and is being maintained by eGov Foundation (“eGov”). This Website provides information related to the digital infrastructure called DIVOC developed by eGov. The Website is an invitation for users to learn about DIVOC, its building blocks, various use-cases, access technical documentation, and engage with the DIVOC community to learn how to use and/or adopt eGov Foundation(“Purpose”).
 
-eGov Foundation is a not-for-profit registered as a Trust, having its office at 147/J , first floor, 10th Cross, 12th Main, Koramangala 3rd Block, Bangalore 560034.
+eGov Foundation is a not-for-profit registered as a Trust, having its office at 147/J , first floor,10th Cross, 12th Main, Koramangala 3rd Block, Bangalore 560034.
 
 By using the Website, you have accepted and agree to be governed by these Terms of Use (“Terms”), as may be amended from time to time. The terms ‘you’, ‘your’ refer to anyone who accesses, views or uses the Website. The terms "we", "us", "our" refer to the eGov Foundation.
 
