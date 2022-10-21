@@ -2,7 +2,7 @@
 
 The DIVOC roadmap is a snapshot of our upcoming features and tools.
 
-<figure><img src="../.gitbook/assets/Product Roadmap 2022- 2023 (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-10-21 at 11.48.34 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### Quarter 1+Quarter 2: April-September 2022
 
