@@ -4,11 +4,25 @@ Environment variables are added in divoc-config.yml in the orchestration node.
 
 ### Steps to add the environment variables:
 
-* To display the config map, run the following command:                                    kubectl -n divoc get configmap
+* To display the config map, run the following command:
+
+```
+kubectl -n divoc get configmap 
+```
+
 * If multiple config maps exist, add environment variables to all the config maps.
-* To edit the config map, run the following command:                                              kubectl -n divoc edit config divoc-config
+* To edit the config map, run the following command:&#x20;
+
+```
+kubectl -n divoc edit config divoc-config
+```
+
 * Next, add the variables under ‘data.’ Save and exit.
-* Restart the services where environment variables have been used by running the following command: kubectl -n divoc rollout restart \<service\_name>
+* Restart the services where environment variables have been used by running the following command:&#x20;
+
+```
+kubectl -n divoc rollout restart <service_name>
+```
 
 
 
