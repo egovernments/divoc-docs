@@ -47,6 +47,7 @@
         * [Step 3: Configure the certificate template](platform/configuration/configuring-the-certification-and-verification-component/configuring-certificates/step-3-configure-the-certificate-template.md)
       * [How to set up the verification portal for implementation](platform/configuration/configuring-the-certification-and-verification-component/how-to-set-up-the-verification-portal-for-implementation.md)
       * [How to configure the update certificate API](platform/configuration/configuring-the-certification-and-verification-component/how-to-configure-the-update-certificate-api.md)
+      * [Configuring Environment Variables in 2.0](platform/configuration/configuring-the-certification-and-verification-component/configuring-environment-variables-in-2.0.md)
     * [Configuration Management Via ETCD](platform/configuration/configuration-management-via-etcd/README.md)
       * [Adding a New Vaccine and ICD-11 Mapping](platform/configuration/configuration-management-via-etcd/adding-a-new-vaccine-and-icd-11-mapping/README.md)
         * [Adding a New Vaccine and ICD-11 Mapping Using ETCD CLI](platform/configuration/configuration-management-via-etcd/adding-a-new-vaccine-and-icd-11-mapping/adding-a-new-vaccine-and-icd-11-mapping-using-etcd-cli.md)
