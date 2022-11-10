@@ -2,7 +2,9 @@
 
 The DIVOC roadmap is a snapshot of our upcoming features and tools.
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-10-21 at 11.48.34 AM.png" alt=""><figcaption></figcaption></figure>
+Click below to view the DIVOC roadmap:
+
+{% embed url="https://miro.com/app/board/uXjVPFYgMmM=/" %}
 
 ### Quarter 1+Quarter 2: April-September 2022
 
