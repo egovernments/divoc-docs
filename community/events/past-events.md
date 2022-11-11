@@ -1,8 +1,6 @@
 # Past Events
 
-## Past events
-
-### ADB-eGov Live Webinar on Digital Health Credentials
+## ADB-eGov Live Webinar on Digital Health Credentials
 
 **When:** Join us on **Wednesday, March 30, 2022**, to understand the use of digital health credentials for COVID-19 vaccination and testing campaigns, and beyond.&#x20;
 
