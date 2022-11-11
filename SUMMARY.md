@@ -85,6 +85,7 @@
   * [Privacy Policy Recommendations](implementing-divoc/privacy-policy-recommendations.md)
   * [Common Infrastructure Issues and their Recovery Instructions](community/about-project-team/common-infrastructure-issues-and-their-recovery-instructions.md)
 * [Open Events](events/README.md)
+  * [Past Events](community/events/past-events.md)
   * [DIVOC in the Media](events/understand-divoc.md)
 * [Source Code](https://github.com/egovernments/DIVOC)
 * [Discussion Forum](https://github.com/egovernments/DIVOC/discussions)
