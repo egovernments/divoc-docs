@@ -10,7 +10,7 @@
 
 ### What will be covered&#x20;
 
-The release provides the platform with the ability to generate different types of verifiable credentials. New features also include multi-tenancy capabilities, where multiple tenants can issue VCs with their own schemas and templates; SMS notification service; capability to update/modify certificate content; ability to revoke/suspend certificates; and the ability to issue certificates in different languages.
+The release provides the platform with the ability to generate different types of verifiable credentials (VCs). New features also include multi-tenancy capabilities, where multiple tenants can issue VCs with their own schemas and templates; SMS notification service; capability to update/modify certificate content; ability to revoke/suspend certificates; and the ability to issue certificates in different languages.
 
 #### Highlights:
 
