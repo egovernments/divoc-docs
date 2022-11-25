@@ -4,7 +4,7 @@ There are different International Classification of Diseases (ICD) codes based o
 
 ### Steps to update the vaccine name and its ICD-11 mapping:
 
-* Go to the Manage keys tab of the etcd-manager app. To add or update mappings, two keys must be updated: “VACCINE\_ICD” and “ICD.”
+* Go to the Manage keys tab of the etcd-manager app. To add or update mappings,  two keys must be updated: “VACCINE\_ICD” and “ICD.”
 * To add the vaccine name, ICD-11 code, and description VACCINE\_ICD, go to VACCINE\_ICD and click on the Edit key.&#x20;
 
 &#x20;      \- Example of VACCINE\_ICD value for Covaxin:&#x20;
@@ -31,4 +31,4 @@ There are different International Classification of Diseases (ICD) codes based o
 
 __
 
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)_All content on this page by_ [_eGov Foundation_](https://egov.org.in/) _is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._                                 &#x20;
+_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._                                  &#x20;
