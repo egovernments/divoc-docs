@@ -8,7 +8,9 @@ November 21, 2022
 
 With this release, the DIVOC platform can now generate different types of verifiable credentials. It is no longer restricted to vaccination-specific verifiable credentials.
 
-#### A list of the common terms used in this document:
+## Terminology
+
+A list of the common terms used in this document:
 
 * [**Verifiable credentials (VCs)**](https://www.w3.org/TR/vc-data-model/) **** represent information found in physical credentials, such as birth registration and driving license, as well as objects that have no physical equivalent, such as ownership of a bank account. VCs are typically QR codes whose information is being signed and can only be modified by the issuer making it a tamper proof QR code. The QR codes can be read and verified by  the verifiers using the public key issued by the issuer and by using the libraries/algorithms used by the issuer system. When a digital document (for example, a lab test report) has a normal QR code, anyone can modify its value and generate new QR code and then replace it with another QR code with different information. Whereas the information in a verifiable QR code cannot be replaced as the original data or information cannot be changed without a “private key.”
 * Issuer: Refers to an issuing authority who can issue claims about a particular entity or individual that can be validated. An issuer gathers the information that needs to be contained in the VC from the entities and sends it across to DIVOC through tenant software. Example: Medical Councils.
@@ -45,4 +47,4 @@ With this release, the DIVOC platform can now generate different types of verifi
 
 ****
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)_All content on this page by_ [_eGov Foundation_](https://egov.org.in/) _is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
