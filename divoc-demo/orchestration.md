@@ -1,15 +1,8 @@
-# Program setup (via Orchestration module)
+# Program Setup (Via Orchestration Module)
 
 Using this module you can create and maintain program, facility, vaccine, and vaccinator registries. Countries that do not have digital health registries can use this module to create digital infrastructure/resources for any kind of public health program. Countries can also create appointment schedules and daily rates of vaccination for different facilities.
 
-|    Program Registry   |   Vaccine Registry   |    Facility Registry   |         Vaccinator Registry         |   |
-| :-------------------: | :------------------: | :--------------------: | :---------------------------------: | - |
-|  Vaccination programs |   Approved vaccines  |   Approved facilities  |  <p>Trained </p><p>vaccinators</p>  |   |
-|     Active status     |     Active status    |        Location        |            Active status            |   |
-|    Allowed vaccines   | Vaccination schedule |      Active status     |  <p>Training </p><p>certificate</p> |   |
-|  Start and end dates  |    Batch deny list   | Vaccination daily rate | <p>Associated </p><p>facilities</p> |   |
-| Certificate templates |   Max retail price   |      Total supply      |  <p>Rating and </p><p>feedback</p>  |   |
-|                       |  Vaccination method  |   Rating and feedback  |                                     |   |
+<table><thead><tr><th align="center">Program Registry</th><th align="center">Vaccine Registry</th><th align="center">Facility Registry</th><th align="center">Vaccinator Registry</th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Vaccination programs</td><td align="center">Approved vaccines</td><td align="center">Approved facilities</td><td align="center"><p>Trained </p><p>vaccinators</p></td><td></td></tr><tr><td align="center">Active status</td><td align="center">Active status</td><td align="center">Location</td><td align="center">Active status</td><td></td></tr><tr><td align="center">Allowed vaccines</td><td align="center">Vaccination schedule</td><td align="center">Active status</td><td align="center"><p>Training </p><p>certificate</p></td><td></td></tr><tr><td align="center">Start and end dates</td><td align="center">Batch deny list</td><td align="center">Vaccination daily rate</td><td align="center"><p>Associated </p><p>facilities</p></td><td></td></tr><tr><td align="center">Certificate templates</td><td align="center">Max retail price</td><td align="center">Total supply</td><td align="center"><p>Rating and </p><p>feedback</p></td><td></td></tr><tr><td align="center"></td><td align="center">Vaccination method</td><td align="center">Rating and feedback</td><td align="center"></td><td></td></tr></tbody></table>
 
 ## Who would typically use this module?&#x20;
 
