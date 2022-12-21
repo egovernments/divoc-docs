@@ -6,10 +6,7 @@
 
 **Time:** 2:00 PM - 3.00 PM IST
 
-**Register at:**
-
-[**https://us06web.zoom.us/webinar/register/WN\_\_4HmKK4hRZCHHrho5j8PBQ**](https://us06web.zoom.us/webinar/register/WN\_\_4HmKK4hRZCHHrho5j8PBQ) **** \
-
+Click [**here**](https://us06web.zoom.us/webinar/register/WN\_\_4HmKK4hRZCHHrho5j8PBQ) **** to register for the webinar.&#x20;
 
 ### **What will be covered**
 
