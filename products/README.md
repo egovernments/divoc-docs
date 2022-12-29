@@ -11,8 +11,8 @@ Each section will cover the different features and services of DIVOC that were i
 * [Sri Lanka](issuing-covid-19-vaccination-certificates-in-sri-lanka.md)
 * [Philippines](issuing-covid-19-vaccination-certificates-in-the-philippines.md)&#x20;
 * [Jamaica](issuing-covid-19-vaccination-certificates-in-jamaica/)
-* [Indonesia](issuing-covid-19-vaccination-certificates-in-indonesia.md)
+* [Indonesia](issuing-covid-19-vaccination-certificates-in-indonesia/)
 
 
 
-_All content on this page by_ [_eGov Foundation_ ](https://egov.org.in/)_is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)_All content on this page by_ [_eGov Foundation_](https://egov.org.in/) _is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
