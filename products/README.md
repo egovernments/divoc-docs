@@ -11,7 +11,7 @@ Each section will cover the different features and services of DIVOC that were i
 * [Sri Lanka](issuing-covid-19-vaccination-certificates-in-sri-lanka.md)
 * [Philippines](issuing-covid-19-vaccination-certificates-in-the-philippines.md)&#x20;
 * [Jamaica](issuing-covid-19-vaccination-certificates-in-jamaica/)
-* [Indonesia](issuing-covid-19-vaccination-certificates-in-indonesia/)
+* [Indonesia](issuing-covid-19-vaccination-certificates-in-indonesia.md)
 
 
 
