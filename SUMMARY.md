@@ -59,6 +59,7 @@
         * [Adding a New Vaccine and its Mapping via ETCD CLI](platform/configuration/configuration-management-via-etcd/eu-vaccine-configurations/adding-a-new-vaccine-and-its-mapping-via-etcd-cli.md)
       * [Payload Changes in the QR Code](platform/configuration/configuration-management-via-etcd/payload-changes-in-the-qr-code/README.md)
         * [Payload Changes in the QR Code via ETCD CLI](platform/configuration/configuration-management-via-etcd/payload-changes-in-the-qr-code/payload-changes-in-the-qr-code-via-etcd-cli.md)
+  * [Troubleshooting Guide](platform/troubleshooting-guide.md)
   * [Performance Report](platform/performance-report.md)
 * [Products](products/README.md)
   * [Issuing COVID-19 Vaccination Certificates in India](products/issuing-covid-19-vaccination-certificates-in-india.md)
