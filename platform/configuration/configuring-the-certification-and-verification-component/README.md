@@ -21,7 +21,7 @@ DIVOC’s certificate module has been adopted for the ongoing COVID-19 vaccinati
 2. [How to configure the certificate generation component?](configuring-certificates/)&#x20;
 3. [How to set up the verification portal for your implementation?](how-to-set-up-the-verification-portal-for-implementation.md)
 4. [How to configure the update certificate API?](how-to-configure-the-update-certificate-api.md)
-5. [Configuring Environment Variables in 2.0](configuring-environment-variables-in-2.0.md)
+5. [Configuring environment variables in 2.0](configuring-environment-variables-in-2.0.md)
 
 
 

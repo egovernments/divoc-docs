@@ -1,11 +1,11 @@
 # Verifiable Credential (VC): Production Deployment V3.0
 
-## Components to be deployed:
+## Components to be deployed
 
 1. DB: Postgres DB
 2. Kafka & Zookeeper: The verifiable credential (VC) generation process is an asynchronous process. The initial VC generation process checks for the validity of the payload and pushes the incoming payload in Kafka queues, which then get consumed and signed asynchronously.
 3. Keycloak: It is the access management service used to restrict the access of resources only to authenticated users.
-4. Registry: Registry by Sunbird-RC is used for tenant creation, schema creation and VC generation, update, and revocation flows. It is also responsible for persistence in DB.
+4. Registry: Registry by Sunbird-RC is used for tenant creation, schema creation, and VC generation, update, and revocation flows. It is also responsible for persistence in DB.
 5. Sunbird-Certificate-signer: This service is used for signing the event payload and it returns a signed credential.
 6. Sunbird-Certificate-API: This service is used for downloading certificates (VCs in JSON+LD format, QR codes, certificates in PDF format, etc).
 7. File-Storage (MinIO): This service is used for storing the uploaded context files, and template files. Either the cloud storage or the volume mounted on the server can be attached and accessed via this service.
@@ -13,7 +13,7 @@
 9. VC-Certification-Service: This is a wrapper service that exposes the rest endpoints of the registry for VC creation, VC download, VC update, VC revoke, etc.
 10. VC-Certify-Consumer: This service has Kafka consumers, which consume an event payload and make a request to the registry for either signing and persisting a new VC or updating and revoking an existing VC record.
 
-## Deployment steps:
+## Deployment steps
 
 1. Set up a DB with the name ‘registry.’ It should be accessible in the k8s cluster.
 2. Set up a Redis server, which should be accessible by DIVOC services in the k8s cluster.

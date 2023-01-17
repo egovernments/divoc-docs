@@ -9,7 +9,7 @@ This section will cover the steps to update the verification component by config
 1. Verification portal home page&#x20;
 2. Verification confirmation page
 
-## Prerequisite: Get details on **on functions used for certificate verification**
+## Prerequisite: Get details **on functions used for certificate verification**
 
 1. The user will be directed to the verification page according to the  route defined in [**this**](https://github.com/egovernments/DIVOC/blob/main/public\_app/src/App.js) file:
 
@@ -124,7 +124,7 @@ Example: Include the beneficiary’s parent name as a mandatory field in the ver
 
 **Note:**
 
-* The ‘recipientParentName’ should match with the key in the QR code Json file available in **** [**main.js**](https://github.com/egovernments/DIVOC/blob/main/backend/certificate\_signer/main.js).
+* The ‘recipientParentName’ should match with the key in the QR code Json file available in the **** [**main.js**](https://github.com/egovernments/DIVOC/blob/main/backend/certificate\_signer/main.js).
 * To remove any value (such as “vaccine type”) from the UI screen, you can remove that parameter in the certification field.
 
 __

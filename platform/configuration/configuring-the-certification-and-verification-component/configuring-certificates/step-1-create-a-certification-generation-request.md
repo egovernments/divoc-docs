@@ -2,7 +2,7 @@
 
 ## Example
 
-Include the beneficiary’s parent name in the certificate. The parent’s name is “Sam Mandosa”. This is a mandatory field.
+Include the beneficiary’s parent name in the certificate. The parent’s name is “Sam Mandosa.” This is a mandatory field.
 
 ## **Steps**
 
@@ -76,7 +76,7 @@ d. If the data is uploaded via CSV, then add this column to the CSV template for
 
 **Note:**
 
-* As a standard practice, we recommend you to update the informative files mentioned in Step 1 of this section.
+* As a standard practice, we recommend you to update the informative files mentioned in step 1 of this section.
 * Make sure the name matches exactly with the name convertToCertifyUploadFields function that you edited in step 1.
 
 ****
