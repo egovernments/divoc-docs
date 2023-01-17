@@ -21,8 +21,8 @@ DIVOC is an open-source platform that can be used to issue and verify certificat
 ### **Need for the EU-DCC adapter service**
 
 * The EU has published technical and operational [**specifications**](https://ec.europa.eu/health/system/files/2021-07/covid-certificate\_equivalence-decision\_en\_0.pdf) **** for third countries to onboard the EU gateway and facilitate smooth travel for their citizens by enabling digital verification of citizens’ COVID-19 vaccine certificates issued by the home country.
-* The key design principles on which DIVOC has been built are “interoperability” and “coexistence.” The EU-DCC adapter has been developed to ensure interoperability and verifiability of the DIVOC’s natively issued certificates with EU verifier apps.
-* This utility was required to facilitate restriction-free travel for residents from DIVOC’s adopter countries by enabling conversion of a DIVOC issued vaccine certificate to an EU-DCC QR code.
+* The key design principles on which DIVOC has been built are 'interoperability' and 'coexistence.' The EU-DCC adapter has been developed to ensure interoperability and verifiability of the DIVOC’s natively issued certificates with EU verifier apps.
+* This utility was required to facilitate restriction-free travel for residents from DIVOC’s adopter countries by enabling conversion of a DIVOC-issued vaccine certificate to an EU-DCC QR code.
 
 ### &#x20;                   **Sample EU-DCC certificate PDF template**
 
@@ -30,7 +30,7 @@ DIVOC is an open-source platform that can be used to issue and verify certificat
 
 ## How does the conversion utility work?
 
-* The utility is an on-demand service enabled by the DIVOC platform. The service can be triggered by using an “export as” function or calling an API for the EU adapter service. The service uses DIVOC’s “fetch service” to fetch an already issued, digitally signed DIVOC certificate post the holder authentication. Once the W3C JSON is fetched, the adapter takes inputs on holder details, vaccine event, and issuer information from the JSON and converts it into an EU-DCC QR code. The EU-DCC QR payload is then digitally signed using the ECDSA cryptographic signature algorithm. DIVOC facilitates digital signing of the QR via a self-signing process, by using a DIVOC generated public-private key pair. Alternatively, it also supports signing the QR code using a public-private key pair issued by a country’s root certificate authority.
+* The utility is an on-demand service enabled by the DIVOC platform. The service can be triggered by using an “export as” function or calling an API for the EU adapter service. The service uses DIVOC’s “fetch service” to fetch an already issued, digitally signed DIVOC certificate post the holder authentication. Once the W3C JSON is fetched, the adapter takes inputs on holder details, vaccine event, and issuer information from the JSON and converts it into an EU-DCC QR code. The EU-DCC QR payload is then digitally signed using the ECDSA cryptographic signature algorithm. DIVOC facilitates the digital signing of the QR via a self-signing process, by using a DIVOC generated public-private key pair. Alternatively, it also supports signing the QR code using a public-private key pair issued by a country’s root certificate authority.
 
 ### **Steps to generate an EU-DCC compliant QR code**
 
@@ -91,7 +91,7 @@ DIVOC is an open-source platform that can be used to issue and verify certificat
 * To check the JSON specifications, click on the link mentioned below: [**https://ec.europa.eu/health/system/files/2021-06/covid-certificate\_json\_specification\_en\_0.pdf**](https://ec.europa.eu/health/system/files/2021-06/covid-certificate\_json\_specification\_en\_0.pdf)**.**
 * For QR code specifications, click on the following link: [**https://ec.europa.eu/health/system/files/2022-02/digital-covid-certificates\_v3\_en\_0.pdf**](https://ec.europa.eu/health/system/files/2022-02/digital-covid-certificates\_v3\_en\_0.pdf).
 * To know the value sets for EU Digital COVID Certificates, click [**here**](https://ec.europa.eu/health/publications/value-sets-eu-digital-covid-certificates-update\_en).
-* Guidelines on verifiable vaccination certificates - basic interoperability elements can be accessed [**here**](https://ec.europa.eu/health/publications/guidelines-verifiable-vaccination-certificates-basic-interoperability-elements\_en).
+* Guidelines on verifiable vaccination certificates - basic interoperability elements, can be accessed [**here**](https://ec.europa.eu/health/publications/guidelines-verifiable-vaccination-certificates-basic-interoperability-elements\_en).
 
 ****
 
