@@ -166,7 +166,7 @@ You will get a 401 status code when the Authentication/Authorisation Bearer toke
 
     \-  Client\_secret as \<Value provided to you during installation>
 * Once the request is sent, you will receive the auth\_token as part of the payload.
-* Modify the ADMIN\_API\_SECRET parameter within divoc-config.yaml file.
+* Modify the ADMIN\_API\_SECRET parameter within the divoc-config.yaml file.
 * Restart all the services using: kubectl rollout restart deployments -n \<namespace of divoc installation>
 
 ### Status Code: 405
@@ -209,6 +209,8 @@ You will get a 401 status code when the Authentication/Authorisation Bearer toke
 &#x20;     \- Check if you are able to generate the certificate.
 
 * If you are still not able to generate certificate, then check the logs of deployments one by one using this command: **kubectl logs -f deployment/\<deployment\_name> -n \<divoc\_namespace>**
+
+****
 
 
 
