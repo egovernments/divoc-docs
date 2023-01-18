@@ -5,7 +5,7 @@ Most useful links:
 * [Release notes](../platform/release-notes/)&#x20;
 * [API documentation](../tech-docs/api-documentation.md)
 * [Setting up DIVOC development environment](../tech-docs/setting-up-divoc-development-environment.md)
-* [Setting up DIVOC](../implementing-divoc/setting-up-divoc/)
+* [Setting up DIVOC in k8 cluster](../platform/installation/setting-up-divoc-in-k8-cluster/)
 * [DIVOC's Certification and Verification Component](../platform/configuration/configuring-the-certification-and-verification-component/)
 * [Configuration management via ETCD](../platform/configuration/configuration-management-via-etcd/)
 * [Source code](https://github.com/egovernments/DIVOC)

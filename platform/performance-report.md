@@ -16,7 +16,7 @@ The following is the Gatling report on the TPS system that was processed with th
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-20 at 12.02.57 PM.png" alt=""><figcaption></figcaption></figure>
 
-Link to the __ map is [**here**](../implementing-divoc/setting-up-divoc/how-to-install-divoc.md#suggested-servers-for-ha-setup).&#x20;
+Link to the __ map is [**here**](installation/setting-up-divoc-in-k8-cluster/how-to-install-divoc.md#suggested-servers-for-ha-setup).&#x20;
 
 __
 

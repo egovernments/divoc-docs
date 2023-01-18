@@ -8,7 +8,7 @@ description: Digital Infrastructure for Verifiable Open Credentialing
 
 ## What is DIVOC?
 
-The <mark style="color:orange;">**Digital Infrastructure**</mark>** for Vaccination Open Credentialing** or <mark style="color:orange;">**DI**</mark>**VOC** is an **open-source platform** that enables countries to digitally orchestrate large-scale health campaigns such as vaccination and certification programs.
+The <mark style="color:orange;">**Digital Infrastructure**</mark>** for Verifiable Open Credentialing** or <mark style="color:orange;">**DI**</mark>**VOC** is an **open-source platform** that enables countries to digitally orchestrate large-scale health campaigns such as vaccination and certification programs.
 
 Learn more about the platform on the [**DIVOC**](https://divoc.dev/) website **** or **** [**Contact us**](https://divoc.dev/#get-in-touch) **** for more details.
 

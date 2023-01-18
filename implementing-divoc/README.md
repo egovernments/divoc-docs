@@ -9,13 +9,13 @@ Setting up DIVOC in your country to orchestrate a new health programme? The guid
 
 ### B. [Implementation Checklist](implementation-checklist.md)
 
-### C. [Setting up DIVOC](setting-up-divoc/)
+### C. [Setting up DIVOC](../platform/installation/setting-up-divoc-in-k8-cluster/)
 
-### D. [Backup & Restore: Postgres, Clickhouse, and Kafka](setting-up-divoc/backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
+### D. [Backup & Restore: Postgres, Clickhouse, and Kafka](../platform/installation/setting-up-divoc-in-k8-cluster/backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
 
-### E. [Infrastructure Recovery](setting-up-divoc/infrastructure-recovery.md)
+### E. [Infrastructure Recovery](../platform/installation/setting-up-divoc-in-k8-cluster/infrastructure-recovery.md)
 
-### F. [Server Hardening](setting-up-divoc/server-hardening.md)
+### F. [Server Hardening](../platform/installation/setting-up-divoc-in-k8-cluster/server-hardening.md)
 
 ### G. [Certificate and Verification Component](../platform/configuration/configuring-the-certification-and-verification-component/)&#x20;
 
