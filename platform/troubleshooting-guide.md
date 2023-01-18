@@ -210,8 +210,34 @@ You will get a 401 status code when the Authentication/Authorisation Bearer toke
 
 * If you are still not able to generate certificate, then check the logs of deployments one by one using this command: **kubectl logs -f deployment/\<deployment\_name> -n \<divoc\_namespace>**
 
+## Common Infrastructure Maintenance Issues
+
+### Pods restart frequently
+
+* If you run **kubectl get pods -n \<divoc-namespace>** and see that the number of pod restarts is high. There can be multiple reasons to pod restarts:
+
+&#x20;     \- CPU limit is exceeded by pods: In this case, modify the deployment by increasing the requests and limits on the CPU.
+
+&#x20;     \- Memory limit is exceeded by pods: In this case, modify the deployment by increasing the requests and limits on memory.
+
+&#x20;     \- Memory issue in the machine on which Kubernetes (worker node) is installed: To address this, one can increase the number of worker nodes or increase the memory of worker nodes and then recreate pods if necessary.
+
+&#x20;     \- Code issue: Sometimes there can be an issue with the code or the configuration might be missing. In such cases, one needs to fix the bug.
+
+### How to apply OS updates or patches on DIVOC infrastructure
+
+Typically, DIVOC infrastructure is built over a cluster of Kubernetes, Kafka, and Postgres. As part of the operations, one of the key tasks of the infrastructure team is to apply security patches and updates to the OS.&#x20;
+
+**Note:** One should never directly log into a machine and apply a patch directly on a cluster of nodes. This should be done only for standalone servers and not cluster-based servers. This problem does not occur in Cloud-managed infrastructure. This is an issue only on self-managed or on-premise infrastructure.
+
+In this section, we will discuss how to apply patches to the cluster without bringing down the application.
+
+The general guidelines when dealing with the cluster are the following:
+
+* Disconnect the server from the cluster.
+* Apply patches to the server.
+* Rejoin the server back to the cluster.
+
 ****
-
-
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)_All content on this page by_ [_eGov Foundation_](https://egov.org.in/) _is licensed under a_ [_Creative Commons Attribution 4.0 International License_](http://creativecommons.org/licenses/by/4.0/)_._
