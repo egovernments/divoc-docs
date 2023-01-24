@@ -22,6 +22,7 @@ description: >-
 * [Release notes 2.0.0](https://github.com/egovernments/DIVOC/releases/tag/2.0.0-generic) (generic) and [2.0 release features](divoc-2.0-release-features.md)
 * [Release notes/features 3.0](divoc-3.0-release-features.md)
 * [Release notes/features 3.1](divoc-3.1-release-features.md)
+* [Release notes/features 3.5](divoc-3.5-release-features.md)
 
 
 

@@ -8,6 +8,7 @@
     * [DIVOC 2.0 Release Features](platform/release-notes/divoc-2.0-release-features.md)
     * [DIVOC 3.0 Release Features](platform/release-notes/divoc-3.0-release-features.md)
     * [DIVOC 3.1 Release Features](platform/release-notes/divoc-3.1-release-features.md)
+    * [DIVOC 3.5 Release Features](platform/release-notes/divoc-3.5-release-features.md)
   * [Specification](tech-docs/README.md)
     * [API Documentation](tech-docs/api-documentation.md)
     * [Setting up DIVOC development environment](tech-docs/setting-up-divoc-development-environment.md)

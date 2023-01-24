@@ -16,7 +16,8 @@ A list of the common terms used in this document:
 * Issuer: Refers to an issuing authority who can issue claims about a particular entity or individual that can be validated. An issuer gathers the information that needs to be contained in the VC from the entities and sends it across to DIVOC through tenant software. Example: Medical Councils.
 * Tenant: Refers to any source system of issuers linked to the DIVOC platform to issue VCs. Examples: Council Software, University software, etc.
 * Source systems: The tenant software that interacts with the DIVOC platform to issue VCs.
-* Schema: A schema is essentially a template that tells the issuer the content, type, and description required for an attribute that needs to be part of the VC.For example, a schema can be as follows with multiple rows for other parameters:
+* Schema: A schema is essentially a template that tells the issuer the content, type, and description required for an attribute that needs to be part of the VC.
+* For example, a schema can be as follows with multiple rows for other parameters:
 
 | Field name      | Type         | Description                                                     | Mandatory |
 | --------------- | ------------ | --------------------------------------------------------------- | --------- |
@@ -26,7 +27,7 @@ A list of the common terms used in this document:
 * S-RC - Sunbird R C: This is a set of configurable, extendable, modular building blocks for learning and human development designed for scale and open-sourced under an MIT license. (Definition courtesy: [**Sunbird**](https://sunbird.org/about-us)**).**
 * UI: User interface.
 
-## New Feature
+## New Features
 
 | Feature             | Description                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
