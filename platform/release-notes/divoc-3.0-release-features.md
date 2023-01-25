@@ -26,7 +26,7 @@ A list of the common terms used in this document:
 * S-RC - Sunbird R C: This is a [**set of configurable, extendable, modular building blocks**](https://sunbird.org/about-us) for learning and human development designed for scale and open-sourced under an MIT license.
 * UI: User interface
 
-## New Features
+## New features
 
 | Feature                                                                  | Description                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

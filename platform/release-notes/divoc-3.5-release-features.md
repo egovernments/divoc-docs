@@ -12,7 +12,7 @@ With this release, the DIVOC platform provides a user interface (UI) for tenants
 
 A list of the common terms used in this document:
 
-* [**Verifiable credentials (VCs)**](https://www.w3.org/TR/vc-data-model/) **** represent information found in physical credentials, such as birth registration and driving license, as well as objects that have no physical equivalent, such as ownership of a bank account. VCs are typically QR codes whose information is being signed and can only be modified by the issuer making it a tamper proof QR code. The QR codes can be read and verified by  the verifiers using the public key issued by the issuer and by using the libraries/algorithms used by the issuer system. When a digital document (for example, a lab test report) has a normal QR code, anyone can modify its value and generate new QR code and then replace it with another QR code with different information. Whereas the information in a verifiable QR code cannot be replaced as the original data or information cannot be changed without a “private key.”
+* [**Verifiable credentials (VCs)**](https://www.w3.org/TR/vc-data-model/) **** represent information found in physical credentials, such as birth registration and driving license, as well as objects that have no physical equivalent, such as ownership of a bank account. VCs are typically QR codes whose information is being signed and can only be modified by the issuer making it a tamper-proof QR code. The QR codes can be read and verified by the verifiers using the public key issued by the issuer and by using the libraries/algorithms used by the issuer system. When a digital document (for example, a lab test report) has a normal QR code, anyone can modify its value and generate a new QR code and then replace it with another QR code with different information. Whereas the information in a verifiable QR code cannot be replaced as the original data or information cannot be changed without a “private key.”
 * Issuer: Refers to an issuing authority who can issue claims about a particular entity or individual that can be validated. An issuer gathers the information that needs to be contained in the VC from the entities and sends it across to DIVOC through tenant software. Example: Medical Councils.
 * Tenant: Refers to any source system of issuers linked to the DIVOC platform to issue VCs. Examples: Council Software, University software, etc.
 * Source systems: The tenant software that interacts with the DIVOC platform to issue VCs.
@@ -32,7 +32,7 @@ A list of the common terms used in this document:
 
 | Enhancement            | Description                                                                                                                                                      |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bug fixes and upgrades | This includes minor changes in certification and management services to support the upgraded Sunbird-registry for updating schema and some UI-specific services. |
+| Bug fixes and upgrades | This includes minor changes in certification and management services to support the upgraded Sunbird registry for updating schema and some UI-specific services. |
 
 
 
