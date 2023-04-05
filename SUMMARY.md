@@ -40,7 +40,6 @@
       * [Backup & Restore: Postgres, Clickhouse, Kafka, & Redis](platform/installation/setting-up-divoc-in-k8-cluster/backup-and-restore-postgres-clickhouse-kafka-and-redis.md)
       * [Infrastructure Recovery](platform/installation/setting-up-divoc-in-k8-cluster/infrastructure-recovery.md)
       * [Server Hardening](platform/installation/setting-up-divoc-in-k8-cluster/server-hardening.md)
-  * [Verifiable Credential (VC): Production Deployment V3.0](platform/verifiable-credential-vc-production-deployment-v3.0.md)
   * [Configuration](platform/configuration/README.md)
     * [Configuring the Certification and Verification Component](platform/configuration/configuring-the-certification-and-verification-component/README.md)
       * [Generating Signed Key Pairs](platform/configuration/configuring-the-certification-and-verification-component/generating-signed-key-pairs.md)
