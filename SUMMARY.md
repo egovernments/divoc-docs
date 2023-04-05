@@ -6,7 +6,6 @@
 * [Platform](platform/README.md)
   * [Release Notes](platform/release-notes/README.md)
     * [DIVOC 2.0 Release Features](platform/release-notes/divoc-2.0-release-features.md)
-    * [DIVOC 3.0 Release Features](platform/release-notes/divoc-3.0-release-features.md)
     * [DIVOC 3.1 Release Features](platform/release-notes/divoc-3.1-release-features.md)
     * [DIVOC 3.5 Release Features](platform/release-notes/divoc-3.5-release-features.md)
   * [Specification](tech-docs/README.md)
